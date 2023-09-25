@@ -1,0 +1,6941 @@
+DAY: 1
+DEFEATED: pride 644866
+DAY: 2
+vegetob at 4,3 with 0 cells died
+DEFEATED: pride 542302
+WINNER: pride 920022 with 17 members 
+vegetob at 41,12 with 0 cells died
+vegetob at 13,40 with 0 cells died
+DEFEATED: pride 744955
+DAY: 3
+DEFEATED: pride 434761
+pride id: 542302 number of members: 0,energy: 0,social attitude: 0.8084 died
+pride id: 644866 number of members: 0,energy: 0,social attitude: 0.0498 died
+WINNER: pride 464202 with 1 members 
+DAY: 4
+pride id: 434761 number of members: 0,energy: 0,social attitude: 0.2286 died
+vegetob at 33,30 with 0 cells died
+pride id: 744955 number of members: 0,energy: 0,social attitude: 0.4191 died
+DAY: 5
+vegetob at 18,38 with 0 cells died
+pride id: 464202 number of members: 0,energy: 0,social attitude: 0.6983 died
+DAY: 6
+vegetob at 43,9 with 0 cells died
+vegetob at 20,24 with 0 cells died
+DAY: 7
+DEFEATED: pride 337086
+vegetob at 48,26 with 0 cells died
+DAY: 8
+DEFEATED: pride 145442
+vegetob at 16,40 with 0 cells died
+DAY: 9
+pride id: 145442 number of members: 0,energy: 0,social attitude: 0.2988 died
+pride: 717680 attacked herd: 833701 and gained: 134
+vegetob at 15,41 with 0 cells died
+DAY: 10
+DAY: 11
+DAY: 12
+DAY: 13
+DAY: 14
+DAY: 15
+DAY: 16
+DAY: 17
+DEFEATED: pride 897859
+DAY: 18
+pride id: 897859 number of members: 0,energy: 0,social attitude: 0.0021 died
+DAY: 19
+DAY: 20
+DAY: 21
+DAY: 22
+DAY: 23
+DAY: 24
+DAY: 25
+DAY: 26
+DAY: 27
+DAY: 28
+DAY: 29
+DAY: 30
+DAY: 31
+DEFEATED: pride 33255
+DAY: 32
+WINNER: pride 810121 with 3 members 
+DAY: 33
+pride id: 33255 number of members: 0,energy: 0,social attitude: 0.9187 died
+DAY: 34
+DAY: 35
+DAY: 36
+pride: 810121 attacked herd: 531880 and gained: 99
+DAY: 37
+DAY: 38
+DAY: 39
+DAY: 40
+DAY: 41
+DAY: 42
+DAY: 43
+DAY: 44
+DAY: 45
+DAY: 46
+DAY: 47
+DAY: 48
+DAY: 49
+DAY: 50
+vegetob at 14,30 with 0 cells died
+DAY: 51
+pride: 155357 attacked herd: 209106 and gained: 79
+herd id: 209106 number of members: 0,energy: 89,social attitude: 0.9413 died
+DAY: 52
+vegetob at 15,26 with 0 cells died
+vegetob at 42,31 with 0 cells died
+DAY: 53
+DAY: 54
+DAY: 55
+pride: 645556 attacked herd: 458736 and gained: 93
+DAY: 56
+pride: 854789 attacked herd: 516867 and gained: 127
+herd id: 458736 number of members: 0,energy: 0,social attitude: 0.5556 died
+DAY: 57
+herd id: 516867 number of members: 0,energy: 0,social attitude: 0.5267 died
+DAY: 58
+DAY: 59
+pride: 237304 attacked herd: 450714 and gained: 144
+herd id: 450714 number of members: 0,energy: 170,social attitude: 0.2574 died
+DAY: 60
+pride: 112452 attacked herd: 963687 and gained: 85
+herd id: 963687 number of members: 0,energy: 92,social attitude: 0.4449 died
+vegetob at 16,41 with 0 cells died
+pride: 325167 attacked herd: 710641 and gained: 68
+DAY: 61
+pride: 591104 attacked herd: 28765 and gained: 83
+pride: 112452 attacked herd: 729428 and gained: 564
+herd id: 710641 number of members: 0,energy: 0,social attitude: 0.6929 died
+DAY: 62
+pride: 538915 attacked herd: 205456 and gained: 77
+herd id: 205456 number of members: 0,energy: 87,social attitude: 0.2328 died
+herd id: 28765 number of members: 0,energy: 0,social attitude: 0.9923 died
+vegetob at 38,17 with 0 cells died
+herd id: 729428 number of members: 0,energy: 0,social attitude: 0.7465 died
+DAY: 63
+DAY: 64
+vegetob at 40,32 with 0 cells died
+pride: 367979 attacked herd: 486286 and gained: 86
+DAY: 65
+vegetob at 13,14 with 0 cells died
+vegetob at 41,18 with 0 cells died
+vegetob at 22,21 with 0 cells died
+pride: 757216 attacked herd: 480694 and gained: 168
+herd id: 480694 number of members: 0,energy: 180,social attitude: 0.4711 died
+vegetob at 13,34 with 0 cells died
+herd id: 486286 number of members: 0,energy: 0,social attitude: 1.0 died
+DAY: 66
+pride: 636119 attacked herd: 551994 and gained: 81
+herd id: 551994 number of members: 0,energy: 88,social attitude: 0.2082 died
+pride: 328963 attacked herd: 641745 and gained: 621
+DAY: 67
+pride: 328963 attacked herd: 641745 and gained: 683
+pride 36311 split
+pride: 36311 attacked herd: 367990 and gained: 155
+vegetob at 14,39 with 0 cells died
+DAY: 68
+pride: 843518 attacked herd: 907654 and gained: 169
+DAY: 69
+vegetob at 26,4 with 0 cells died
+herd id: 907654 number of members: 0,energy: 0,social attitude: 0.4509 died
+vegetob at 47,26 with 0 cells died
+pride: 328963 attacked herd: 641745 and gained: 625
+vegetob at 31,39 with 0 cells died
+pride: 622573 attacked herd: 831198 and gained: 163
+DAY: 70
+herd id: 831198 number of members: 0,energy: 0,social attitude: 0.648 died
+DAY: 71
+vegetob at 40,9 with 0 cells died
+vegetob at 40,20 with 0 cells died
+pride: 551985 attacked herd: 932339 and gained: 461
+DAY: 72
+pride: 717680 attacked herd: 91519 and gained: 57
+pride: 237304 attacked herd: 236275 and gained: 658
+pride: 551985 attacked herd: 932339 and gained: 431
+DAY: 73
+pride: 717680 attacked herd: 91519 and gained: 94
+pride: 920022 attacked herd: 775350 and gained: 175
+vegetob at 44,22 with 0 cells died
+vegetob at 12,24 with 0 cells died
+pride: 112452 attacked herd: 65666 and gained: 558
+DAY: 74
+herd id: 91519 number of members: 0,energy: 0,social attitude: 1.0 died
+herd id: 775350 number of members: 0,energy: 0,social attitude: 0.5292 died
+pride: 614658 attacked herd: 242860 and gained: 800
+pride: 876021 attacked herd: 963378 and gained: 284
+herd id: 65666 number of members: 0,energy: 0,social attitude: 0.915 died
+DAY: 75
+vegetob at 19,36 with 0 cells died
+herd id: 963378 number of members: 0,energy: 0,social attitude: 0.8046 died
+DAY: 76
+vegetob at 41,36 with 0 cells died
+pride: 609408 attacked herd: 625969 and gained: 156
+vegetob at 23,48 with 0 cells died
+DAY: 77
+pride: 614658 attacked herd: 242860 and gained: 378
+herd id: 625969 number of members: 0,energy: 0,social attitude: 0.4848 died
+DAY: 78
+vegetob at 11,3 with 0 cells died
+herd id: 242860 number of members: 0,energy: 0,social attitude: 0.7615 died
+vegetob at 27,19 with 0 cells died
+vegetob at 3,24 with 0 cells died
+DAY: 79
+vegetob at 22,5 with 0 cells died
+pride: 997023 attacked herd: 360669 and gained: 355
+DAY: 80
+pride: 757216 attacked herd: 900578 and gained: 84
+vegetob at 15,38 with 0 cells died
+pride: 155357 attacked herd: 911282 and gained: 745
+DAY: 81
+pride: 538915 attacked herd: 708372 and gained: 83
+herd id: 708372 number of members: 0,energy: 85,social attitude: 0.0784 died
+pride: 10252 attacked herd: 287776 and gained: 976
+herd id: 900578 number of members: 0,energy: 0,social attitude: 0.0706 died
+vegetob at 21,36 with 0 cells died
+vegetob at 43,44 with 0 cells died
+DAY: 82
+vegetob at 18,5 with 0 cells died
+vegetob at 47,10 with 0 cells died
+vegetob at 6,34 with 0 cells died
+pride: 501 attacked herd: 367990 and gained: 676
+pride: 904362 attacked herd: 803565 and gained: 848
+DAY: 83
+vegetob at 47,44 with 0 cells died
+DAY: 84
+vegetob at 19,5 with 0 cells died
+vegetob at 13,23 with 0 cells died
+vegetob at 29,39 with 0 cells died
+pride: 325167 attacked herd: 8378 and gained: 326
+DAY: 85
+pride: 404466 attacked herd: 804906 and gained: 296
+pride: 920022 attacked herd: 2252 and gained: 1329
+DAY: 86
+herd id: 804906 number of members: 0,energy: 0,social attitude: 0.9054 died
+vegetob at 23,4 with 0 cells died
+pride: 614658 attacked herd: 534941 and gained: 187
+pride: 155357 attacked herd: 911282 and gained: 304
+DAY: 87
+herd id: 534941 number of members: 0,energy: 0,social attitude: 0.4864 died
+vegetob at 42,17 with 0 cells died
+vegetob at 3,21 with 0 cells died
+vegetob at 7,33 with 0 cells died
+DAY: 88
+vegetob at 37,7 with 0 cells died
+vegetob at 24,20 with 0 cells died
+pride: 636119 attacked herd: 476795 and gained: 168
+herd id: 476795 number of members: 0,energy: 178,social attitude: 0.8081 died
+pride: 328963 attacked herd: 641745 and gained: 947
+vegetob at 29,38 with 0 cells died
+DAY: 89
+DEFEATED: pride 874302
+DAY: 90
+vegetob at 26,20 with 0 cells died
+vegetob at 44,44 with 0 cells died
+vegetob at 21,46 with 0 cells died
+DAY: 91
+pride: 653146 attacked herd: 609733 and gained: 108
+vegetob at 42,12 with 0 cells died
+vegetob at 42,20 with 0 cells died
+vegetob at 15,21 with 0 cells died
+pride: 876021 attacked herd: 286822 and gained: 2280
+vegetob at 26,32 with 0 cells died
+DAY: 92
+DAY: 93
+vegetob at 6,20 with 0 cells died
+vegetob at 4,30 with 0 cells died
+pride: 854789 attacked herd: 286822 and gained: 468
+pride: 904362 attacked herd: 803565 and gained: 799
+DAY: 94
+vegetob at 26,19 with 0 cells died
+vegetob at 22,40 with 0 cells died
+DAY: 95
+pride 738879 split
+pride: 243470 attacked herd: 206363 and gained: 779
+vegetob at 44,45 with 0 cells died
+pride: 995302 attacked herd: 685713 and gained: 364
+DAY: 96
+vegetob at 10,1 with 0 cells died
+pride: 22500 attacked herd: 932764 and gained: 277
+herd id: 206363 number of members: 0,energy: 0,social attitude: 0.8931 died
+pride 738879 split
+vegetob at 43,17 with 0 cells died
+vegetob at 17,23 with 0 cells died
+vegetob at 5,29 with 0 cells died
+vegetob at 30,36 with 0 cells died
+pride: 112452 attacked herd: 451251 and gained: 1096
+DAY: 97
+herd id: 932764 number of members: 0,energy: 0,social attitude: 0.8138 died
+vegetob at 37,48 with 0 cells died
+DAY: 98
+herd 665923 split
+pride 396213 split
+vegetob at 42,11 with 0 cells died
+vegetob at 43,15 with 0 cells died
+herd 692355 split
+herd 530154 split
+pride: 876021 attacked herd: 286822 and gained: 657
+vegetob at 18,35 with 0 cells died
+pride: 609408 attacked herd: 8378 and gained: 917
+DAY: 99
+vegetob at 16,5 with 0 cells died
+herd 665923 split
+herd 62991 split
+vegetob at 41,19 with 0 cells died
+herd 46148 split
+herd 530154 split
+herd id: 286822 number of members: 0,energy: 0,social attitude: 0.6185 died
+herd 941022 split
+vegetob at 21,47 with 0 cells died
+DAY: 100
+pride: 727510 attacked herd: 150685 and gained: 33
+herd id: 150685 number of members: 0,energy: 86,social attitude: 1.0 died
+pride 821996 split
+pride: 821996 attacked herd: 4131 and gained: 64
+herd 45292 split
+herd 79642 split
+herd 665923 split
+vegetob at 46,10 with 0 cells died
+vegetob at 28,17 with 0 cells died
+herd id: 62991 number of members: 0,energy: 0,social attitude: 0.0594 died
+herd 692355 split
+herd id: 46148 number of members: 0,energy: 0,social attitude: 0.0594 died
+pride 499400 split
+pride: 710074 attacked herd: 673666 and gained: 111
+herd 50562 split
+herd 709697 split
+herd 941022 split
+herd 299741 split
+SAVING WORLD AT DAY 100
+Simulation state saved
+DAY: 101
+pride 738879 split
+pride: 797016 attacked herd: 293256 and gained: 75
+herd id: 4131 number of members: 0,energy: 0,social attitude: 0.0228 died
+herd 12476 split
+pride id: 396213 number of members: 0,energy: 0,social attitude: 0.3107 died
+herd 5946 split
+DEFEATED: pride 95437
+herd 665923 split
+herd 62919 split
+herd id: 673666 number of members: 0,energy: 0,social attitude: 0.948 died
+pride: 757216 attacked herd: 134664 and gained: 159
+herd 50562 split
+pride: 587322 attacked herd: 358747 and gained: 84
+herd 299741 split
+DAY: 102
+vegetob at 24,2 with 0 cells died
+herd 45292 split
+herd 5946 split
+WINNER: pride 97184 with 20 members 
+herd id: 665923 number of members: 0,energy: 0,social attitude: 0.0326 died
+pride 97184 split
+herd id: 62919 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride: 636119 attacked herd: 236275 and gained: 949
+herd id: 134664 number of members: 0,energy: 0,social attitude: 0.5626 died
+herd 50562 split
+pride 893858 split
+pride: 33558 attacked herd: 224324 and gained: 90
+DAY: 103
+herd 45292 split
+herd id: 5946 number of members: 0,energy: 0,social attitude: 0.0295 died
+pride id: 95437 number of members: 0,energy: 0,social attitude: 0.202 died
+herd 91993 split
+herd 692355 split
+herd 95859 split
+herd id: 236275 number of members: 0,energy: 0,social attitude: 0.9388 died
+herd 7998 split
+herd 2430 split
+WINNER: pride 45943 with 1 members 
+WINNER: pride 45943 with 1 members 
+pride 45943 split
+pride: 796996 attacked herd: 111556 and gained: 20
+herd 941022 split
+pride: 995302 attacked herd: 685713 and gained: 62
+DAY: 104
+herd id: 692355 number of members: 0,energy: 0,social attitude: 0.0623 died
+herd id: 95859 number of members: 0,energy: 0,social attitude: 0.0682 died
+vegetob at 30,20 with 0 cells died
+pride: 997023 attacked herd: 56539 and gained: 470
+herd id: 7998 number of members: 0,energy: 0,social attitude: 0.3361 died
+herd 2430 split
+pride id: 893858 number of members: 0,energy: 0,social attitude: 0.1656 died
+WINNER: pride 54980 with 1 members 
+pride id: 45943 number of members: 0,energy: 0,social attitude: 0.1652 died
+vegetob at 19,34 with 0 cells died
+herd 299741 split
+DAY: 105
+herd 3853 split
+herd 38905 split
+pride: 732786 attacked herd: 783957 and gained: 42
+herd 2430 split
+pride: 541090 attacked herd: 530154 and gained: 34
+pride 419107 split
+DAY: 106
+vegetob at 7,4 with 0 cells died
+herd 29501 split
+herd id: 3853 number of members: 0,energy: 0,social attitude: 0.0682 died
+herd 30327 split
+herd 82276 split
+herd id: 783957 number of members: 0,energy: 0,social attitude: 0.9461 died
+herd id: 530154 number of members: 0,energy: 0,social attitude: 0.3427 died
+pride 54980 split
+herd 709697 split
+pride id: 419107 number of members: 0,energy: 0,social attitude: 0.0061 died
+pride 13712 split
+herd 46627 split
+DAY: 107
+pride: 538915 attacked herd: 531880 and gained: 1414
+herd 29501 split
+pride 19695 split
+herd 72654 split
+herd 44402 split
+pride: 997023 attacked herd: 360669 and gained: 289
+herd id: 82276 number of members: 0,energy: 0,social attitude: 0.3376 died
+herd 81955 split
+pride id: 72210 number of members: 0,energy: 0,social attitude: 0.1189 died
+WINNER: pride 38942 with 1 members 
+pride 38942 split
+vegetob at 41,34 with 0 cells died
+herd 709697 split
+WINNER: pride 41064 with 1 members 
+herd 10149 split
+herd 46627 split
+DAY: 108
+pride: 538915 attacked herd: 531880 and gained: 322
+herd id: 531880 number of members: 0,energy: 322,social attitude: 0.5013 died
+pride: 653146 attacked herd: 609733 and gained: 159
+pride id: 19695 number of members: 0,energy: 0,social attitude: 0.3129 died
+pride id: 43963 number of members: 0,energy: 0,social attitude: 0.3129 died
+herd id: 72654 number of members: 0,energy: 0,social attitude: 0.0623 died
+herd id: 44402 number of members: 0,energy: 0,social attitude: 0.0682 died
+vegetob at 31,21 with 0 cells died
+herd id: 81955 number of members: 0,energy: 0,social attitude: 0.3376 died
+pride id: 54980 number of members: 0,energy: 0,social attitude: 0.1652 died
+pride id: 13712 number of members: 0,energy: 0,social attitude: 0.0057 died
+herd id: 10149 number of members: 0,energy: 0,social attitude: 0.066 died
+vegetob at 36,48 with 0 cells died
+DAY: 109
+pride: 920022 attacked herd: 959691 and gained: 424
+herd 32230 split
+pride: 615112 attacked herd: 155341 and gained: 44
+pride id: 38942 number of members: 0,energy: 0,social attitude: 0.1652 died
+pride 41064 split
+pride: 661276 attacked herd: 750678 and gained: 232
+DAY: 110
+herd id: 959691 number of members: 0,energy: 0,social attitude: 0.9533 died
+pride: 528603 attacked herd: 825214 and gained: 124
+herd 95858 split
+pride: 10252 attacked herd: 121595 and gained: 480
+herd id: 32230 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride id: 41064 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 111
+pride: 528603 attacked herd: 825214 and gained: 120
+herd id: 95858 number of members: 0,energy: 0,social attitude: 0.0654 died
+herd 51564 split
+pride: 645556 attacked herd: 358747 and gained: 139
+DAY: 112
+pride: 821996 attacked herd: 151125 and gained: 539
+pride: 619386 attacked herd: 897382 and gained: 10
+pride: 528603 attacked herd: 825214 and gained: 0
+pride: 614658 attacked herd: 786709 and gained: 302
+pride 455053 split
+pride: 455053 attacked herd: 664511 and gained: 15
+herd id: 51564 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride 72412 split
+herd id: 358747 number of members: 0,energy: 0,social attitude: 0.6438 died
+vegetob at 29,48 with 0 cells died
+DAY: 113
+herd id: 786709 number of members: 0,energy: 0,social attitude: 0.7605 died
+vegetob at 24,18 with 0 cells died
+vegetob at 9,29 with 0 cells died
+pride 3801 split
+pride id: 72412 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 114
+pride 738879 split
+pride: 738879 attacked herd: 151125 and gained: 633
+pride: 821996 attacked herd: 151125 and gained: 242
+vegetob at 5,18 with 0 cells died
+herd 9178 split
+vegetob at 6,28 with 0 cells died
+WINNER: pride 40304 with 1 members 
+pride 40304 split
+DEFEATED: pride 40304
+vegetob at 24,38 with 0 cells died
+DAY: 115
+herd 78620 split
+herd id: 9178 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride id: 3801 number of members: 0,energy: 0,social attitude: 0.1652 died
+WINNER: pride 7586 with 1 members 
+WINNER: pride 7586 with 1 members 
+DAY: 116
+vegetob at 39,16 with 0 cells died
+pride 322455 split
+pride: 322455 attacked herd: 866641 and gained: 511
+herd id: 78620 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride id: 40304 number of members: 0,energy: 0,social attitude: 0.1652 died
+vegetob at 35,48 with 0 cells died
+DAY: 117
+pride: 843518 attacked herd: 382767 and gained: 1347
+vegetob at 42,14 with 0 cells died
+pride 16295 split
+vegetob at 36,28 with 0 cells died
+DAY: 118
+vegetob at 40,1 with 0 cells died
+pride 38369 split
+pride: 38369 attacked herd: 866641 and gained: 89
+pride: 88705 attacked herd: 866641 and gained: 265
+herd 58189 split
+pride 7586 split
+WINNER: pride 38095 with 1 members 
+pride 38095 split
+pride: 622573 attacked herd: 367990 and gained: 695
+DAY: 119
+pride: 619386 attacked herd: 897382 and gained: 68
+vegetob at 38,16 with 0 cells died
+herd id: 58189 number of members: 0,energy: 0,social attitude: 0.0682 died
+vegetob at 12,20 with 0 cells died
+pride id: 7586 number of members: 0,energy: 0,social attitude: 0.1652 died
+WINNER: pride 23500 with 1 members 
+WINNER: pride 23500 with 1 members 
+vegetob at 12,36 with 0 cells died
+DAY: 120
+herd id: 897382 number of members: 0,energy: 0,social attitude: 0.945 died
+herd 16583 split
+pride 553022 split
+pride: 553022 attacked herd: 829132 and gained: 18
+pride id: 38095 number of members: 0,energy: 0,social attitude: 0.1652 died
+DAY: 121
+vegetob at 7,18 with 0 cells died
+herd id: 16583 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride 934931 split
+pride: 934931 attacked herd: 645967 and gained: 4
+pride: 757216 attacked herd: 124610 and gained: 958
+pride 17270 split
+pride id: 23500 number of members: 0,energy: 0,social attitude: 0.1652 died
+pride 71216 split
+DAY: 122
+herd 4943 split
+pride 535 split
+pride: 757216 attacked herd: 124610 and gained: 798
+WINNER: pride 96376 with 1 members 
+pride 96376 split
+DAY: 123
+herd id: 4943 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride id: 71216 number of members: 0,energy: 0,social attitude: 0.0057 died
+WINNER: pride 60270 with 1 members 
+WINNER: pride 60270 with 1 members 
+pride 60270 split
+vegetob at 26,46 with 0 cells died
+DAY: 124
+vegetob at 45,14 with 0 cells died
+herd 61452 split
+pride: 876021 attacked herd: 1420 and gained: 1050
+pride: 541090 attacked herd: 284166 and gained: 99
+vegetob at 23,38 with 0 cells died
+DEFEATED: pride 60270
+DAY: 125
+pride: 22500 attacked herd: 293256 and gained: 1155
+herd id: 61452 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride: 614658 attacked herd: 86360 and gained: 37
+pride: 934931 attacked herd: 645967 and gained: 104
+pride: 553022 attacked herd: 829132 and gained: 62
+herd id: 1420 number of members: 0,energy: 0,social attitude: 0.8238 died
+pride id: 96376 number of members: 0,energy: 0,social attitude: 0.0057 died
+vegetob at 12,39 with 0 cells died
+DAY: 126
+pride 63474 split
+pride: 63474 attacked herd: 281291 and gained: 366
+herd id: 86360 number of members: 0,energy: 0,social attitude: 0.0682 died
+vegetob at 32,22 with 0 cells died
+vegetob at 9,30 with 0 cells died
+pride id: 60270 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 127
+pride: 710074 attacked herd: 192356 and gained: 95
+vegetob at 26,34 with 0 cells died
+pride 41900 split
+DAY: 128
+herd id: 192356 number of members: 0,energy: 0,social attitude: 0.9225 died
+vegetob at 40,34 with 0 cells died
+pride id: 41900 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 129
+pride: 22500 attacked herd: 293256 and gained: 747
+pride: 49262 attacked herd: 281291 and gained: 546
+pride: 155357 attacked herd: 709697 and gained: 136
+pride 52485 split
+DAY: 130
+vegetob at 17,22 with 0 cells died
+herd id: 709697 number of members: 0,energy: 0,social attitude: 0.3607 died
+vegetob at 27,37 with 0 cells died
+pride id: 52485 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 131
+DAY: 132
+pride: 60397 attacked herd: 364107 and gained: 632
+vegetob at 12,38 with 0 cells died
+vegetob at 27,38 with 0 cells died
+pride 89412 split
+DAY: 133
+pride: 60397 attacked herd: 364107 and gained: 218
+pride: 553022 attacked herd: 829132 and gained: 84
+pride id: 89412 number of members: 0,energy: 0,social attitude: 0.0057 died
+pride 13380 split
+vegetob at 24,44 with 0 cells died
+DAY: 134
+pride 678 split
+pride: 404466 attacked herd: 439546 and gained: 118
+herd id: 439546 number of members: 0,energy: 148,social attitude: 0.945 died
+WINNER: pride 82626 with 1 members 
+WINNER: pride 82626 with 1 members 
+pride 82626 split
+DAY: 135
+pride: 505466 attacked herd: 8378 and gained: 1265
+pride id: 13380 number of members: 0,energy: 0,social attitude: 0.0057 died
+WINNER: pride 13889 with 1 members 
+pride id: 82626 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 136
+vegetob at 13,36 with 0 cells died
+pride: 155357 attacked herd: 224324 and gained: 77
+DAY: 137
+vegetob at 44,17 with 0 cells died
+vegetob at 6,18 with 0 cells died
+pride 13889 split
+DAY: 138
+pride: 898817 attacked herd: 367385 and gained: 94
+herd id: 224324 number of members: 0,energy: 0,social attitude: 0.9 died
+pride id: 13889 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 139
+vegetob at 14,3 with 0 cells died
+pride: 22500 attacked herd: 293256 and gained: 757
+pride 678 split
+herd id: 367385 number of members: 0,energy: 0,social attitude: 0.9461 died
+vegetob at 24,39 with 0 cells died
+pride 47665 split
+DAY: 140
+pride 678 split
+pride 678 split
+WINNER: pride 57914 with 1 members 
+DAY: 141
+pride id: 47665 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 142
+pride 57914 split
+WINNER: pride 70725 with 1 members 
+pride 70725 split
+DAY: 143
+vegetob at 41,31 with 0 cells died
+vegetob at 23,39 with 0 cells died
+DEFEATED: pride 70725
+DAY: 144
+pride 91947 split
+vegetob at 13,5 with 0 cells died
+pride: 455053 attacked herd: 664511 and gained: 106
+pride id: 57914 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 145
+vegetob at 45,29 with 0 cells died
+pride: 710074 attacked herd: 124610 and gained: 1417
+vegetob at 12,35 with 0 cells died
+pride id: 70725 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 146
+pride id: 48885 number of members: 0,energy: 0,social attitude: 0.8998 died
+pride 91947 split
+pride 91947 split
+pride: 91947 attacked herd: 151125 and gained: 40
+pride 50167 split
+vegetob at 11,16 with 0 cells died
+pride: 404466 attacked herd: 121595 and gained: 1603
+pride 14727 split
+DAY: 147
+pride: 404466 attacked herd: 825214 and gained: 1234
+vegetob at 39,18 with 0 cells died
+pride: 322455 attacked herd: 866641 and gained: 2110
+herd id: 124610 number of members: 0,energy: 0,social attitude: 0.4411 died
+vegetob at 21,41 with 0 cells died
+DAY: 148
+pride 91947 split
+pride 60630 split
+pride: 614658 attacked herd: 997464 and gained: 1586
+vegetob at 45,30 with 0 cells died
+pride id: 14727 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 149
+pride 91947 split
+pride: 155357 attacked herd: 76315 and gained: 162
+DAY: 150
+vegetob at 12,17 with 0 cells died
+herd id: 76315 number of members: 0,energy: 0,social attitude: 0.1524 died
+DAY: 151
+pride 91947 split
+pride 67257 split
+DAY: 152
+pride 91947 split
+pride 91947 split
+vegetob at 33,21 with 0 cells died
+vegetob at 33,35 with 0 cells died
+pride 94165 split
+DAY: 153
+pride 34307 split
+pride 36234 split
+WINNER: pride 49301 with 1 members 
+pride 49301 split
+DAY: 154
+vegetob at 6,19 with 0 cells died
+vegetob at 21,40 with 0 cells died
+pride id: 49301 number of members: 0,energy: 0,social attitude: 0.0057 died
+WINNER: pride 90203 with 1 members 
+WINNER: pride 90203 with 1 members 
+pride 90203 split
+DAY: 155
+pride: 22500 attacked herd: 293256 and gained: 1936
+pride 91947 split
+vegetob at 40,33 with 0 cells died
+vegetob at 11,35 with 0 cells died
+pride id: 94165 number of members: 0,energy: 0,social attitude: 0.0057 died
+WINNER: pride 40929 with 1 members 
+pride id: 90203 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 156
+vegetob at 27,2 with 0 cells died
+pride: 322455 attacked herd: 866641 and gained: 1775
+herd 825214 split
+pride: 110842 attacked herd: 997464 and gained: 44
+DAY: 157
+herd 825214 split
+herd 825214 split
+pride 40929 split
+vegetob at 18,46 with 0 cells died
+DAY: 158
+vegetob at 28,4 with 0 cells died
+pride 91947 split
+pride id: 40929 number of members: 0,energy: 0,social attitude: 0.0057 died
+DAY: 159
+pride 91947 split
+pride 8046 split
+pride: 404466 attacked herd: 825214 and gained: 884
+pride: 112452 attacked herd: 501939 and gained: 2284
+DAY: 160
+pride 91947 split
+herd 322600 split
+herd 11536 split
+herd 99738 split
+pride: 112452 attacked herd: 501939 and gained: 1367
+herd id: 501939 number of members: 0,energy: 1802,social attitude: 0.4749 died
+DAY: 161
+pride 20997 split
+pride: 20997 attacked herd: 151125 and gained: 18
+pride 95526 split
+pride 36234 split
+herd 99738 split
+DAY: 162
+pride: 20997 attacked herd: 151125 and gained: 68
+pride 91947 split
+vegetob at 14,15 with 0 cells died
+herd 121595 split
+herd 322600 split
+herd 23997 split
+vegetob at 31,37 with 0 cells died
+pride: 505466 attacked herd: 8378 and gained: 1548
+DAY: 163
+pride id: 402641 number of members: 0,energy: 0,social attitude: 0.533 died
+pride 15533 split
+pride 95526 split
+vegetob at 6,29 with 0 cells died
+DAY: 164
+pride 90434 split
+vegetob at 47,7 with 0 cells died
+vegetob at 34,11 with 0 cells died
+herd 155341 split
+vegetob at 21,45 with 0 cells died
+DAY: 165
+pride 15533 split
+herd 155341 split
+herd 155341 split
+pride: 636119 attacked herd: 322600 and gained: 1989
+herd 41184 split
+vegetob at 39,33 with 0 cells died
+DAY: 166
+vegetob at 28,2 with 0 cells died
+pride 20997 split
+DEFEATED: pride 77434
+pride 33234 split
+herd 155341 split
+herd 322600 split
+herd 47003 split
+pride: 328963 attacked herd: 8378 and gained: 1807
+DAY: 167
+pride id: 77434 number of members: 0,energy: 0,social attitude: 0.1663 died
+herd 155341 split
+pride: 551985 attacked herd: 932339 and gained: 589
+DAY: 168
+pride id: 33234 number of members: 0,energy: -13,social attitude: 0.1646 died
+pride: 60397 attacked herd: 364107 and gained: 257
+herd 322600 split
+herd 64587 split
+vegetob at 35,26 with 0 cells died
+vegetob at 29,34 with 0 cells died
+pride: 609408 attacked herd: 997004 and gained: 1334
+vegetob at 13,37 with 0 cells died
+DAY: 169
+pride: 538915 attacked herd: 611544 and gained: 1422
+herd 155341 split
+herd 47003 split
+herd 76617 split
+pride: 551985 attacked herd: 932339 and gained: 555
+DAY: 170
+herd id: 611544 number of members: 0,energy: 0,social attitude: 0.9335 died
+herd 866641 split
+vegetob at 19,18 with 0 cells died
+herd id: 47003 number of members: 0,energy: 0,social attitude: 0.2632 died
+vegetob at 47,29 with 0 cells died
+DAY: 171
+herd 155341 split
+herd 155341 split
+pride: 609408 attacked herd: 997004 and gained: 92
+pride: 551985 attacked herd: 932339 and gained: 687
+herd 932339 split
+DAY: 172
+pride: 91947 attacked herd: 151125 and gained: 811
+pride: 110842 attacked herd: 997464 and gained: 39
+herd 155341 split
+herd 155341 split
+vegetob at 46,30 with 0 cells died
+herd id: 997004 number of members: 0,energy: 0,social attitude: 0.9142 died
+herd 932339 split
+DAY: 173
+herd 155341 split
+herd 155341 split
+vegetob at 38,34 with 0 cells died
+herd 932339 split
+DAY: 174
+herd 825214 split
+pride: 328963 attacked herd: 8378 and gained: 117
+herd 932339 split
+DAY: 175
+herd 322600 split
+pride: 934931 attacked herd: 645967 and gained: 78
+herd id: 8378 number of members: 0,energy: 0,social attitude: 0.7936 died
+herd 932339 split
+herd 932339 split
+DAY: 176
+herd 825214 split
+vegetob at 14,19 with 0 cells died
+herd 155341 split
+pride: 636119 attacked herd: 322600 and gained: 1334
+DAY: 177
+pride: 404466 attacked herd: 825214 and gained: 721
+vegetob at 44,21 with 0 cells died
+herd id: 71530 number of members: 0,energy: 0,social attitude: 0.3199 died
+herd id: 322600 number of members: 0,energy: 0,social attitude: 0.4387 died
+herd 932339 split
+herd 932339 split
+DAY: 178
+pride: 843518 attacked herd: 293256 and gained: 1294
+vegetob at 35,44 with 0 cells died
+DAY: 179
+herd id: 293256 number of members: 0,energy: 0,social attitude: 0.6089 died
+herd 255993 split
+DAY: 180
+herd 382767 split
+vegetob at 48,6 with 0 cells died
+vegetob at 48,21 with 0 cells died
+DAY: 181
+vegetob at 2,20 with 0 cells died
+vegetob at 13,20 with 0 cells died
+vegetob at 19,46 with 0 cells died
+DAY: 182
+vegetob at 46,28 with 0 cells died
+DAY: 183
+vegetob at 37,13 with 0 cells died
+herd 255993 split
+herd 111556 split
+DAY: 184
+herd 866641 split
+vegetob at 48,22 with 0 cells died
+vegetob at 29,25 with 0 cells died
+DAY: 185
+herd 866641 split
+pride: 505466 attacked herd: 111556 and gained: 1566
+DAY: 186
+pride: 155357 attacked herd: 284166 and gained: 659
+pride: 904362 attacked herd: 299741 and gained: 206
+herd id: 299741 number of members: 0,energy: 170,social attitude: 0.2822 died
+DAY: 187
+herd 21531 split
+herd id: 111556 number of members: 0,energy: 0,social attitude: 0.4194 died
+DAY: 188
+pride: 243470 attacked herd: 609733 and gained: 1517
+herd 21531 split
+herd 155341 split
+pride: 614658 attacked herd: 425024 and gained: 344
+pride: 328963 attacked herd: 284166 and gained: 2223
+DAY: 189
+pride: 49262 attacked herd: 151125 and gained: 513
+herd 21531 split
+herd id: 425024 number of members: 0,energy: 0,social attitude: 0.9142 died
+DAY: 190
+herd id: 151125 number of members: 0,energy: 0,social attitude: 0.9456 died
+vegetob at 36,12 with 0 cells died
+herd 360669 split
+DAY: 191
+vegetob at 22,18 with 0 cells died
+herd 360669 split
+vegetob at 45,21 with 0 cells died
+DAY: 192
+vegetob at 27,3 with 0 cells died
+herd 9302 split
+herd 360669 split
+pride: 732786 attacked herd: 255993 and gained: 126
+vegetob at 18,47 with 0 cells died
+DAY: 193
+herd 89059 split
+DAY: 194
+vegetob at 35,12 with 0 cells died
+herd 360669 split
+vegetob at 36,43 with 0 cells died
+DAY: 195
+herd 360669 split
+pride: 732786 attacked herd: 255993 and gained: 92
+pride: 501 attacked herd: 79712 and gained: 75
+DAY: 196
+vegetob at 20,19 with 0 cells died
+vegetob at 4,20 with 0 cells died
+herd 360669 split
+herd 89059 split
+herd 2225 split
+pride: 501 attacked herd: 932339 and gained: 742
+DAY: 197
+vegetob at 47,4 with 0 cells died
+pride: 22500 attacked herd: 664511 and gained: 121
+herd 57241 split
+pride: 501 attacked herd: 18299 and gained: 160
+DAY: 198
+pride: 538915 attacked herd: 27436 and gained: 542
+herd id: 664511 number of members: 0,energy: 0,social attitude: 0.9461 died
+herd 360669 split
+pride: 997023 attacked herd: 42778 and gained: 123
+herd 57241 split
+pride: 501 attacked herd: 16581 and gained: 114
+DAY: 199
+herd id: 27436 number of members: 0,energy: 0,social attitude: 0.6162 died
+pride: 636119 attacked herd: 366254 and gained: 1393
+pride: 501 attacked herd: 60463 and gained: 81
+herd id: 60463 number of members: 0,energy: 76,social attitude: 0.406 died
+DAY: 200
+herd 866641 split
+herd id: 366254 number of members: 0,energy: 0,social attitude: 0.9501 died
+pride: 499400 attacked herd: 164639 and gained: 40
+herd id: 164639 number of members: 0,energy: 90,social attitude: 0.9385 died
+SAVING WORLD AT DAY 200
+Simulation state saved
+DAY: 201
+herd 20038 split
+vegetob at 3,20 with 0 cells died
+vegetob at 40,38 with 0 cells died
+DAY: 202
+pride: 404466 attacked herd: 121595 and gained: 843
+pride: 997023 attacked herd: 775095 and gained: 236
+vegetob at 35,28 with 0 cells died
+DAY: 203
+herd 360669 split
+herd 360669 split
+herd 20038 split
+DAY: 204
+pride: 920022 attacked herd: 153181 and gained: 226
+DAY: 205
+herd id: 153181 number of members: 0,energy: 0,social attitude: 0.9343 died
+vegetob at 45,23 with 0 cells died
+DAY: 206
+vegetob at 32,9 with 0 cells died
+vegetob at 44,25 with 0 cells died
+pride: 501 attacked herd: 65643 and gained: 86
+herd id: 65643 number of members: 0,energy: 81,social attitude: 0.4764 died
+DAY: 207
+pride 455053 split
+pride 455053 split
+pride: 501 attacked herd: 367990 and gained: 2006
+herd 367990 split
+herd 367990 split
+pride: 904362 attacked herd: 803565 and gained: 881
+DAY: 208
+pride 50600 split
+pride 91675 split
+vegetob at 44,26 with 0 cells died
+herd id: 803565 number of members: 0,energy: 0,social attitude: 0.9293 died
+DAY: 209
+pride 455053 split
+pride: 997023 attacked herd: 360669 and gained: 266
+pride 455053 split
+pride: 615112 attacked herd: 155341 and gained: 70
+DAY: 210
+pride 455053 split
+DAY: 211
+pride id: 455053 number of members: 0,energy: 0,social attitude: 0.0886 died
+pride: 499400 attacked herd: 216921 and gained: 135
+DAY: 212
+pride: 60397 attacked herd: 281291 and gained: 325
+DAY: 213
+pride: 997023 attacked herd: 360669 and gained: 273
+vegetob at 40,37 with 0 cells died
+DAY: 214
+herd 367990 split
+DAY: 215
+DAY: 216
+pride: 404466 attacked herd: 825214 and gained: 1139
+herd 360669 split
+herd 367990 split
+DAY: 217
+DAY: 218
+pride: 22500 attacked herd: 360669 and gained: 1914
+DAY: 219
+pride: 22500 attacked herd: 775095 and gained: 1531
+pride: 328963 attacked herd: 284166 and gained: 2188
+herd 367990 split
+DAY: 220
+vegetob at 43,27 with 0 cells died
+herd id: 284166 number of members: 0,energy: 0,social attitude: 0.2044 died
+DAY: 221
+herd 367990 split
+vegetob at 37,44 with 0 cells died
+DAY: 222
+DAY: 223
+herd 367990 split
+DAY: 224
+vegetob at 2,16 with 0 cells died
+pride: 757216 attacked herd: 188136 and gained: 562
+herd 367990 split
+herd 367990 split
+DAY: 225
+herd id: 188136 number of members: 0,energy: 0,social attitude: 0.9225 died
+herd 367990 split
+vegetob at 19,48 with 0 cells died
+DAY: 226
+DAY: 227
+DAY: 228
+DAY: 229
+DAY: 230
+DAY: 231
+DAY: 232
+vegetob at 1,15 with 0 cells died
+vegetob at 48,29 with 0 cells died
+herd 367990 split
+herd 367990 split
+DAY: 233
+pride: 538915 attacked herd: 378815 and gained: 1895
+vegetob at 18,45 with 0 cells died
+DAY: 234
+vegetob at 48,5 with 0 cells died
+herd 825214 split
+pride: 322455 attacked herd: 20038 and gained: 906
+herd 367990 split
+vegetob at 36,45 with 0 cells died
+DAY: 235
+herd id: 20038 number of members: 0,energy: 0,social attitude: 0.6856 died
+DAY: 236
+herd 825214 split
+pride: 112452 attacked herd: 750678 and gained: 2301
+DAY: 237
+pride: 538915 attacked herd: 378815 and gained: 1258
+DAY: 238
+pride: 538915 attacked herd: 378815 and gained: 759
+herd 825214 split
+DAY: 239
+DAY: 240
+herd 825214 split
+herd 825214 split
+herd 255993 split
+herd 255993 split
+DAY: 241
+herd 255993 split
+herd 255993 split
+DAY: 242
+herd 255993 split
+herd 367990 split
+DAY: 243
+herd 825214 split
+herd 155341 split
+herd 155341 split
+vegetob at 43,28 with 0 cells died
+pride: 553022 attacked herd: 829132 and gained: 175
+DAY: 244
+pride: 243470 attacked herd: 609733 and gained: 2276
+herd 609733 split
+herd 255993 split
+DAY: 245
+herd 825214 split
+pride: 614658 attacked herd: 406427 and gained: 645
+herd 255993 split
+DAY: 246
+pride: 538915 attacked herd: 378815 and gained: 710
+herd 155341 split
+herd id: 406427 number of members: 0,energy: 0,social attitude: 0.9397 died
+DAY: 247
+vegetob at 25,1 with 0 cells died
+herd 825214 split
+herd 155341 split
+herd 255993 split
+pride: 112452 attacked herd: 437874 and gained: 2484
+herd 437874 split
+herd 437874 split
+DAY: 248
+vegetob at 46,19 with 0 cells died
+vegetob at 42,29 with 0 cells died
+herd 255993 split
+DAY: 249
+herd 825214 split
+herd 155341 split
+DAY: 250
+vegetob at 30,9 with 0 cells died
+herd 750678 split
+herd 437874 split
+DAY: 251
+herd 825214 split
+herd 155341 split
+herd 367990 split
+herd 55507 split
+DAY: 252
+vegetob at 21,18 with 0 cells died
+herd 255993 split
+herd 74048 split
+herd 255993 split
+herd 750678 split
+herd 437874 split
+herd 55507 split
+DAY: 253
+herd 825214 split
+pride: 22500 attacked herd: 775095 and gained: 680
+herd 155341 split
+herd 255993 split
+herd 255993 split
+herd 367990 split
+herd 367990 split
+DAY: 254
+herd 665069 split
+herd id: 775095 number of members: 0,energy: 0,social attitude: 0.4146 died
+herd 155341 split
+herd 437874 split
+herd 46000 split
+DAY: 255
+vegetob at 31,9 with 0 cells died
+vegetob at 1,14 with 0 cells died
+herd 825214 split
+herd 255993 split
+DAY: 256
+herd 665069 split
+herd 34351 split
+herd 437874 split
+DAY: 257
+herd 825214 split
+herd 825214 split
+herd 665069 split
+herd 255993 split
+herd 46000 split
+pride: 112452 attacked herd: 437874 and gained: 1604
+herd id: 437874 number of members: 0,energy: 2047,social attitude: 0.2263 died
+DAY: 258
+pride: 243470 attacked herd: 42193 and gained: 577
+herd 155341 split
+herd 155341 split
+herd 155341 split
+herd 255993 split
+herd 63890 split
+herd 174529 split
+DAY: 259
+herd id: 42193 number of members: 0,energy: 0,social attitude: 0.4182 died
+vegetob at 2,13 with 0 cells died
+herd 255993 split
+herd 255993 split
+DAY: 260
+herd 665069 split
+herd 665069 split
+herd 155341 split
+herd 155341 split
+herd 155341 split
+vegetob at 46,33 with 0 cells died
+DAY: 261
+DAY: 262
+herd 825214 split
+herd 665069 split
+herd 155341 split
+pride: 322455 attacked herd: 57241 and gained: 440
+herd 255993 split
+herd 174529 split
+DAY: 263
+herd 665069 split
+herd 155341 split
+herd 6725 split
+herd id: 57241 number of members: 0,energy: 0,social attitude: 0.9456 died
+vegetob at 35,27 with 0 cells died
+DAY: 264
+herd 825214 split
+pride: 22500 attacked herd: 21475 and gained: 249
+herd id: 21475 number of members: 0,energy: 154,social attitude: 0.1697 died
+herd 255993 split
+pride: 904362 attacked herd: 911282 and gained: 1829
+DAY: 265
+herd 155341 split
+herd 98714 split
+herd 367990 split
+herd 367990 split
+DAY: 266
+vegetob at 30,10 with 0 cells died
+herd 825214 split
+herd 255993 split
+herd 367990 split
+DAY: 267
+herd 665069 split
+herd 155341 split
+herd 155341 split
+herd 155341 split
+herd 367990 split
+herd 367990 split
+DAY: 268
+vegetob at 19,1 with 0 cells died
+herd 825214 split
+herd 825214 split
+herd 155341 split
+herd 255993 split
+herd 367990 split
+herd 367990 split
+herd 174529 split
+herd 174529 split
+DAY: 269
+herd 825214 split
+herd 255993 split
+herd 85711 split
+vegetob at 35,29 with 0 cells died
+DAY: 270
+vegetob at 3,29 with 0 cells died
+herd 367990 split
+herd 367990 split
+herd 174529 split
+herd 174529 split
+herd 174529 split
+herd 174529 split
+herd 174529 split
+DAY: 271
+herd 825214 split
+pride: 110842 attacked herd: 997464 and gained: 91
+herd 255993 split
+herd 367990 split
+herd 367990 split
+DAY: 272
+pride: 757216 attacked herd: 216921 and gained: 899
+herd 155341 split
+herd 255993 split
+herd 7156 split
+herd 367990 split
+herd 367990 split
+herd 174529 split
+pride: 904362 attacked herd: 911282 and gained: 1873
+DAY: 273
+pride: 60397 attacked herd: 154192 and gained: 615
+herd 825214 split
+herd id: 216921 number of members: 0,energy: 0,social attitude: 0.9091 died
+herd 255993 split
+herd 255993 split
+herd 7156 split
+pride: 501 attacked herd: 30334 and gained: 216
+herd id: 30334 number of members: 0,energy: 146,social attitude: 0.1759 died
+DAY: 274
+vegetob at 18,2 with 0 cells died
+herd 2252 split
+herd 825214 split
+herd 825214 split
+herd 58910 split
+herd 46063 split
+herd 58910 split
+herd 255993 split
+herd 25499 split
+DAY: 275
+pride: 60397 attacked herd: 154192 and gained: 445
+herd 825214 split
+herd 825214 split
+herd 155341 split
+herd 82690 split
+herd 155341 split
+herd 255993 split
+vegetob at 1,31 with 0 cells died
+pride: 876021 attacked herd: 25499 and gained: 811
+herd 367990 split
+DAY: 276
+vegetob at 3,11 with 0 cells died
+herd 825214 split
+herd 825214 split
+herd 255993 split
+herd 47289 split
+herd id: 25499 number of members: 0,energy: 0,social attitude: 0.3729 died
+herd 367990 split
+herd 367990 split
+herd 685713 split
+DAY: 277
+herd 825214 split
+herd 155341 split
+herd 155341 split
+herd 46063 split
+herd 155341 split
+herd 44427 split
+herd 34193 split
+herd 174529 split
+herd 174529 split
+herd 174529 split
+DAY: 278
+herd 825214 split
+herd 825214 split
+herd 18333 split
+pride: 876021 attacked herd: 255993 and gained: 614
+herd 82670 split
+DAY: 279
+herd 89417 split
+herd id: 255993 number of members: 0,energy: 0,social attitude: 0.463 died
+herd 367990 split
+DAY: 280
+pride: 404466 attacked herd: 825214 and gained: 1192
+herd 155341 split
+herd 155341 split
+herd 155341 split
+herd 12061 split
+herd 685713 split
+herd 685713 split
+DAY: 281
+vegetob at 17,1 with 0 cells died
+herd 155341 split
+herd 18072 split
+herd 367990 split
+herd 22228 split
+herd 12061 split
+herd 685713 split
+herd 73562 split
+herd 174529 split
+DAY: 282
+herd 38370 split
+herd 18333 split
+herd 44427 split
+herd 35157 split
+herd 35157 split
+pride: 904362 attacked herd: 911282 and gained: 1108
+herd 9140 split
+DAY: 283
+herd 155341 split
+herd 61177 split
+herd 44427 split
+pride: 322455 attacked herd: 926756 and gained: 2473
+pride: 876021 attacked herd: 35157 and gained: 124
+herd 367990 split
+herd id: 911282 number of members: 0,energy: 0,social attitude: 0.5118 died
+herd 174529 split
+pride: 328963 attacked herd: 174529 and gained: 1324
+DAY: 284
+vegetob at 3,9 with 0 cells died
+herd 15373 split
+herd 155341 split
+vegetob at 43,26 with 0 cells died
+herd id: 35157 number of members: 0,energy: 0,social attitude: 0.3613 died
+vegetob at 44,34 with 0 cells died
+herd id: 174529 number of members: 0,energy: 0,social attitude: 0.1513 died
+DAY: 285
+herd 665069 split
+herd 665069 split
+herd 18072 split
+herd 18072 split
+herd 367990 split
+herd 95182 split
+DEFEATED: pride 645556
+WINNER: pride 622573 with 43 members 
+DAY: 286
+pride: 876021 attacked herd: 15724 and gained: 574
+herd 92987 split
+pride id: 645556 number of members: 0,energy: 0,social attitude: 0.5878 died
+herd 9140 split
+DAY: 287
+herd 665069 split
+herd 665069 split
+herd 85329 split
+herd id: 15724 number of members: 0,energy: 0,social attitude: 0.4873 died
+herd 367990 split
+vegetob at 36,46 with 0 cells died
+DAY: 288
+herd 825214 split
+herd 155341 split
+herd 95182 split
+DAY: 289
+herd 367990 split
+herd 95182 split
+DAY: 290
+vegetob at 36,34 with 0 cells died
+herd 95182 split
+DAY: 291
+vegetob at 27,10 with 0 cells died
+herd 155341 split
+herd 367990 split
+herd 64808 split
+DAY: 292
+herd 665069 split
+herd 155341 split
+pride: 501 attacked herd: 367990 and gained: 1609
+herd id: 367990 number of members: 0,energy: 2030,social attitude: 0.1963 died
+herd 64808 split
+DAY: 293
+herd 155341 split
+herd 48353 split
+herd 18333 split
+herd 64808 split
+DAY: 294
+herd 665069 split
+herd 71997 split
+pride: 636119 attacked herd: 155341 and gained: 1306
+herd id: 155341 number of members: 0,energy: 1350,social attitude: 0.2005 died
+herd 77070 split
+herd 64808 split
+DAY: 295
+vegetob at 27,11 with 0 cells died
+herd 18333 split
+herd 77070 split
+herd 9140 split
+DAY: 296
+vegetob at 1,8 with 0 cells died
+herd 77070 split
+herd 23616 split
+DAY: 297
+herd 23616 split
+DAY: 298
+pride: 636119 attacked herd: 18333 and gained: 290
+herd 75144 split
+herd 23616 split
+herd 41579 split
+herd 42142 split
+DAY: 299
+herd 825214 split
+herd 825214 split
+herd id: 18333 number of members: 0,energy: 0,social attitude: 0.1706 died
+vegetob at 47,35 with 0 cells died
+herd 46751 split
+herd 41995 split
+herd 41579 split
+herd 41622 split
+DAY: 300
+herd 825214 split
+herd 88941 split
+herd 75144 split
+herd 41579 split
+SAVING WORLD AT DAY 300
+Simulation state saved
+DAY: 301
+vegetob at 2,8 with 0 cells died
+pride: 538915 attacked herd: 378815 and gained: 425
+vegetob at 35,33 with 0 cells died
+pride: 934931 attacked herd: 645967 and gained: 80
+herd 80100 split
+herd 46751 split
+herd 88941 split
+herd 41995 split
+herd 1751 split
+herd 42563 split
+herd 37634 split
+herd 87122 split
+DAY: 302
+herd id: 378815 number of members: 0,energy: 0,social attitude: 0.9533 died
+vegetob at 46,36 with 0 cells died
+herd 80100 split
+herd id: 46751 number of members: 0,energy: 0,social attitude: 0.1666 died
+herd 19512 split
+herd 1751 split
+herd 18865 split
+herd 87122 split
+DAY: 303
+herd 18865 split
+herd 77649 split
+herd 23616 split
+herd 94 split
+herd 37634 split
+herd 42563 split
+DAY: 304
+herd 80100 split
+herd 38179 split
+herd 4678 split
+herd 86000 split
+herd 77649 split
+herd 23616 split
+herd 94 split
+herd 15163 split
+herd 42563 split
+DAY: 305
+herd 825214 split
+herd 665069 split
+herd 80100 split
+herd id: 4678 number of members: 0,energy: 0,social attitude: 0.1097 died
+herd id: 77649 number of members: 0,energy: 0,social attitude: 0.107 died
+herd 94 split
+DAY: 306
+vegetob at 13,1 with 0 cells died
+herd 825214 split
+vegetob at 41,24 with 0 cells died
+vegetob at 24,26 with 0 cells died
+herd 49000 split
+herd 23450 split
+herd 39784 split
+herd id: 94 number of members: 0,energy: 0,social attitude: 0.1164 died
+DAY: 307
+herd 665069 split
+herd 57123 split
+DAY: 308
+herd 665069 split
+herd 71204 split
+herd 39784 split
+herd 9189 split
+herd 56260 split
+herd 56260 split
+DAY: 309
+vegetob at 1,12 with 0 cells died
+herd 665069 split
+herd 88040 split
+herd 71204 split
+herd 9140 split
+herd 27616 split
+DAY: 310
+herd 665069 split
+pride: 614658 attacked herd: 645967 and gained: 1266
+herd 88040 split
+herd 23365 split
+herd 64993 split
+herd 56260 split
+DAY: 311
+herd 665069 split
+herd 23365 split
+herd 48571 split
+pride: 328963 attacked herd: 9140 and gained: 1398
+herd id: 9140 number of members: 0,energy: 1712,social attitude: 0.1928 died
+DAY: 312
+herd 665069 split
+herd 665069 split
+DAY: 313
+herd 825214 split
+DAY: 314
+pride: 404466 attacked herd: 665069 and gained: 1955
+herd 56260 split
+DAY: 315
+herd 665069 split
+herd 30379 split
+herd 6806 split
+DAY: 316
+herd 665069 split
+herd 30379 split
+herd 72968 split
+DAY: 317
+DAY: 318
+vegetob at 14,2 with 0 cells died
+herd 665069 split
+herd 92081 split
+DAY: 319
+DAY: 320
+herd 665069 split
+DAY: 321
+herd 10654 split
+DAY: 322
+pride 920022 split
+herd 665069 split
+herd 92081 split
+herd 10654 split
+herd 64993 split
+DAY: 323
+herd 10654 split
+herd 89082 split
+DAY: 324
+pride 13311 split
+herd 665069 split
+vegetob at 25,27 with 0 cells died
+herd 80644 split
+DAY: 325
+pride 920022 split
+pride: 920022 attacked herd: 833701 and gained: 9
+herd 80644 split
+herd 10654 split
+herd 66073 split
+herd id: 89082 number of members: 0,energy: 0,social attitude: 0.1722 died
+DAY: 326
+pride 34175 split
+herd 665069 split
+herd 66073 split
+DAY: 327
+pride: 49262 attacked herd: 382767 and gained: 1084
+herd 665069 split
+herd 665069 split
+herd 77830 split
+herd 80644 split
+herd 47451 split
+DAY: 328
+vegetob at 12,2 with 0 cells died
+pride: 553022 attacked herd: 287776 and gained: 41
+herd 77830 split
+herd 59031 split
+herd 70063 split
+herd 56260 split
+herd id: 47451 number of members: 0,energy: 0,social attitude: 0.1955 died
+herd id: 66073 number of members: 0,energy: 0,social attitude: 0.1955 died
+DAY: 329
+vegetob at 41,22 with 0 cells died
+herd id: 77830 number of members: 0,energy: 0,social attitude: 0.2006 died
+herd 58882 split
+herd id: 70063 number of members: 0,energy: 0,social attitude: 0.1955 died
+herd 56260 split
+DAY: 330
+herd 665069 split
+herd 9472 split
+herd 53642 split
+herd 56260 split
+DAY: 331
+herd 665069 split
+herd 665069 split
+herd id: 53642 number of members: 0,energy: 0,social attitude: 0.2006 died
+herd 26392 split
+DAY: 332
+pride: 34175 attacked herd: 833701 and gained: 127
+DAY: 333
+herd 22368 split
+herd 56260 split
+DAY: 334
+herd 22368 split
+herd 18979 split
+DAY: 335
+herd 665069 split
+herd 665069 split
+herd 7199 split
+herd 18979 split
+DAY: 336
+herd 665069 split
+herd 665069 split
+pride 622573 split
+herd 5018 split
+herd id: 7199 number of members: 0,energy: 0,social attitude: 0.2212 died
+herd 56260 split
+herd 13683 split
+herd 64993 split
+DAY: 337
+herd 665069 split
+herd 665069 split
+DEFEATED: pride 77712
+WINNER: pride 622573 with 44 members 
+herd 43439 split
+herd 13683 split
+herd 18979 split
+DAY: 338
+vegetob at 24,27 with 0 cells died
+pride id: 77712 number of members: 0,energy: 0,social attitude: 0.3736 died
+herd 5018 split
+herd id: 43439 number of members: 0,energy: 0,social attitude: 0.2212 died
+herd 56260 split
+herd 5699 split
+DAY: 339
+herd 91693 split
+herd 18979 split
+DAY: 340
+pride 622573 split
+pride 622573 split
+herd 76853 split
+herd 86000 split
+herd 67120 split
+herd 5699 split
+herd 83483 split
+DAY: 341
+herd 5699 split
+herd 64084 split
+herd 18979 split
+DAY: 342
+pride 622573 split
+herd 56260 split
+herd id: 5699 number of members: 0,energy: 0,social attitude: 0.3708 died
+herd 64084 split
+herd 18979 split
+DAY: 343
+pride 622573 split
+herd 67120 split
+herd 56260 split
+herd 64084 split
+herd 18979 split
+DAY: 344
+herd 665069 split
+herd 665069 split
+pride 622573 split
+DEFEATED: pride 40555
+DEFEATED: pride 49603
+pride id: 49603 number of members: 0,energy: 0,social attitude: 0.4048 died
+WINNER: pride 622573 with 37 members 
+herd id: 56260 number of members: 0,energy: 0,social attitude: 0.2888 died
+herd 64084 split
+herd 7345 split
+herd 64993 split
+DAY: 345
+herd 665069 split
+herd 665069 split
+pride id: 40555 number of members: 0,energy: 0,social attitude: 0.4781 died
+herd 71213 split
+herd 18979 split
+herd 18979 split
+DAY: 346
+herd 665069 split
+herd 665069 split
+pride 622573 split
+herd id: 71213 number of members: 0,energy: 0,social attitude: 0.2888 died
+herd 64993 split
+DAY: 347
+pride: 34175 attacked herd: 833701 and gained: 736
+vegetob at 26,12 with 0 cells died
+herd 665069 split
+herd 665069 split
+pride 44811 split
+herd 97872 split
+herd 36919 split
+herd 18979 split
+herd 64993 split
+DAY: 348
+herd 665069 split
+herd 665069 split
+vegetob at 41,23 with 0 cells died
+pride 622573 split
+DEFEATED: pride 39680
+WINNER: pride 44811 with 1 members 
+herd 57174 split
+herd 18979 split
+DAY: 349
+herd 665069 split
+herd 665069 split
+pride 14895 split
+pride id: 39680 number of members: 0,energy: 0,social attitude: 0.459 died
+herd id: 57174 number of members: 0,energy: 0,social attitude: 0.3184 died
+herd 18979 split
+herd 18979 split
+herd 64993 split
+DAY: 350
+herd 665069 split
+DEFEATED: pride 65165
+DEFEATED: pride 622573
+WINNER: pride 14895 with 8 members 
+herd 36919 split
+herd 18979 split
+herd 64993 split
+herd 18979 split
+herd 94679 split
+DAY: 351
+pride id: 65165 number of members: 0,energy: 0,social attitude: 0.2945 died
+WINNER: pride 14895 with 8 members 
+WINNER: pride 14895 with 8 members 
+vegetob at 45,36 with 0 cells died
+herd 81957 split
+pride: 328963 attacked herd: 18979 and gained: 2097
+herd 94679 split
+DAY: 352
+herd 665069 split
+pride id: 622573 number of members: 0,energy: 0,social attitude: 0.4448 died
+herd 81957 split
+DAY: 353
+vegetob at 12,3 with 0 cells died
+herd 665069 split
+herd 76275 split
+vegetob at 41,21 with 0 cells died
+herd 36919 split
+herd 81957 split
+herd 18979 split
+herd 89686 split
+herd 49180 split
+DAY: 354
+herd 281291 split
+herd 665069 split
+vegetob at 36,33 with 0 cells died
+herd 81957 split
+herd 47157 split
+herd 18979 split
+herd 36643 split
+herd 36643 split
+DAY: 355
+herd 47293 split
+pride: 322455 attacked herd: 665069 and gained: 1161
+herd 89640 split
+herd 18979 split
+herd 36643 split
+herd 41632 split
+DAY: 356
+herd 281291 split
+vegetob at 27,14 with 0 cells died
+herd 89640 split
+herd 81957 split
+herd 38545 split
+herd 47157 split
+DAY: 357
+vegetob at 3,12 with 0 cells died
+herd id: 665069 number of members: 0,energy: 0,social attitude: 0.0715 died
+herd 19605 split
+herd 89640 split
+herd 46904 split
+herd 48546 split
+DAY: 358
+pride: 49262 attacked herd: 382767 and gained: 1731
+pride: 60397 attacked herd: 57361 and gained: 648
+herd 18925 split
+herd 19605 split
+herd 89640 split
+herd 38545 split
+herd 47157 split
+herd 47294 split
+herd 36643 split
+DAY: 359
+vegetob at 25,25 with 0 cells died
+pride 14895 split
+pride 95628 split
+herd 18925 split
+herd 48234 split
+herd 89640 split
+herd 36643 split
+herd 47157 split
+herd 2504 split
+DAY: 360
+pride: 60397 attacked herd: 57361 and gained: 229
+herd 281291 split
+pride 14895 split
+DEFEATED: pride 95212
+WINNER: pride 14895 with 8 members 
+herd 73275 split
+herd 82763 split
+herd 89640 split
+herd 77155 split
+DAY: 361
+herd id: 57361 number of members: 0,energy: 0,social attitude: 0.5919 died
+vegetob at 4,12 with 0 cells died
+pride id: 26591 number of members: 0,energy: -12,social attitude: 0.2546 died
+pride id: 95212 number of members: 0,energy: 0,social attitude: 0.2546 died
+herd 38545 split
+herd 38545 split
+herd 82763 split
+pride 44811 split
+herd 35236 split
+herd id: 89640 number of members: 0,energy: 0,social attitude: 0.1277 died
+herd 36643 split
+herd 18168 split
+herd id: 77155 number of members: 0,energy: 0,social attitude: 0.2476 died
+herd 2504 split
+DAY: 362
+pride 710074 split
+pride 710074 split
+pride 710074 split
+herd 48234 split
+herd 27780 split
+herd 38545 split
+herd id: 82763 number of members: 0,energy: 0,social attitude: 0.2919 died
+herd 57731 split
+herd 35236 split
+herd id: 18168 number of members: 0,energy: 0,social attitude: 0.2451 died
+herd 47157 split
+herd 113 split
+herd 47157 split
+herd 31196 split
+herd 84561 split
+DAY: 363
+vegetob at 26,13 with 0 cells died
+herd 38545 split
+herd 51441 split
+herd id: 57731 number of members: 0,energy: 0,social attitude: 0.2451 died
+herd 65030 split
+herd 65030 split
+herd 49921 split
+herd 84561 split
+DAY: 364
+pride 60123 split
+DEFEATED: pride 76858
+pride 710074 split
+pride id: 76858 number of members: 0,energy: 0,social attitude: 0.4857 died
+pride 60123 split
+herd 76023 split
+herd 51441 split
+herd 65030 split
+DAY: 365
+pride 710074 split
+herd 44708 split
+herd id: 76023 number of members: 0,energy: 0,social attitude: 0.2237 died
+herd 51441 split
+herd 65030 split
+DAY: 366
+pride: 49262 attacked herd: 382767 and gained: 1341
+pride 31613 split
+pride 710074 split
+pride 31613 split
+vegetob at 44,35 with 0 cells died
+herd 45318 split
+herd 51441 split
+herd 33661 split
+herd 47157 split
+herd 8432 split
+DAY: 367
+pride 92490 split
+pride 62953 split
+pride 23069 split
+DEFEATED: pride 617
+herd 45318 split
+herd 65030 split
+herd id: 51441 number of members: 0,energy: 0,social attitude: 0.2045 died
+herd 24722 split
+herd 45984 split
+herd 47157 split
+DAY: 368
+DEFEATED: pride 71318
+WINNER: pride 710074 with 24 members 
+pride 710074 split
+DEFEATED: pride 56333
+herd 33661 split
+herd 65030 split
+herd 47157 split
+herd 24722 split
+herd 2635 split
+DAY: 369
+vegetob at 31,3 with 0 cells died
+DEFEATED: pride 92490
+pride id: 71318 number of members: 0,energy: 0,social attitude: 0.3925 died
+pride 62953 split
+herd 154192 split
+pride id: 56333 number of members: 0,energy: 0,social attitude: 0.3784 died
+herd 2252 split
+herd 78153 split
+herd 67888 split
+herd 33661 split
+herd 75885 split
+herd 47157 split
+herd id: 24722 number of members: 0,energy: 0,social attitude: 0.2453 died
+herd 2635 split
+herd 82820 split
+herd 28151 split
+DAY: 370
+pride id: 92490 number of members: 0,energy: 0,social attitude: 0.465 died
+pride 710074 split
+pride 19231 split
+herd 78153 split
+herd 40366 split
+herd 33661 split
+herd 75885 split
+herd 65030 split
+herd 47157 split
+herd id: 2635 number of members: 0,energy: 0,social attitude: 0.2749 died
+herd 82820 split
+herd 28151 split
+herd 13337 split
+DAY: 371
+herd 281291 split
+herd 154192 split
+vegetob at 43,22 with 0 cells died
+pride 14895 split
+herd 40366 split
+herd 47157 split
+herd 14806 split
+herd 2758 split
+herd 82820 split
+herd id: 13337 number of members: 0,energy: 0,social attitude: 0.0759 died
+DAY: 372
+herd 154192 split
+pride 32035 split
+DEFEATED: pride 27957
+pride 710074 split
+pride id: 27957 number of members: 0,energy: 0,social attitude: 0.4014 died
+herd 50341 split
+herd 77 split
+pride 64093 split
+DEFEATED: pride 23069
+WINNER: pride 64093 with 14 members 
+pride 64093 split
+vegetob at 24,15 with 0 cells died
+vegetob at 25,26 with 0 cells died
+vegetob at 35,34 with 0 cells died
+herd 9312 split
+herd 39841 split
+herd 20053 split
+herd 40366 split
+herd 75885 split
+herd 33347 split
+herd 94336 split
+herd id: 2758 number of members: 0,energy: 0,social attitude: 0.2721 died
+herd id: 82820 number of members: 0,energy: 0,social attitude: 0.1377 died
+herd 51489 split
+DAY: 373
+herd 56698 split
+herd 154192 split
+herd 154192 split
+DEFEATED: pride 71732
+WINNER: pride 32035 with 2 members 
+pride 710074 split
+herd id: 77 number of members: 0,energy: 38,social attitude: 0.0285 died
+pride 20674 split
+pride id: 23069 number of members: 0,energy: 0,social attitude: 0.3358 died
+DEFEATED: pride 46940
+WINNER: pride 14895 with 9 members 
+pride 14895 split
+herd 39841 split
+herd id: 9312 number of members: 0,energy: 0,social attitude: 0.2421 died
+herd 25994 split
+herd 59060 split
+herd 33347 split
+herd 94336 split
+herd 37236 split
+herd 43155 split
+DAY: 374
+pride 79357 split
+herd 79945 split
+pride 710074 split
+DEFEATED: pride 48972
+herd 154192 split
+pride id: 71732 number of members: 0,energy: 0,social attitude: 0.4201 died
+herd 56698 split
+pride: 876021 attacked herd: 61233 and gained: 22
+herd id: 61233 number of members: 0,energy: 33,social attitude: 0.058 died
+herd 50341 split
+pride 3203 split
+herd 2252 split
+herd 78153 split
+pride id: 46940 number of members: 0,energy: 0,social attitude: 0.2783 died
+DEFEATED: pride 64014
+WINNER: pride 14895 with 10 members 
+pride 14895 split
+herd 39841 split
+herd 39841 split
+pride: 904362 attacked herd: 36919 and gained: 1480
+herd 25994 split
+herd 87845 split
+herd 52289 split
+herd 40366 split
+herd 26341 split
+herd id: 33347 number of members: 0,energy: 0,social attitude: 0.0992 died
+herd 94336 split
+herd 32560 split
+herd 37236 split
+herd id: 43155 number of members: 0,energy: 0,social attitude: 0.0759 died
+DAY: 375
+WINNER: pride 710074 with 13 members 
+pride 710074 split
+pride id: 48972 number of members: 0,energy: 0,social attitude: 0.4051 died
+DEFEATED: pride 74392
+herd 89825 split
+pride 64093 split
+herd 56698 split
+herd 80792 split
+herd 38632 split
+vegetob at 43,21 with 0 cells died
+pride id: 64014 number of members: 0,energy: 0,social attitude: 0.3621 died
+DEFEATED: pride 43328
+herd 39841 split
+herd id: 36919 number of members: 0,energy: 0,social attitude: 0.4813 died
+herd id: 25994 number of members: 0,energy: 0,social attitude: 0.2704 died
+herd 87845 split
+herd 40366 split
+herd 39889 split
+herd id: 26341 number of members: 0,energy: 0,social attitude: 0.0992 died
+herd 87845 split
+herd 94336 split
+herd 32560 split
+herd 37236 split
+herd 29568 split
+DAY: 376
+DEFEATED: pride 52497
+WINNER: pride 79357 with 7 members 
+herd 79945 split
+herd 92486 split
+herd 59577 split
+DEFEATED: pride 12599
+WINNER: pride 710074 with 11 members 
+herd 50341 split
+pride id: 11836 number of members: 0,energy: 14,social attitude: 0.3652 died
+pride 31930 split
+pride id: 43328 number of members: 0,energy: 0,social attitude: 0.3663 died
+herd 9114 split
+herd 32974 split
+herd 89947 split
+herd 40366 split
+herd 84039 split
+herd 87845 split
+herd 90566 split
+herd 90566 split
+herd id: 37236 number of members: 0,energy: 0,social attitude: 0.1751 died
+herd id: 29568 number of members: 0,energy: 0,social attitude: 0.0759 died
+DAY: 377
+pride id: 52497 number of members: 0,energy: 0,social attitude: 0.3383 died
+herd 55504 split
+herd 59577 split
+herd 59577 split
+herd 89825 split
+herd 20241 split
+herd 43399 split
+herd 44576 split
+herd 89845 split
+pride id: 12599 number of members: 0,energy: 0,social attitude: 0.3228 died
+herd 50341 split
+pride 64093 split
+herd 80792 split
+herd 2252 split
+herd 75885 split
+herd 39841 split
+herd 22779 split
+herd 55 split
+herd 87845 split
+herd id: 84039 number of members: 0,energy: 0,social attitude: 0.0992 died
+herd 45032 split
+herd 89940 split
+herd 87061 split
+herd 93306 split
+herd 394 split
+DAY: 378
+herd 23712 split
+herd 2754 split
+herd 60715 split
+herd 59577 split
+herd 89825 split
+pride: 876021 attacked herd: 89825 and gained: 1923
+herd 44576 split
+pride id: 56890 number of members: 0,energy: 0,social attitude: 0.3727 died
+herd 20560 split
+pride 710074 split
+pride 710074 split
+pride 19595 split
+DEFEATED: pride 19595
+pride 91043 split
+WINNER: pride 91043 with 1 members 
+pride 92141 split
+pride 64093 split
+herd id: 55 number of members: 0,energy: 0,social attitude: 0.192 died
+herd 98185 split
+herd 39841 split
+herd 57780 split
+herd 40366 split
+herd id: 87061 number of members: 0,energy: 0,social attitude: 0.3308 died
+herd 57633 split
+herd 56606 split
+herd id: 394 number of members: 0,energy: 0,social attitude: 0.0759 died
+DAY: 379
+herd 382767 split
+herd 59577 split
+herd 51696 split
+herd id: 90398 number of members: 0,energy: 0,social attitude: 0.089 died
+herd id: 23712 number of members: 0,energy: 0,social attitude: 0.0847 died
+herd 2754 split
+herd 60715 split
+vegetob at 5,9 with 0 cells died
+DEFEATED: pride 83054
+DEFEATED: pride 36697
+WINNER: pride 710074 with 7 members 
+herd 30085 split
+vegetob at 7,11 with 0 cells died
+pride id: 19595 number of members: 0,energy: 0,social attitude: 0.4227 died
+DEFEATED: pride 91043
+DEFEATED: pride 92141
+pride id: 92141 number of members: 0,energy: 0,social attitude: 0.4516 died
+vegetob at 22,16 with 0 cells died
+pride 9234 split
+vegetob at 32,36 with 0 cells died
+herd id: 98185 number of members: 0,energy: 0,social attitude: 0.192 died
+herd 39841 split
+herd 40366 split
+herd 5016 split
+herd 70404 split
+herd 56764 split
+herd 87845 split
+herd 96511 split
+herd 90566 split
+herd id: 57633 number of members: 0,energy: 0,social attitude: 0.3647 died
+herd id: 56606 number of members: 0,energy: 0,social attitude: 0.0759 died
+DAY: 380
+herd 92391 split
+herd 15175 split
+herd id: 2754 number of members: 0,energy: 0,social attitude: 0.0962 died
+herd 26040 split
+herd id: 89825 number of members: 0,energy: 0,social attitude: 0.0904 died
+herd 89845 split
+pride id: 83054 number of members: 0,energy: 0,social attitude: 0.4155 died
+DEFEATED: pride 40015
+WINNER: pride 59886 with 3 members 
+DEFEATED: pride 29936
+WINNER: pride 64093 with 4 members 
+herd 9114 split
+herd 22355 split
+herd id: 40366 number of members: 0,energy: 0,social attitude: 0.3459 died
+herd id: 5016 number of members: 0,energy: 0,social attitude: 0.372 died
+herd 54288 split
+herd id: 56764 number of members: 0,energy: 0,social attitude: 0.1042 died
+herd 90566 split
+herd 6750 split
+DAY: 381
+herd 15175 split
+herd id: 92391 number of members: 0,energy: 0,social attitude: 0.0962 died
+herd 23436 split
+herd 59577 split
+herd 78361 split
+herd 12178 split
+herd 15651 split
+herd 26040 split
+herd 50341 split
+pride id: 36697 number of members: 0,energy: 0,social attitude: 0.3698 died
+pride id: 40015 number of members: 0,energy: 0,social attitude: 0.484 died
+pride id: 29936 number of members: 0,energy: 0,social attitude: 0.4155 died
+herd 57912 split
+herd 87845 split
+herd id: 54288 number of members: 0,energy: 0,social attitude: 0.1818 died
+herd 35792 split
+herd 96511 split
+herd 90566 split
+herd id: 6750 number of members: 0,energy: 0,social attitude: 0.3829 died
+DAY: 382
+herd 20967 split
+herd 15175 split
+herd 41744 split
+herd id: 23436 number of members: 0,energy: 0,social attitude: 0.0962 died
+herd 26040 split
+herd 15651 split
+herd 50341 split
+herd 58982 split
+herd 57687 split
+herd 9114 split
+herd 36164 split
+herd 92726 split
+herd 71853 split
+herd 87845 split
+herd 33410 split
+herd id: 35792 number of members: 0,energy: 0,social attitude: 0.1042 died
+herd 92221 split
+herd 96511 split
+herd 90566 split
+herd 40457 split
+DAY: 383
+herd 13697 split
+herd 15175 split
+herd 66648 split
+herd 41744 split
+herd 41744 split
+herd 78361 split
+herd id: 26040 number of members: 0,energy: 0,social attitude: 0.1096 died
+herd 56698 split
+pride 59886 split
+pride: 843518 attacked herd: 89845 and gained: 493
+herd 36164 split
+herd 47003 split
+herd 89005 split
+herd 92726 split
+herd 71853 split
+herd 33410 split
+herd id: 40457 number of members: 0,energy: 0,social attitude: 0.2031 died
+DAY: 384
+herd 15175 split
+herd 66648 split
+herd 62415 split
+herd 78361 split
+herd 13697 split
+herd 50573 split
+herd 97317 split
+pride 79357 split
+herd 74855 split
+DEFEATED: pride 55472
+pride 59886 split
+pride id: 55472 number of members: 0,energy: 0,social attitude: 0.3052 died
+herd id: 89845 number of members: 0,energy: 0,social attitude: 0.5385 died
+herd 36525 split
+herd 24074 split
+herd 36164 split
+herd id: 47003 number of members: 0,energy: 0,social attitude: 0.4209 died
+herd 92726 split
+herd 68407 split
+herd 87845 split
+herd 71853 split
+herd 27524 split
+herd 90566 split
+herd 93885 split
+herd 37471 split
+DAY: 385
+herd id: 66648 number of members: 0,energy: 0,social attitude: 0.1142 died
+herd 78361 split
+herd 31819 split
+herd 13697 split
+herd id: 97317 number of members: 0,energy: 0,social attitude: 0.0962 died
+pride 16777 split
+herd 37877 split
+herd 7244 split
+herd 93582 split
+herd 27289 split
+herd 3972 split
+vegetob at 22,17 with 0 cells died
+herd 24074 split
+herd 31500 split
+herd 36164 split
+herd 90803 split
+herd 36582 split
+herd 74363 split
+herd 4501 split
+herd 68407 split
+herd 87845 split
+herd 92726 split
+herd 27524 split
+herd 75763 split
+herd id: 90566 number of members: 0,energy: 0,social attitude: 0.0969 died
+herd id: 93885 number of members: 0,energy: 0,social attitude: 0.0969 died
+herd id: 37471 number of members: 0,energy: 0,social attitude: 0.2133 died
+DAY: 386
+herd 41744 split
+herd 13697 split
+herd 42697 split
+herd 53440 split
+herd 62230 split
+pride id: 16777 number of members: 0,energy: 0,social attitude: 0.3341 died
+herd 35955 split
+herd 37877 split
+herd 7244 split
+herd id: 27289 number of members: 0,energy: 0,social attitude: 0.0297 died
+herd 62472 split
+herd id: 3972 number of members: 0,energy: 0,social attitude: 0.0297 died
+herd 36525 split
+herd 24074 split
+herd 63628 split
+herd 90803 split
+herd 4501 split
+herd 68674 split
+herd 92221 split
+herd 92221 split
+herd 29488 split
+herd 44110 split
+herd 71853 split
+herd 87845 split
+herd 92726 split
+herd 92726 split
+herd 73950 split
+herd 27185 split
+herd 56975 split
+DAY: 387
+herd 95297 split
+herd 33652 split
+pride 79357 split
+pride 7272 split
+herd 13697 split
+herd 42697 split
+herd id: 62230 number of members: 0,energy: 0,social attitude: 0.101 died
+herd 35955 split
+herd id: 37877 number of members: 0,energy: 0,social attitude: 0.0522 died
+pride 59886 split
+herd id: 7244 number of members: 0,energy: 0,social attitude: 0.0522 died
+DEFEATED: pride 17274
+herd 74855 split
+herd 80670 split
+herd 36164 split
+herd id: 63628 number of members: 0,energy: 0,social attitude: 0.3632 died
+herd 68674 split
+herd 91015 split
+herd 92221 split
+herd id: 29488 number of members: 0,energy: 0,social attitude: 0.1819 died
+herd 44110 split
+herd 71853 split
+herd 58628 split
+herd 87845 split
+herd 37213 split
+herd 92726 split
+herd 85672 split
+herd id: 27185 number of members: 0,energy: 0,social attitude: 0.0969 died
+herd 63541 split
+herd id: 56975 number of members: 0,energy: 0,social attitude: 0.2351 died
+DAY: 388
+herd 4592 split
+herd 95297 split
+herd id: 33652 number of members: 0,energy: 0,social attitude: 0.1011 died
+herd 61594 split
+pride 79357 split
+herd 15076 split
+herd 41744 split
+herd 35955 split
+WINNER: pride 64093 with 2 members 
+herd id: 80670 number of members: 0,energy: 0,social attitude: 0.0297 died
+herd 36164 split
+herd 67133 split
+herd id: 68674 number of members: 0,energy: 0,social attitude: 0.1625 died
+herd 4501 split
+herd 44110 split
+herd 91015 split
+herd 92726 split
+herd 37213 split
+herd 4566 split
+herd id: 63541 number of members: 0,energy: 0,social attitude: 0.2351 died
+DAY: 389
+herd 95297 split
+herd 62026 split
+herd 41744 split
+herd 61594 split
+pride 66083 split
+DEFEATED: pride 64661
+pride 79357 split
+pride id: 64661 number of members: 0,energy: 0,social attitude: 0.3711 died
+herd id: 15076 number of members: 0,energy: 0,social attitude: 0.102 died
+herd 87038 split
+pride id: 59886 number of members: 0,energy: 0,social attitude: 0.295 died
+pride id: 17274 number of members: 0,energy: 0,social attitude: 0.295 died
+herd 90803 split
+herd 52863 split
+herd 92221 split
+herd 9585 split
+herd 44110 split
+herd 91015 split
+herd 87845 split
+herd 14888 split
+herd 37213 split
+herd 4566 split
+herd 53360 split
+herd 70889 split
+DAY: 390
+pride 66083 split
+pride 86122 split
+herd 70933 split
+pride id: 79357 number of members: 0,energy: -3,social attitude: 0.3674 died
+herd 80101 split
+herd id: 87038 number of members: 0,energy: 0,social attitude: 0.1062 died
+pride id: 38333 number of members: 0,energy: 14,social attitude: 0.2888 died
+herd id: 90803 number of members: 0,energy: 0,social attitude: 0.3845 died
+herd id: 52863 number of members: 0,energy: 0,social attitude: 0.2441 died
+herd 18466 split
+herd 92221 split
+herd 58465 split
+herd 9585 split
+herd 9585 split
+herd id: 44110 number of members: 0,energy: 0,social attitude: 0.2592 died
+herd 1715 split
+herd 58628 split
+herd 37213 split
+herd 37213 split
+herd id: 14888 number of members: 0,energy: 0,social attitude: 0.2005 died
+herd 92285 split
+herd id: 53360 number of members: 0,energy: 0,social attitude: 0.2005 died
+herd id: 70889 number of members: 0,energy: 0,social attitude: 0.2005 died
+herd 73929 split
+DAY: 391
+herd 82011 split
+vegetob at 23,16 with 0 cells died
+herd 36164 split
+herd 67133 split
+herd 9585 split
+herd 58628 split
+herd 67681 split
+herd id: 92285 number of members: 0,energy: 0,social attitude: 0.3488 died
+DAY: 392
+herd 14093 split
+herd 14093 split
+pride id: 86122 number of members: 0,energy: 0,social attitude: 0.3659 died
+herd 16747 split
+herd 10672 split
+herd 36164 split
+herd 67133 split
+herd 9585 split
+herd 1715 split
+herd 58628 split
+herd 5906 split
+herd 97632 split
+herd 41596 split
+DAY: 393
+herd 41744 split
+herd 14093 split
+herd 73490 split
+herd 39365 split
+herd 39152 split
+herd 52606 split
+herd 31111 split
+herd 88928 split
+herd 9585 split
+herd 67681 split
+herd 37213 split
+herd 7095 split
+herd 97632 split
+herd id: 41596 number of members: 0,energy: 0,social attitude: 0.2105 died
+herd 29920 split
+vegetob at 41,48 with 0 cells died
+DAY: 394
+herd 382767 split
+herd 32834 split
+herd 74855 split
+herd 17385 split
+herd id: 39365 number of members: 0,energy: 0,social attitude: 0.1062 died
+herd 52399 split
+herd 77584 split
+herd 47242 split
+herd id: 52606 number of members: 0,energy: 0,social attitude: 0.0312 died
+vegetob at 42,33 with 0 cells died
+herd 31386 split
+herd 86588 split
+herd 67133 split
+herd 30650 split
+herd 88928 split
+herd 88928 split
+herd 9585 split
+herd 5906 split
+herd 48758 split
+herd 1715 split
+herd 68177 split
+herd 37213 split
+herd 9445 split
+herd id: 29920 number of members: 0,energy: 0,social attitude: 0.2211 died
+DAY: 395
+herd 41744 split
+herd 32834 split
+pride id: 83278 number of members: 0,energy: 0,social attitude: 0.4431 died
+herd 74855 split
+herd id: 17385 number of members: 0,energy: 0,social attitude: 0.1062 died
+herd id: 77584 number of members: 0,energy: 0,social attitude: 0.1062 died
+herd 47242 split
+herd 83450 split
+herd id: 86588 number of members: 0,energy: 0,social attitude: 0.2563 died
+herd 59817 split
+herd 10672 split
+herd 88928 split
+herd 67681 split
+herd 5906 split
+herd 42812 split
+herd 62365 split
+herd id: 9445 number of members: 0,energy: 0,social attitude: 0.2211 died
+DAY: 396
+herd 82055 split
+herd 32834 split
+herd 73490 split
+herd 74855 split
+herd 74855 split
+herd 74855 split
+herd 71082 split
+herd 71082 split
+herd 30143 split
+herd 47242 split
+herd 83450 split
+herd 31386 split
+herd 36040 split
+herd 63447 split
+herd 37213 split
+herd id: 62365 number of members: 0,energy: 0,social attitude: 0.2211 died
+herd 73427 split
+herd 98754 split
+DAY: 397
+herd 82055 split
+vegetob at 8,6 with 0 cells died
+herd 85509 split
+herd 71082 split
+herd 35763 split
+herd id: 30143 number of members: 0,energy: 0,social attitude: 0.1115 died
+herd id: 47242 number of members: 0,energy: 0,social attitude: 0.0557 died
+herd 88471 split
+herd 60709 split
+herd id: 36040 number of members: 0,energy: 0,social attitude: 0.2129 died
+herd 1715 split
+herd 5906 split
+herd 1715 split
+herd id: 73427 number of members: 0,energy: 0,social attitude: 0.2211 died
+herd id: 98754 number of members: 0,energy: 0,social attitude: 0.2211 died
+herd 37213 split
+DAY: 398
+herd 82055 split
+herd 75844 split
+herd id: 35763 number of members: 0,energy: 0,social attitude: 0.0512 died
+herd 88471 split
+herd 30650 split
+herd 77332 split
+herd 88928 split
+herd 5906 split
+herd 79288 split
+herd 1715 split
+herd 52643 split
+herd 37213 split
+DAY: 399
+herd 5607 split
+herd 88471 split
+herd 30650 split
+herd 10672 split
+herd 93443 split
+herd 77332 split
+herd 88928 split
+herd 58157 split
+herd 9392 split
+pride: 904362 attacked herd: 9392 and gained: 20
+herd 99060 split
+herd 2784 split
+herd 37213 split
+herd 37213 split
+DAY: 400
+herd 382767 split
+pride 21848 split
+herd 30650 split
+herd 10672 split
+herd id: 77332 number of members: 0,energy: 0,social attitude: 0.3271 died
+herd 55821 split
+herd id: 58157 number of members: 0,energy: 0,social attitude: 0.1697 died
+herd id: 9392 number of members: 0,energy: 0,social attitude: 0.4645 died
+herd 79288 split
+herd 1715 split
+herd 37213 split
+SAVING WORLD AT DAY 400
+Simulation state saved
+DAY: 401
+herd 382767 split
+herd 73490 split
+pride 20353 split
+herd 66682 split
+herd 5906 split
+herd 3764 split
+herd 1715 split
+herd 31764 split
+herd 6860 split
+DAY: 402
+pride: 34175 attacked herd: 833701 and gained: 839
+herd 926756 split
+herd 73851 split
+herd 88928 split
+herd 79288 split
+herd 82229 split
+DAY: 403
+herd 21815 split
+herd id: 73851 number of members: 0,energy: 0,social attitude: 0.3047 died
+herd 88928 split
+herd 27774 split
+herd 10672 split
+herd 84791 split
+herd 99060 split
+herd id: 79288 number of members: 0,energy: 0,social attitude: 0.4568 died
+herd 6860 split
+DAY: 404
+vegetob at 3,14 with 0 cells died
+herd 91215 split
+herd 926756 split
+herd 55961 split
+herd 10672 split
+herd id: 84791 number of members: 0,energy: 0,social attitude: 0.2366 died
+herd 6860 split
+pride: 904362 attacked herd: 97756 and gained: 1419
+herd 37213 split
+herd 86100 split
+DAY: 405
+pride 710074 split
+herd id: 55961 number of members: 0,energy: 0,social attitude: 0.3199 died
+herd 74888 split
+herd id: 97756 number of members: 0,energy: 0,social attitude: 0.398 died
+herd 86903 split
+herd 42788 split
+DAY: 406
+herd 926756 split
+vegetob at 41,32 with 0 cells died
+herd 30650 split
+herd id: 74888 number of members: 0,energy: 0,social attitude: 0.4796 died
+herd 42788 split
+herd 37213 split
+herd 37213 split
+DAY: 407
+herd 1237 split
+pride 710074 split
+herd 91215 split
+herd 58581 split
+herd 42788 split
+herd 74004 split
+DAY: 408
+pride 73518 split
+herd 926756 split
+herd 33539 split
+herd 9371 split
+herd 58581 split
+herd 86100 split
+herd id: 42788 number of members: 0,energy: 0,social attitude: 0.2041 died
+herd 37213 split
+DAY: 409
+DEFEATED: pride 51515
+WINNER: pride 20801 with 2 members 
+herd 80881 split
+herd 91215 split
+DEFEATED: pride 9234
+pride id: 9234 number of members: 0,energy: 0,social attitude: 0.0856 died
+vegetob at 31,41 with 0 cells died
+herd id: 9371 number of members: 0,energy: 0,social attitude: 0.3788 died
+herd 87070 split
+DAY: 410
+pride id: 51515 number of members: 0,energy: 0,social attitude: 0.6136 died
+herd 926756 split
+herd 30650 split
+herd 391 split
+herd id: 87070 number of members: 0,energy: 0,social attitude: 0.4005 died
+herd 37213 split
+DAY: 411
+pride 710074 split
+herd 30745 split
+herd 43542 split
+herd 51425 split
+vegetob at 23,23 with 0 cells died
+vegetob at 44,30 with 0 cells died
+herd id: 391 number of members: 0,energy: 0,social attitude: 0.3885 died
+DAY: 412
+herd 30745 split
+pride: 843518 attacked herd: 9788 and gained: 914
+herd 91215 split
+herd 30650 split
+herd 33539 split
+herd 39634 split
+DAY: 413
+pride id: 8397 number of members: 0,energy: 19,social attitude: 0.1524 died
+herd 30745 split
+herd 10941 split
+herd id: 9788 number of members: 0,energy: 0,social attitude: 0.7915 died
+herd 91215 split
+DAY: 414
+pride 710074 split
+DEFEATED: pride 36944
+WINNER: pride 20801 with 2 members 
+pride 20801 split
+herd 30745 split
+herd 14754 split
+herd 63029 split
+vegetob at 32,41 with 0 cells died
+herd 33539 split
+herd 64107 split
+herd 64107 split
+DAY: 415
+herd 1237 split
+pride id: 36944 number of members: 0,energy: 0,social attitude: 0.2465 died
+DEFEATED: pride 25802
+WINNER: pride 20801 with 1 members 
+herd 63029 split
+herd 33539 split
+pride id: 90144 number of members: 0,energy: 2,social attitude: 0.1535 died
+herd 64107 split
+herd 24598 split
+DAY: 416
+herd 1237 split
+pride id: 25802 number of members: 0,energy: 0,social attitude: 0.2513 died
+pride 32874 split
+herd 30745 split
+herd 18146 split
+herd id: 63029 number of members: 0,energy: 0,social attitude: 0.0799 died
+herd 57687 split
+herd 57687 split
+herd 926756 split
+herd 24598 split
+DAY: 417
+herd id: 1237 number of members: 0,energy: 0,social attitude: 0.0198 died
+pride 710074 split
+vegetob at 6,7 with 0 cells died
+pride id: 32874 number of members: 0,energy: 0,social attitude: 0.1531 died
+herd 30745 split
+herd 30745 split
+herd 997464 split
+herd 997464 split
+herd 997464 split
+herd 926756 split
+herd 24598 split
+herd 90534 split
+DAY: 418
+DEFEATED: pride 27558
+WINNER: pride 710074 with 7 members 
+herd 29794 split
+herd 18146 split
+herd 30745 split
+herd 57687 split
+herd 57687 split
+herd 926756 split
+pride 44811 split
+herd id: 24598 number of members: 0,energy: 0,social attitude: 0.4861 died
+herd id: 90534 number of members: 0,energy: 0,social attitude: 0.4861 died
+DAY: 419
+pride id: 27558 number of members: 0,energy: 0,social attitude: 0.2652 died
+herd id: 32131 number of members: 0,energy: 0,social attitude: 0.0855 died
+herd 29854 split
+herd 997464 split
+herd 12768 split
+DAY: 420
+pride id: 98898 number of members: 0,energy: 0,social attitude: 0.1508 died
+herd id: 29854 number of members: 0,energy: 0,social attitude: 0.0881 died
+herd 57687 split
+herd 60428 split
+herd 13671 split
+herd 926756 split
+DAY: 421
+herd 12768 split
+herd 16592 split
+pride: 614658 attacked herd: 645967 and gained: 1030
+DEFEATED: pride 44811
+WINNER: pride 41850 with 1 members 
+DAY: 422
+herd 9775 split
+herd 57687 split
+herd 12768 split
+herd 776 split
+herd 926756 split
+pride id: 44811 number of members: 0,energy: 0,social attitude: 0.1428 died
+pride: 328963 attacked herd: 70523 and gained: 82
+DAY: 423
+herd id: 9775 number of members: 0,energy: 0,social attitude: 0.0198 died
+herd 88972 split
+herd 12768 split
+herd id: 70523 number of members: 0,energy: 0,social attitude: 0.6749 died
+DAY: 424
+vegetob at 24,24 with 0 cells died
+herd 12768 split
+DAY: 425
+pride: 614658 attacked herd: 645967 and gained: 709
+DAY: 426
+herd 12768 split
+DAY: 427
+vegetob at 5,4 with 0 cells died
+pride 710074 split
+vegetob at 4,8 with 0 cells died
+DAY: 428
+herd 57687 split
+herd 12768 split
+DAY: 429
+DEFEATED: pride 31164
+WINNER: pride 710074 with 7 members 
+pride 87132 split
+DAY: 430
+pride id: 31164 number of members: 0,energy: 0,social attitude: 0.3547 died
+herd 12768 split
+DEFEATED: pride 60562
+WINNER: pride 87132 with 1 members 
+DAY: 431
+pride id: 60562 number of members: 0,energy: 0,social attitude: 0.0545 died
+DAY: 432
+pride 710074 split
+herd 12768 split
+DAY: 433
+DEFEATED: pride 97456
+pride: 328963 attacked herd: 37221 and gained: 2271
+DAY: 434
+herd 12768 split
+vegetob at 43,31 with 0 cells died
+DAY: 435
+DAY: 436
+herd 66154 split
+herd 2252 split
+herd 12768 split
+DAY: 437
+herd 65661 split
+pride 20353 split
+vegetob at 29,33 with 0 cells died
+DAY: 438
+vegetob at 25,16 with 0 cells died
+pride: 538915 attacked herd: 2252 and gained: 1800
+herd 12768 split
+DAY: 439
+herd 645967 split
+DAY: 440
+herd 11245 split
+herd 12768 split
+DAY: 441
+pride: 538915 attacked herd: 11245 and gained: 1107
+herd 11245 split
+herd 11245 split
+DAY: 442
+pride: 34175 attacked herd: 833701 and gained: 519
+herd 11245 split
+herd 12768 split
+herd 12768 split
+DAY: 443
+DAY: 444
+pride: 60397 attacked herd: 74855 and gained: 1060
+herd 79808 split
+DAY: 445
+herd 645967 split
+herd 77660 split
+DAY: 446
+herd 93431 split
+DAY: 447
+herd 93431 split
+herd 645967 split
+herd 93423 split
+vegetob at 31,46 with 0 cells died
+DAY: 448
+DAY: 449
+pride: 49262 attacked herd: 21815 and gained: 159
+herd id: 21815 number of members: 0,energy: 79,social attitude: 0.1181 died
+herd 93423 split
+herd 51583 split
+herd 645967 split
+vegetob at 28,35 with 0 cells died
+DAY: 450
+pride 710074 split
+pride 710074 split
+pride 29598 split
+herd 93423 split
+herd 31887 split
+herd 645967 split
+vegetob at 45,32 with 0 cells died
+DAY: 451
+DEFEATED: pride 19187
+pride 75555 split
+pride id: 19187 number of members: 0,energy: 0,social attitude: 0.3135 died
+DEFEATED: pride 20353
+WINNER: pride 36788 with 1 members 
+herd 93423 split
+herd 79725 split
+herd 287776 split
+DAY: 452
+pride id: 20801 number of members: 0,energy: 0,social attitude: 0.2747 died
+pride id: 75555 number of members: 0,energy: 0,social attitude: 0.3082 died
+pride id: 20353 number of members: 0,energy: 0,social attitude: 0.2167 died
+herd 11245 split
+vegetob at 31,30 with 0 cells died
+herd 79725 split
+herd 18493 split
+herd 35724 split
+DAY: 453
+vegetob at 6,10 with 0 cells died
+herd 87678 split
+DAY: 454
+herd 18493 split
+herd 81952 split
+DAY: 455
+herd 79725 split
+herd 81952 split
+herd 88669 split
+DAY: 456
+pride: 49262 attacked herd: 4858 and gained: 169
+herd 12768 split
+herd 93423 split
+vegetob at 29,32 with 0 cells died
+herd 20047 split
+herd 14704 split
+DAY: 457
+herd id: 4858 number of members: 0,energy: 0,social attitude: 0.0613 died
+pride: 34175 attacked herd: 833701 and gained: 839
+vegetob at 46,32 with 0 cells died
+pride: 614658 attacked herd: 30473 and gained: 833
+DAY: 458
+herd 30473 split
+herd 14704 split
+herd 97579 split
+DAY: 459
+DAY: 460
+vegetob at 3,5 with 0 cells died
+vegetob at 45,33 with 0 cells died
+DAY: 461
+herd 21888 split
+DAY: 462
+pride: 876021 attacked herd: 9175 and gained: 2097
+herd 75458 split
+herd 21888 split
+DAY: 463
+herd 74855 split
+herd 74855 split
+herd 74855 split
+DAY: 464
+herd 74855 split
+pride: 110842 attacked herd: 47492 and gained: 159
+herd 926756 split
+herd 1843 split
+DAY: 465
+DAY: 466
+herd 40505 split
+herd 40505 split
+pride: 110842 attacked herd: 47492 and gained: 381
+herd id: 47492 number of members: 0,energy: 504,social attitude: 0.009 died
+herd 926756 split
+herd 926756 split
+herd 7229 split
+pride 757216 split
+DAY: 467
+pride: 876021 attacked herd: 9175 and gained: 229
+DAY: 468
+herd id: 9175 number of members: 0,energy: 0,social attitude: 0.3084 died
+herd 40505 split
+herd 926756 split
+pride: 904362 attacked herd: 10686 and gained: 2682
+DAY: 469
+herd 40505 split
+herd 40505 split
+herd 56582 split
+pride: 553022 attacked herd: 46380 and gained: 92
+DAY: 470
+pride: 34175 attacked herd: 833701 and gained: 743
+herd 40505 split
+pride: 60397 attacked herd: 40505 and gained: 1121
+herd 926756 split
+pride 757216 split
+DAY: 471
+herd 22999 split
+DEFEATED: pride 12052
+WINNER: pride 757216 with 43 members 
+pride 757216 split
+DAY: 472
+herd 926756 split
+pride id: 12052 number of members: 0,energy: 0,social attitude: 0.3992 died
+pride 25434 split
+DAY: 473
+herd 22999 split
+pride 757216 split
+pride 25600 split
+DEFEATED: pride 13223
+WINNER: pride 757216 with 32 members 
+pride 757216 split
+pride 757216 split
+pride 25600 split
+DAY: 474
+herd 12768 split
+herd 12768 split
+herd 926756 split
+pride 14786 split
+pride id: 13223 number of members: 0,energy: 0,social attitude: 0.35 died
+pride 88500 split
+pride 88500 split
+DAY: 475
+vegetob at 1,4 with 0 cells died
+herd 22999 split
+herd 73230 split
+herd 42530 split
+herd 12768 split
+herd 12768 split
+pride 56548 split
+DEFEATED: pride 97739
+WINNER: pride 25434 with 4 members 
+pride 25434 split
+pride 25600 split
+DAY: 476
+herd 42530 split
+herd 926756 split
+pride 757216 split
+pride id: 97739 number of members: 0,energy: 0,social attitude: 0.4526 died
+DEFEATED: pride 7400
+WINNER: pride 25434 with 3 members 
+DEFEATED: pride 92861
+WINNER: pride 25600 with 2 members 
+pride 25600 split
+pride 25434 split
+pride 98 split
+vegetob at 33,38 with 0 cells died
+DAY: 477
+herd 11245 split
+pride id: 7400 number of members: 0,energy: 0,social attitude: 0.3911 died
+pride id: 92861 number of members: 0,energy: 0,social attitude: 0.3567 died
+DEFEATED: pride 14895
+pride 44416 split
+DAY: 478
+herd 22999 split
+herd 22999 split
+pride: 112452 attacked herd: 11245 and gained: 600
+herd 12768 split
+herd 926756 split
+pride 25434 split
+pride 25600 split
+pride id: 14895 number of members: 0,energy: 0,social attitude: 0.5358 died
+DAY: 479
+pride 243470 split
+pride 243470 split
+herd 58684 split
+herd 73230 split
+herd 81302 split
+vegetob at 2,12 with 0 cells died
+herd 11245 split
+pride: 112452 attacked herd: 34413 and gained: 17
+herd 12768 split
+herd 12768 split
+DEFEATED: pride 14786
+pride 757216 split
+pride id: 14786 number of members: 0,energy: 0,social attitude: 0.3751 died
+pride 93057 split
+DAY: 480
+herd 25482 split
+herd 22999 split
+herd 81302 split
+herd 11245 split
+herd 12768 split
+herd 12768 split
+herd 926756 split
+pride 43952 split
+DEFEATED: pride 25434
+WINNER: pride 757216 with 16 members 
+herd 92015 split
+DAY: 481
+pride 243470 split
+herd id: 25482 number of members: 0,energy: 0,social attitude: 0.0193 died
+herd 90741 split
+herd 11245 split
+herd id: 34413 number of members: 0,energy: 0,social attitude: 0.2113 died
+herd 12768 split
+herd 12768 split
+DEFEATED: pride 43952
+pride 757216 split
+pride id: 43952 number of members: 0,energy: 0,social attitude: 0.4387 died
+pride id: 25434 number of members: 0,energy: 0,social attitude: 0.2701 died
+DAY: 482
+pride 243470 split
+herd 1050 split
+herd 69135 split
+herd 51507 split
+herd 90741 split
+vegetob at 23,14 with 0 cells died
+herd 12768 split
+herd 12768 split
+herd 926756 split
+pride 97184 split
+herd 92015 split
+pride 757216 split
+DAY: 483
+pride 243470 split
+herd 1050 split
+herd 85898 split
+pride 243470 split
+herd 69135 split
+herd 90741 split
+herd 12768 split
+herd 12768 split
+pride 87132 split
+DEFEATED: pride 21006
+pride 76340 split
+pride id: 21006 number of members: 0,energy: 0,social attitude: 0.4232 died
+pride 35579 split
+DAY: 484
+vegetob at 1,1 with 0 cells died
+pride: 34175 attacked herd: 833701 and gained: 257
+pride 243470 split
+herd 94544 split
+herd 90741 split
+herd 12768 split
+herd 12768 split
+DEFEATED: pride 97184
+pride id: 97184 number of members: 0,energy: 0,social attitude: 0.3067 died
+pride id: 42861 number of members: 0,energy: 7,social attitude: 0.3098 died
+herd 92015 split
+pride 757216 split
+DAY: 485
+herd id: 833701 number of members: 0,energy: 0,social attitude: 0.9765 died
+herd 84099 split
+pride 243470 split
+pride 243470 split
+herd 85898 split
+pride: 538915 attacked herd: 11245 and gained: 538
+herd 12768 split
+herd 12768 split
+pride 757216 split
+DAY: 486
+pride 243470 split
+herd 45792 split
+herd 84099 split
+herd 45792 split
+herd 95272 split
+herd 85898 split
+herd 45792 split
+herd 6954 split
+herd 27758 split
+herd id: 11245 number of members: 0,energy: 0,social attitude: 0.1611 died
+herd 12768 split
+herd 12768 split
+herd 926756 split
+pride 76340 split
+DEFEATED: pride 757216
+pride 41850 split
+DEFEATED: pride 29134
+pride id: 72446 number of members: 0,energy: 10,social attitude: 0.2667 died
+DAY: 487
+pride 243470 split
+herd 99133 split
+herd 25924 split
+herd id: 6954 number of members: 0,energy: 0,social attitude: 0.0146 died
+herd 94544 split
+herd 80591 split
+herd 27758 split
+herd 12768 split
+herd 12768 split
+pride 9367 split
+pride 32275 split
+WINNER: pride 41850 with 1 members 
+DAY: 488
+pride 94441 split
+pride 243470 split
+DEFEATED: pride 61236
+DEFEATED: pride 16473
+pride id: 61236 number of members: 0,energy: 0,social attitude: 0.4598 died
+WINNER: pride 243470 with 26 members 
+herd id: 95272 number of members: 0,energy: 0,social attitude: 0.015 died
+herd id: 25924 number of members: 0,energy: 0,social attitude: 0.0146 died
+herd id: 94544 number of members: 0,energy: 0,social attitude: 0.1585 died
+herd 12768 split
+herd 12768 split
+herd 926756 split
+pride 4579 split
+pride id: 29134 number of members: 0,energy: 0,social attitude: 0.0865 died
+DAY: 489
+vegetob at 2,3 with 0 cells died
+pride id: 16473 number of members: 0,energy: 0,social attitude: 0.4433 died
+herd 84099 split
+herd 99133 split
+herd 99133 split
+herd 69725 split
+herd 47665 split
+herd 77005 split
+herd 4522 split
+herd 12768 split
+herd 12768 split
+pride 9367 split
+pride: 614658 attacked herd: 79725 and gained: 925
+DAY: 490
+pride 94441 split
+pride 243470 split
+herd 92564 split
+herd 69725 split
+pride: 60397 attacked herd: 69725 and gained: 168
+herd 94891 split
+herd id: 47665 number of members: 0,energy: 0,social attitude: 0.1569 died
+herd 77005 split
+herd 4522 split
+herd 12768 split
+herd 12768 split
+herd 926756 split
+pride: 553022 attacked herd: 46380 and gained: 145
+pride 82320 split
+pride: 614658 attacked herd: 79725 and gained: 438
+pride 98191 split
+pride 61519 split
+DAY: 491
+pride 243470 split
+DEFEATED: pride 95546
+WINNER: pride 94441 with 28 members 
+herd id: 66668 number of members: 0,energy: 0,social attitude: 0.0161 died
+pride 71330 split
+DEFEATED: pride 69173
+herd 53452 split
+herd 84099 split
+herd 80157 split
+herd 10721 split
+herd id: 94891 number of members: 0,energy: 0,social attitude: 0.1569 died
+herd 39746 split
+herd 4522 split
+herd 71424 split
+herd 12768 split
+herd 12768 split
+herd id: 79725 number of members: 0,energy: 0,social attitude: 0.007 died
+DEFEATED: pride 56306
+pride 98191 split
+pride id: 56306 number of members: 0,energy: 0,social attitude: 0.2625 died
+pride id: 28289 number of members: 0,energy: 9,social attitude: 0.276 died
+DAY: 492
+pride 243470 split
+pride id: 95546 number of members: 0,energy: 0,social attitude: 0.4287 died
+pride 243470 split
+pride 94441 split
+WINNER: pride 71330 with 2 members 
+pride id: 69173 number of members: 0,energy: 0,social attitude: 0.2772 died
+herd 84099 split
+pride: 876021 attacked herd: 84099 and gained: 180
+herd 10721 split
+herd id: 39746 number of members: 0,energy: 0,social attitude: 0.1553 died
+herd 4522 split
+herd 71424 split
+herd 926756 split
+herd 926756 split
+pride id: 61244 number of members: 0,energy: -3,social attitude: 0.2625 died
+pride 18610 split
+DAY: 493
+pride 961 split
+pride 9408 split
+herd id: 84099 number of members: 0,energy: 0,social attitude: 0.0553 died
+herd 63168 split
+herd 25482 split
+herd 46886 split
+herd 40084 split
+herd id: 4522 number of members: 0,energy: 0,social attitude: 0.2217 died
+herd 71424 split
+vegetob at 32,33 with 0 cells died
+pride 67020 split
+DAY: 494
+DEFEATED: pride 24326
+pride id: 24326 number of members: 0,energy: 0,social attitude: 0.4177 died
+herd 47266 split
+herd id: 25482 number of members: 0,energy: 0,social attitude: 0.1538 died
+herd id: 40084 number of members: 0,energy: 0,social attitude: 0.2134 died
+herd 87834 split
+herd 12768 split
+herd 926756 split
+herd 92015 split
+herd 92015 split
+DAY: 495
+pride 243470 split
+pride 74940 split
+vegetob at 2,10 with 0 cells died
+herd 30309 split
+herd 13799 split
+herd 87834 split
+herd 287776 split
+DAY: 496
+pride 243470 split
+pride 243470 split
+pride 243470 split
+pride 48075 split
+herd 63168 split
+herd 18315 split
+herd id: 30309 number of members: 0,energy: 0,social attitude: 0.1522 died
+herd 13799 split
+herd 17565 split
+herd 4698 split
+herd 12768 split
+herd 926756 split
+herd 92015 split
+DEFEATED: pride 87132
+WINNER: pride 41850 with 1 members 
+DAY: 497
+pride 94441 split
+vegetob at 5,8 with 0 cells died
+DEFEATED: pride 43590
+pride id: 43590 number of members: 0,energy: 0,social attitude: 0.3518 died
+herd 18315 split
+herd id: 73557 number of members: 0,energy: 0,social attitude: 0.1507 died
+herd id: 17565 number of members: 0,energy: 0,social attitude: 0.219 died
+herd 88167 split
+herd 88167 split
+herd 287776 split
+pride id: 87132 number of members: 0,energy: 0,social attitude: 0.0194 died
+pride 27374 split
+pride 72146 split
+DAY: 498
+DEFEATED: pride 36788
+pride id: 36788 number of members: 0,energy: 0,social attitude: 0.1018 died
+pride 46503 split
+DEFEATED: pride 35514
+WINNER: pride 94441 with 27 members 
+DEFEATED: pride 71330
+pride 243470 split
+pride id: 71330 number of members: 0,energy: 0,social attitude: 0.3282 died
+herd 96215 split
+herd 55332 split
+herd 2694 split
+herd 99905 split
+herd 12768 split
+herd 926756 split
+herd 92015 split
+pride: 328963 attacked herd: 37221 and gained: 1466
+DAY: 499
+pride: 876021 attacked herd: 58272 and gained: 2998
+pride: 49262 attacked herd: 58272 and gained: 1656
+pride 94441 split
+pride id: 35514 number of members: 0,energy: 0,social attitude: 0.3285 died
+pride 243470 split
+pride 96455 split
+herd 96215 split
+herd 99905 split
+herd 13799 split
+herd 12768 split
+herd 12768 split
+pride: 553022 attacked herd: 30650 and gained: 277
+herd 287776 split
+pride 27374 split
+herd id: 37221 number of members: 0,energy: 0,social attitude: 0.9765 died
+DAY: 500
+herd id: 58272 number of members: 0,energy: 0,social attitude: 0.224 died
+pride 94441 split
+pride 89917 split
+vegetob at 6,8 with 0 cells died
+herd 16302 split
+herd 2694 split
+herd id: 74571 number of members: 0,energy: 41,social attitude: 0.0877 died
+herd id: 99905 number of members: 0,energy: 0,social attitude: 0.0877 died
+herd id: 22063 number of members: 0,energy: 42,social attitude: 0.0877 died
+herd 12768 split
+herd 12768 split
+vegetob at 27,26 with 0 cells died
+herd 926756 split
+SAVING WORLD AT DAY 500
+Simulation state saved
+DAY: 501
+pride 961 split
+pride 94441 split
+pride 96455 split
+herd id: 16302 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride 94441 split
+DEFEATED: pride 40682
+WINNER: pride 94441 with 22 members 
+herd 84389 split
+herd 12768 split
+herd 12768 split
+herd 287776 split
+pride 27374 split
+DAY: 502
+DEFEATED: pride 40871
+WINNER: pride 25287 with 2 members 
+pride 41972 split
+herd 99268 split
+pride id: 40682 number of members: 0,energy: 0,social attitude: 0.2993 died
+DEFEATED: pride 56043
+pride id: 56043 number of members: 0,energy: 0,social attitude: 0.3479 died
+herd 926756 split
+DAY: 503
+pride id: 40871 number of members: 0,energy: 0,social attitude: 0.1743 died
+DEFEATED: pride 72315
+pride 41972 split
+pride id: 72315 number of members: 0,energy: 0,social attitude: 0.3271 died
+herd id: 99268 number of members: 0,energy: 0,social attitude: 0.0682 died
+pride 96455 split
+herd 287776 split
+DAY: 504
+DEFEATED: pride 25287
+WINNER: pride 11516 with 2 members 
+pride 11516 split
+pride id: 41972 number of members: 0,energy: 0,social attitude: 0.2146 died
+herd 40985 split
+herd 27158 split
+herd 12768 split
+herd 926756 split
+DAY: 505
+pride 31716 split
+pride id: 25287 number of members: 0,energy: 0,social attitude: 0.2333 died
+vegetob at 6,9 with 0 cells died
+pride 5997 split
+herd id: 27158 number of members: 0,energy: 0,social attitude: 0.2566 died
+herd 79913 split
+herd 3246 split
+DAY: 506
+pride 94441 split
+herd 12768 split
+herd 926756 split
+pride id: 27374 number of members: 0,energy: 24,social attitude: 0.2042 died
+pride 38185 split
+pride 38185 split
+DAY: 507
+DEFEATED: pride 47885
+WINNER: pride 31716 with 3 members 
+pride 96455 split
+pride 96455 split
+DEFEATED: pride 73444
+herd 79913 split
+herd 88167 split
+herd 88167 split
+DAY: 508
+pride id: 47885 number of members: 0,energy: 0,social attitude: 0.18 died
+WINNER: pride 96455 with 12 members 
+pride 94441 split
+herd 6482 split
+herd 98928 split
+herd 85956 split
+herd 79913 split
+herd 59336 split
+herd 12768 split
+herd 12768 split
+herd 12768 split
+herd 12768 split
+herd 926756 split
+DRAW: pride 31134 and pride 27164
+pride id: 27164 number of members: 0,energy: 21,social attitude: 0.2871 died
+pride 38185 split
+DAY: 509
+pride id: 73444 number of members: 0,energy: 0,social attitude: 0.373 died
+DEFEATED: pride 12058
+WINNER: pride 94441 with 21 members 
+pride 94441 split
+pride 96455 split
+herd id: 6482 number of members: 0,energy: 0,social attitude: 0.2829 died
+pride 94441 split
+herd id: 98928 number of members: 0,energy: 0,social attitude: 0.2829 died
+pride 94441 split
+herd id: 85956 number of members: 0,energy: 0,social attitude: 0.2829 died
+herd 12768 split
+herd 88167 split
+pride id: 31134 number of members: 0,energy: 0,social attitude: 0.2871 died
+pride 97183 split
+DAY: 510
+pride id: 12058 number of members: 0,energy: 0,social attitude: 0.3012 died
+DEFEATED: pride 3579
+pride id: 3579 number of members: 0,energy: 0,social attitude: 0.351 died
+pride 94441 split
+herd 89132 split
+herd 88338 split
+herd 926756 split
+vegetob at 32,32 with 0 cells died
+DAY: 511
+pride: 49262 attacked herd: 22999 and gained: 1186
+DEFEATED: pride 76541
+pride 94441 split
+pride id: 76541 number of members: 0,energy: 0,social attitude: 0.2465 died
+pride 74128 split
+herd 88439 split
+herd id: 89132 number of members: 0,energy: 0,social attitude: 0.3275 died
+herd 88338 split
+herd 23940 split
+herd 59336 split
+herd 88167 split
+herd 287776 split
+DAY: 512
+pride 22921 split
+herd id: 22999 number of members: 0,energy: 0,social attitude: 0.0432 died
+herd 86987 split
+DEFEATED: pride 87679
+DEFEATED: pride 33683
+pride 81242 split
+pride id: 33683 number of members: 0,energy: 0,social attitude: 0.3434 died
+WINNER: pride 78360 with 1 members 
+herd id: 88439 number of members: 0,energy: 0,social attitude: 0.3439 died
+herd id: 23940 number of members: 0,energy: 0,social attitude: 0.3002 died
+herd 12768 split
+herd 12768 split
+herd 926756 split
+pride 38185 split
+DAY: 513
+DEFEATED: pride 20208
+WINNER: pride 22921 with 3 members 
+herd id: 86987 number of members: 0,energy: 0,social attitude: 0.3611 died
+pride 94441 split
+pride id: 87679 number of members: 0,energy: 0,social attitude: 0.2973 died
+herd 88338 split
+herd 33001 split
+herd 88167 split
+herd 78747 split
+herd 287776 split
+pride 99715 split
+DAY: 514
+pride id: 20208 number of members: 0,energy: 0,social attitude: 0.2872 died
+pride 81242 split
+pride id: 78360 number of members: 0,energy: -8,social attitude: 0.2973 died
+herd 19678 split
+herd id: 88338 number of members: 0,energy: 0,social attitude: 0.3611 died
+pride: 538915 attacked herd: 39669 and gained: 172
+herd 926756 split
+pride 99715 split
+pride 20484 split
+pride 88682 split
+DAY: 515
+DEFEATED: pride 17060
+WINNER: pride 81242 with 7 members 
+herd id: 19678 number of members: 0,energy: 0,social attitude: 0.418 died
+herd id: 39669 number of members: 0,energy: 0,social attitude: 0.357 died
+herd 12768 split
+herd 88167 split
+herd 287776 split
+DAY: 516
+pride 81242 split
+pride id: 17060 number of members: 0,energy: 0,social attitude: 0.3299 died
+herd 12768 split
+herd 12768 split
+herd 926756 split
+DAY: 517
+pride 22921 split
+DEFEATED: pride 74482
+WINNER: pride 81242 with 4 members 
+pride 94441 split
+herd 70295 split
+DAY: 518
+pride id: 74482 number of members: 0,energy: 0,social attitude: 0.216 died
+DEFEATED: pride 31921
+WINNER: pride 94441 with 7 members 
+herd 70295 split
+pride: 110842 attacked herd: 12768 and gained: 555
+pride 44483 split
+pride 73179 split
+pride 20484 split
+DAY: 519
+pride id: 31921 number of members: 0,energy: 0,social attitude: 0.1904 died
+pride 57927 split
+herd 12768 split
+pride 83071 split
+DAY: 520
+DAY: 521
+pride: 49262 attacked herd: 58953 and gained: 1380
+DEFEATED: pride 53700
+pride id: 53700 number of members: 0,energy: 0,social attitude: 0.4062 died
+herd 12768 split
+herd 88167 split
+herd 88167 split
+pride 44483 split
+DAY: 522
+pride 22921 split
+herd id: 58953 number of members: 0,energy: 0,social attitude: 0.105 died
+herd 12768 split
+herd 12768 split
+herd 12768 split
+herd 926756 split
+pride 13160 split
+pride 20484 split
+pride 66667 split
+DAY: 523
+pride 81242 split
+pride 81242 split
+herd 12768 split
+herd 88167 split
+herd 287776 split
+pride 44483 split
+DAY: 524
+herd 12768 split
+herd 926756 split
+pride: 614658 attacked herd: 30650 and gained: 940
+pride 90897 split
+pride 44483 split
+DAY: 525
+pride id: 29980 number of members: 0,energy: 16,social attitude: 0.4229 died
+DEFEATED: pride 52138
+pride id: 52138 number of members: 0,energy: 0,social attitude: 0.2873 died
+herd 71206 split
+herd 88167 split
+pride 67109 split
+DAY: 526
+pride 84253 split
+DEFEATED: pride 81242
+pride 47833 split
+pride id: 81242 number of members: 0,energy: 0,social attitude: 0.4854 died
+herd 12768 split
+herd 926756 split
+DAY: 527
+pride id: 47833 number of members: 0,energy: 0,social attitude: 0.4439 died
+pride 20484 split
+DAY: 528
+DEFEATED: pride 31378
+WINNER: pride 40263 with 1 members 
+herd 12768 split
+herd 926756 split
+DAY: 529
+pride id: 31378 number of members: 0,energy: 0,social attitude: 0.283 died
+herd 12768 split
+DAY: 530
+herd 12768 split
+herd 926756 split
+herd 92015 split
+pride 98732 split
+DAY: 531
+herd 12768 split
+pride 98732 split
+DEFEATED: pride 59674
+pride 20484 split
+pride id: 59674 number of members: 0,energy: 0,social attitude: 0.2256 died
+DAY: 532
+herd 12768 split
+herd 926756 split
+pride: 614658 attacked herd: 30650 and gained: 1114
+herd 92015 split
+DEFEATED: pride 7652
+DAY: 533
+herd 71206 split
+herd 12768 split
+vegetob at 24,29 with 0 cells died
+herd 287776 split
+pride id: 7652 number of members: 0,energy: 0,social attitude: 0.3174 died
+pride 9502 split
+pride id: 1669 number of members: 0,energy: 27,social attitude: 0.1456 died
+DAY: 534
+DEFEATED: pride 85522
+pride 84253 split
+pride id: 85522 number of members: 0,energy: 0,social attitude: 0.4439 died
+herd 12768 split
+herd 926756 split
+DAY: 535
+pride id: 84253 number of members: 0,energy: 0,social attitude: 0.1776 died
+herd 71206 split
+herd 12768 split
+herd 287776 split
+herd 287776 split
+DAY: 536
+herd 12768 split
+herd 287776 split
+herd 287776 split
+DAY: 537
+pride: 876021 attacked herd: 96215 and gained: 268
+herd 12768 split
+pride id: 20207 number of members: 0,energy: 19,social attitude: 0.0774 died
+DAY: 538
+herd id: 96215 number of members: 0,energy: 0,social attitude: 0.1268 died
+herd 12768 split
+herd 926756 split
+herd 926756 split
+herd 926756 split
+pride 41850 split
+DEFEATED: pride 44026
+DAY: 539
+DEFEATED: pride 31129
+pride 40263 split
+pride id: 31129 number of members: 0,energy: 0,social attitude: 0.1776 died
+herd 926756 split
+herd 926756 split
+WINNER: pride 41850 with 1 members 
+herd 287776 split
+herd 287776 split
+DAY: 540
+pride id: 40263 number of members: 0,energy: 0,social attitude: 0.3118 died
+herd 12768 split
+pride id: 44026 number of members: 0,energy: 0,social attitude: 0.0337 died
+herd 30650 split
+herd 287776 split
+DEFEATED: pride 98732
+pride 9502 split
+pride id: 98732 number of members: 0,energy: 0,social attitude: 0.0966 died
+pride id: 44483 number of members: 0,energy: 19,social attitude: 0.098 died
+DAY: 541
+pride 94441 split
+herd 12768 split
+herd 926756 split
+herd 92015 split
+herd 92015 split
+herd 92015 split
+pride id: 9502 number of members: 0,energy: 0,social attitude: 0.4121 died
+pride 55032 split
+DAY: 542
+herd 12768 split
+herd 30650 split
+herd 287776 split
+DAY: 543
+pride 31716 split
+herd 12768 split
+herd 88426 split
+DAY: 544
+pride 31716 split
+herd 12768 split
+herd 926756 split
+herd 4376 split
+herd 926756 split
+herd 88167 split
+herd 287776 split
+herd 92015 split
+pride 24178 split
+DAY: 545
+herd 12768 split
+herd 926756 split
+herd 287776 split
+herd 287776 split
+DAY: 546
+pride 94441 split
+herd 12768 split
+herd 86522 split
+herd 86522 split
+DAY: 547
+DEFEATED: pride 50409
+WINNER: pride 94441 with 11 members 
+herd 12768 split
+herd 96580 split
+herd 287776 split
+DAY: 548
+pride 31716 split
+pride id: 50409 number of members: 0,energy: 0,social attitude: 0.2345 died
+herd 12768 split
+herd 926756 split
+DAY: 549
+pride: 843518 attacked herd: 66154 and gained: 1269
+herd 926756 split
+DAY: 550
+pride 96455 split
+DEFEATED: pride 31716
+pride 94441 split
+pride 94441 split
+herd 12768 split
+herd 12768 split
+herd 926756 split
+herd 18690 split
+herd 30650 split
+herd 30650 split
+herd 287776 split
+herd 287776 split
+DAY: 551
+pride 63788 split
+pride 46863 split
+herd 12768 split
+herd 926756 split
+herd 30650 split
+herd 30650 split
+DAY: 552
+pride 24515 split
+pride 91662 split
+DEFEATED: pride 85934
+DEFEATED: pride 16580
+pride id: 85934 number of members: 0,energy: 0,social attitude: 0.2449 died
+WINNER: pride 94441 with 12 members 
+herd 12768 split
+herd 926756 split
+DAY: 553
+pride 46922 split
+WINNER: pride 94441 with 11 members 
+herd 71206 split
+herd 12768 split
+herd 88167 split
+herd 926756 split
+herd 88167 split
+pride 42295 split
+DAY: 554
+DEFEATED: pride 26773
+DEFEATED: pride 91662
+pride id: 16580 number of members: 0,energy: 0,social attitude: 0.2377 died
+herd 12768 split
+herd 926756 split
+herd 92015 split
+DAY: 555
+pride 96455 split
+herd 12768 split
+herd 926756 split
+herd 9658 split
+herd 92015 split
+DAY: 556
+herd 926756 split
+herd 287776 split
+herd 287776 split
+DAY: 557
+DEFEATED: pride 66977
+WINNER: pride 57144 with 1 members 
+pride 96455 split
+herd 18690 split
+herd 287776 split
+DAY: 558
+pride id: 66977 number of members: 0,energy: 0,social attitude: 0.6634 died
+herd 926756 split
+herd 18690 split
+DAY: 559
+herd 12768 split
+herd 12768 split
+herd 39142 split
+DAY: 560
+pride 67898 split
+pride 67898 split
+pride 67898 split
+herd 926756 split
+herd 92015 split
+DAY: 561
+DEFEATED: pride 33229
+WINNER: pride 67898 with 2 members 
+herd 71206 split
+herd 39142 split
+herd 92015 split
+DAY: 562
+pride 67898 split
+pride id: 33229 number of members: 0,energy: 0,social attitude: 0.3738 died
+herd 12768 split
+herd 12768 split
+herd 926756 split
+DAY: 563
+DEFEATED: pride 70218
+pride id: 70218 number of members: 0,energy: 0,social attitude: 0.1941 died
+herd 12768 split
+herd 12768 split
+herd 12768 split
+herd 287776 split
+herd 287776 split
+DAY: 564
+herd 926756 split
+DAY: 565
+herd 22995 split
+DAY: 566
+DEFEATED: pride 70050
+WINNER: pride 67898 with 3 members 
+herd 12768 split
+herd 18859 split
+herd 926756 split
+DEFEATED: pride 29899
+DAY: 567
+pride id: 70050 number of members: 0,energy: 0,social attitude: 0.3625 died
+pride 67898 split
+vegetob at 7,15 with 0 cells died
+pride id: 29899 number of members: 0,energy: 0,social attitude: 0.0045 died
+DAY: 568
+pride 67898 split
+herd 926756 split
+DAY: 569
+herd 12768 split
+DAY: 570
+herd 926756 split
+herd 287776 split
+DAY: 571
+herd 12768 split
+herd 37019 split
+DAY: 572
+pride 57144 split
+herd 12768 split
+herd 12768 split
+herd 926756 split
+herd 287776 split
+DAY: 573
+pride: 843518 attacked herd: 66154 and gained: 1061
+DAY: 574
+DRAW: pride 57144 and pride 67898
+WINNER: pride 67898 with 2 members 
+herd 12768 split
+herd 71206 split
+herd 926756 split
+DAY: 575
+pride id: 57144 number of members: 0,energy: 0,social attitude: 0.2192 died
+herd 12768 split
+herd 287776 split
+herd 287776 split
+vegetob at 37,40 with 0 cells died
+DAY: 576
+herd 12768 split
+herd 926756 split
+herd 287776 split
+herd 287776 split
+DAY: 577
+herd 12768 split
+herd 12768 split
+DAY: 578
+herd 926756 split
+herd 287776 split
+DAY: 579
+pride: 843518 attacked herd: 66154 and gained: 848
+herd 12768 split
+DAY: 580
+pride 21265 split
+herd 12768 split
+herd 71206 split
+herd 12768 split
+herd 926756 split
+DAY: 581
+herd 12768 split
+herd 287776 split
+herd 287776 split
+DAY: 582
+herd 12768 split
+herd 287776 split
+herd 287776 split
+DAY: 583
+herd 12768 split
+herd 68226 split
+DAY: 584
+herd 12768 split
+herd 926756 split
+pride 98433 split
+DAY: 585
+herd 12768 split
+DAY: 586
+herd 12768 split
+herd 926756 split
+DAY: 587
+vegetob at 2,11 with 0 cells died
+herd 12768 split
+herd 287776 split
+herd 287776 split
+DAY: 588
+pride 94441 split
+herd 71206 split
+herd 926756 split
+herd 287776 split
+herd 93813 split
+herd 287776 split
+DAY: 589
+pride 94441 split
+herd 12768 split
+herd 12768 split
+herd 93813 split
+DAY: 590
+herd id: 736 number of members: 0,energy: 33,social attitude: 0.0077 died
+herd 71206 split
+herd 926756 split
+herd 287776 split
+DAY: 591
+herd 71206 split
+DAY: 592
+herd 12768 split
+herd 12768 split
+herd 926756 split
+herd 51296 split
+DAY: 593
+herd 287776 split
+herd 287776 split
+DAY: 594
+pride 96455 split
+vegetob at 4,14 with 0 cells died
+herd 12768 split
+herd 12768 split
+herd 926756 split
+herd 287776 split
+DAY: 595
+herd 51296 split
+DAY: 596
+pride 96455 split
+herd 12768 split
+herd 12768 split
+herd 926756 split
+DAY: 597
+herd 71206 split
+herd 12768 split
+DAY: 598
+pride 96455 split
+herd 12768 split
+herd 12768 split
+herd 12768 split
+herd 926756 split
+herd 51296 split
+DAY: 599
+herd 71206 split
+vegetob at 18,26 with 0 cells died
+herd 18690 split
+herd 18690 split
+herd 287776 split
+herd 287776 split
+herd 287776 split
+DAY: 600
+pride 67898 split
+pride: 538915 attacked herd: 12768 and gained: 1132
+herd 926756 split
+herd 18690 split
+herd 18690 split
+herd 287776 split
+SAVING WORLD AT DAY 600
+Simulation state saved
+DAY: 601
+pride 63431 split
+herd 12768 split
+herd 91697 split
+herd 91697 split
+herd 29114 split
+herd 51296 split
+pride 5487 split
+DAY: 602
+pride 22423 split
+pride 67898 split
+herd 926756 split
+herd 926756 split
+herd 926756 split
+herd 61481 split
+herd 51296 split
+herd 51296 split
+DAY: 603
+pride 96455 split
+pride: 843518 attacked herd: 66154 and gained: 68
+herd 12768 split
+herd 18690 split
+herd 287776 split
+herd 61481 split
+DAY: 604
+herd id: 66154 number of members: 0,energy: 0,social attitude: 0.9923 died
+herd 926756 split
+pride: 614658 attacked herd: 30650 and gained: 1212
+herd 287776 split
+herd 287776 split
+DAY: 605
+herd 12768 split
+herd 18690 split
+herd 18690 split
+herd 287776 split
+DAY: 606
+DEFEATED: pride 96455
+DEFEATED: pride 42086
+WINNER: pride 21265 with 1 members 
+pride 67898 split
+herd 926756 split
+DAY: 607
+pride 63951 split
+pride id: 42086 number of members: 0,energy: 0,social attitude: 0.171 died
+pride 67898 split
+herd 12768 split
+DAY: 608
+pride 63951 split
+pride 56360 split
+herd 18690 split
+herd 287776 split
+herd 61481 split
+herd 61481 split
+DAY: 609
+herd 12768 split
+herd 287776 split
+herd 287776 split
+DAY: 610
+DEFEATED: pride 27174
+WINNER: pride 63951 with 1 members 
+herd 926756 split
+DAY: 611
+pride id: 27174 number of members: 0,energy: 0,social attitude: 0.2045 died
+pride 63951 split
+DEFEATED: pride 94441
+WINNER: pride 322455 with 48 members 
+herd 12768 split
+herd 18139 split
+DAY: 612
+pride 63951 split
+pride id: 94441 number of members: 0,energy: 0,social attitude: 0.5404 died
+herd 926756 split
+herd 61481 split
+DAY: 613
+herd 12768 split
+herd 35666 split
+herd 287776 split
+DAY: 614
+herd 926756 split
+herd 30650 split
+herd 287776 split
+herd 287776 split
+DAY: 615
+DRAW: pride 56360 and pride 43839
+pride id: 43839 number of members: 0,energy: 19,social attitude: 0.3368 died
+herd 12768 split
+herd 30650 split
+herd 30650 split
+herd 287776 split
+DAY: 616
+pride 63951 split
+pride id: 56360 number of members: 0,energy: 0,social attitude: 0.3368 died
+herd 926756 split
+DAY: 617
+pride 63951 split
+herd 12768 split
+pride id: 98433 number of members: 0,energy: 0,social attitude: 0.2063 died
+DAY: 618
+herd 926756 split
+herd 30650 split
+herd 287776 split
+DAY: 619
+pride 11276 split
+herd 12768 split
+herd 287776 split
+herd 287776 split
+DAY: 620
+herd 926756 split
+herd 30650 split
+herd 287776 split
+herd 92015 split
+DAY: 621
+herd 21151 split
+herd 92015 split
+DAY: 622
+DAY: 623
+pride 11276 split
+herd 30650 split
+herd 30650 split
+DAY: 624
+herd 926756 split
+herd 30650 split
+herd 30650 split
+herd 287776 split
+herd 287776 split
+DAY: 625
+herd 12768 split
+herd 12768 split
+herd 926756 split
+herd 16743 split
+herd 30650 split
+herd 92015 split
+herd 287776 split
+herd 92015 split
+DAY: 626
+pride 11276 split
+DEFEATED: pride 11276
+pride 94973 split
+WINNER: pride 94973 with 1 members 
+herd 12768 split
+herd 12768 split
+herd 16743 split
+DAY: 627
+pride id: 11276 number of members: 0,energy: 0,social attitude: 0.3631 died
+herd 12768 split
+herd 12768 split
+herd 926756 split
+herd 926756 split
+herd 926756 split
+DAY: 628
+herd 926756 split
+herd 66102 split
+pride: 614658 attacked herd: 30650 and gained: 966
+herd 287776 split
+DAY: 629
+herd id: 30650 number of members: 0,energy: 0,social attitude: 0.4171 died
+herd 92015 split
+herd 287776 split
+herd 287776 split
+DAY: 630
+pride 21265 split
+herd 12768 split
+herd 926756 split
+herd 287776 split
+herd 92015 split
+DAY: 631
+pride 20671 split
+pride 505466 split
+herd 926756 split
+DAY: 632
+DEFEATED: pride 96783
+pride id: 96783 number of members: 0,energy: 0,social attitude: 0.1378 died
+DEFEATED: pride 19036
+pride 21265 split
+pride id: 19036 number of members: 0,energy: 0,social attitude: 0.1118 died
+herd 12768 split
+herd 926756 split
+DAY: 633
+pride id: 21265 number of members: 0,energy: -9,social attitude: 0.1107 died
+pride 505466 split
+pride 505466 split
+herd 926756 split
+herd 287776 split
+DAY: 634
+herd 12768 split
+pride 61989 split
+pride 505466 split
+pride 30905 split
+herd 926756 split
+herd 92015 split
+herd 287776 split
+DAY: 635
+pride: 538915 attacked herd: 12768 and gained: 731
+DEFEATED: pride 35391
+herd 926756 split
+herd 926756 split
+herd 92015 split
+DAY: 636
+herd id: 12768 number of members: 0,energy: 0,social attitude: 0.005 died
+DEFEATED: pride 85401
+WINNER: pride 505466 with 45 members 
+pride id: 35391 number of members: 0,energy: 0,social attitude: 0.4695 died
+herd 80735 split
+DAY: 637
+pride 505466 split
+pride id: 85401 number of members: 0,energy: 0,social attitude: 0.4255 died
+herd 926756 split
+herd 3603 split
+herd 3603 split
+herd 287776 split
+herd 287776 split
+DAY: 638
+pride 505466 split
+DEFEATED: pride 4733
+DEFEATED: pride 54258
+herd 926756 split
+herd 95571 split
+herd 95571 split
+herd 92015 split
+herd 287776 split
+DAY: 639
+DEFEATED: pride 71793
+WINNER: pride 50465 with 1 members 
+herd 926756 split
+pride 14749 split
+herd 19374 split
+herd 19374 split
+DAY: 640
+pride id: 71793 number of members: 0,energy: 0,social attitude: 0.4566 died
+herd 92015 split
+DAY: 641
+herd 926756 split
+pride 14749 split
+herd 8888 split
+herd 8888 split
+herd 287776 split
+DAY: 642
+pride 505466 split
+pride id: 14749 number of members: 0,energy: 0,social attitude: 0.3551 died
+herd 287776 split
+herd 287776 split
+DAY: 643
+pride 505466 split
+pride 73596 split
+herd 926756 split
+pride 65463 split
+herd 90522 split
+herd 90522 split
+herd 93813 split
+herd 287776 split
+herd 93813 split
+herd 25397 split
+DAY: 644
+pride 505466 split
+pride 505466 split
+pride 32142 split
+pride id: 65463 number of members: 0,energy: 0,social attitude: 0.3551 died
+herd 92015 split
+herd 93813 split
+DAY: 645
+DEFEATED: pride 88023
+DEFEATED: pride 32142
+WINNER: pride 505466 with 32 members 
+DEFEATED: pride 66271
+WINNER: pride 505466 with 33 members 
+pride 505466 split
+pride 73596 split
+DEFEATED: pride 22086
+herd 926756 split
+herd 926756 split
+herd 926756 split
+herd 12003 split
+DAY: 646
+pride id: 88023 number of members: 0,energy: 0,social attitude: 0.4243 died
+WINNER: pride 33284 with 1 members 
+WINNER: pride 33284 with 1 members 
+pride id: 66271 number of members: 0,energy: 0,social attitude: 0.4511 died
+WINNER: pride 73596 with 4 members 
+herd 99063 split
+DAY: 647
+pride id: 32142 number of members: 0,energy: 0,social attitude: 0.4084 died
+pride 505466 split
+pride id: 22086 number of members: 0,energy: 0,social attitude: 0.391 died
+herd 926756 split
+herd 99063 split
+herd 926756 split
+herd 926756 split
+herd 92015 split
+herd 287776 split
+herd 287776 split
+herd 67120 split
+DAY: 648
+pride 6930 split
+pride 505466 split
+pride 25126 split
+herd 51857 split
+herd 926756 split
+herd 926756 split
+herd 92015 split
+herd 287776 split
+herd 65480 split
+herd 61481 split
+herd 61481 split
+DAY: 649
+DEFEATED: pride 91332
+WINNER: pride 505466 with 28 members 
+pride 505466 split
+pride id: 25126 number of members: 0,energy: 0,social attitude: 0.3551 died
+herd 10769 split
+herd 10769 split
+herd 287776 split
+herd 96894 split
+herd 287776 split
+herd 287776 split
+pride 41850 split
+DAY: 650
+pride 30549 split
+pride id: 91332 number of members: 0,energy: 0,social attitude: 0.4056 died
+herd 926756 split
+herd 93813 split
+herd 61481 split
+herd 74119 split
+herd 287776 split
+herd 93813 split
+herd 287776 split
+herd 3649 split
+DAY: 651
+pride 73596 split
+pride 93002 split
+herd 82300 split
+herd 51296 split
+herd 96894 split
+herd 50364 split
+herd 287776 split
+herd 51296 split
+herd 287776 split
+herd 51296 split
+DAY: 652
+pride 30549 split
+pride 505466 split
+pride 505466 split
+pride id: 93002 number of members: 0,energy: 0,social attitude: 0.3551 died
+herd 82300 split
+herd 61481 split
+herd 287776 split
+DAY: 653
+pride 30549 split
+DEFEATED: pride 68974
+WINNER: pride 91890 with 6 members 
+pride 91890 split
+herd 926756 split
+herd 82300 split
+herd 926756 split
+herd 926756 split
+herd 51296 split
+herd 287776 split
+herd 56421 split
+DAY: 654
+pride id: 68974 number of members: 0,energy: 0,social attitude: 0.4863 died
+pride 91890 split
+pride 16306 split
+herd 12212 split
+herd 287776 split
+herd 61481 split
+herd 16142 split
+herd 61481 split
+DAY: 655
+pride 505466 split
+pride 505466 split
+pride 91890 split
+pride id: 16306 number of members: 0,energy: 0,social attitude: 0.3551 died
+herd 287776 split
+herd 85985 split
+DAY: 656
+pride 505466 split
+DEFEATED: pride 89459
+WINNER: pride 91890 with 1 members 
+pride 73596 split
+herd 926756 split
+pride 50465 split
+herd 287776 split
+herd 287776 split
+DAY: 657
+DEFEATED: pride 60110
+pride 3901 split
+pride id: 60110 number of members: 0,energy: 0,social attitude: 0.374 died
+pride id: 89459 number of members: 0,energy: 0,social attitude: 0.3273 died
+DEFEATED: pride 92250
+WINNER: pride 73596 with 2 members 
+herd 926756 split
+herd 6007 split
+herd 287776 split
+herd 287776 split
+DAY: 658
+pride 3901 split
+pride id: 92250 number of members: 0,energy: 0,social attitude: 0.4352 died
+herd 926756 split
+pride id: 32837 number of members: 0,energy: 0,social attitude: 0.3551 died
+herd 287776 split
+herd 45026 split
+DAY: 659
+pride 505466 split
+herd 85584 split
+herd 94012 split
+pride 73596 split
+herd 24165 split
+herd 45026 split
+herd 45026 split
+herd 3649 split
+DAY: 660
+pride 67898 split
+pride 34151 split
+herd 926756 split
+herd 26886 split
+herd 24165 split
+herd 26886 split
+herd 24165 split
+DAY: 661
+pride 3901 split
+DEFEATED: pride 211
+pride 505466 split
+pride id: 211 number of members: 0,energy: 0,social attitude: 0.354 died
+pride 53916 split
+herd 66843 split
+herd 66843 split
+herd 926756 split
+herd 94012 split
+DEFEATED: pride 50465
+pride 73596 split
+pride id: 50465 number of members: 0,energy: 0,social attitude: 0.3035 died
+herd 55055 split
+herd 55055 split
+DAY: 662
+pride 79151 split
+DRAW: pride 34151 and pride 37259
+pride 34151 split
+pride id: 37259 number of members: 0,energy: 13,social attitude: 0.3767 died
+pride 3901 split
+herd 66843 split
+herd 21099 split
+herd 926756 split
+herd 26886 split
+herd 287776 split
+herd 26886 split
+herd 287776 split
+herd 26886 split
+DAY: 663
+pride 79151 split
+pride 505466 split
+DEFEATED: pride 42421
+WINNER: pride 505466 with 15 members 
+pride 505466 split
+pride 505466 split
+pride 505466 split
+pride 12153 split
+vegetob at 18,25 with 0 cells died
+pride id: 3901 number of members: 0,energy: 0,social attitude: 0.294 died
+herd 14966 split
+herd 85256 split
+herd 44864 split
+herd 287776 split
+DAY: 664
+pride id: 42421 number of members: 0,energy: 0,social attitude: 0.381 died
+pride 72320 split
+pride 505466 split
+herd 56576 split
+herd 85256 split
+herd 35791 split
+herd 62145 split
+herd 31820 split
+DAY: 665
+pride 82135 split
+pride 34151 split
+pride: 22500 attacked herd: 93423 and gained: 1854
+herd 56576 split
+herd 66408 split
+herd 85256 split
+herd 83071 split
+herd 287776 split
+herd 24165 split
+herd 62640 split
+DAY: 666
+DEFEATED: pride 26540
+WINNER: pride 82135 with 2 members 
+DEFEATED: pride 61473
+pride 505466 split
+pride 66098 split
+herd 14966 split
+herd 14966 split
+herd 1865 split
+herd 66408 split
+herd 72484 split
+herd 287776 split
+herd 45026 split
+herd 287776 split
+herd 45026 split
+DAY: 667
+pride 67898 split
+pride 86597 split
+pride id: 26540 number of members: 0,energy: 0,social attitude: 0.3289 died
+DEFEATED: pride 4720
+pride 11674 split
+pride id: 4720 number of members: 0,energy: 0,social attitude: 0.3242 died
+vegetob at 19,25 with 0 cells died
+herd 14966 split
+herd 14966 split
+herd 66408 split
+herd 76534 split
+herd 72484 split
+herd 47333 split
+herd 287776 split
+herd 62145 split
+herd 287776 split
+herd 98409 split
+herd 98409 split
+herd 55239 split
+DAY: 668
+DEFEATED: pride 90919
+pride 86597 split
+pride id: 90919 number of members: 0,energy: 0,social attitude: 0.2643 died
+pride 3245 split
+pride 11674 split
+pride 39275 split
+pride 9535 split
+herd 34197 split
+herd 49100 split
+herd 12944 split
+herd id: 77604 number of members: 0,energy: 0,social attitude: 0.0263 died
+herd 287776 split
+herd 69448 split
+DAY: 669
+pride id: 86597 number of members: 0,energy: 0,social attitude: 0.36 died
+DEFEATED: pride 42607
+pride 11674 split
+pride 39275 split
+herd 14966 split
+herd 12944 split
+herd 91785 split
+herd 26886 split
+herd 4270 split
+pride: 614658 attacked herd: 31820 and gained: 1816
+DAY: 670
+DEFEATED: pride 87059
+WINNER: pride 67898 with 4 members 
+pride id: 42607 number of members: 0,energy: 0,social attitude: 0.2727 died
+DEFEATED: pride 34783
+DEFEATED: pride 55120
+pride 11674 split
+pride id: 34783 number of members: 0,energy: 0,social attitude: 0.209 died
+WINNER: pride 11674 with 4 members 
+herd 7399 split
+herd 14966 split
+herd 12944 split
+herd 91785 split
+DEFEATED: pride 41850
+WINNER: pride 16754 with 1 members 
+herd id: 31820 number of members: 0,energy: 0,social attitude: 0.1633 died
+DAY: 671
+pride id: 87059 number of members: 0,energy: 0,social attitude: 0.2228 died
+pride 95292 split
+pride 11674 split
+herd 7399 split
+herd 14966 split
+herd 46061 split
+herd 99090 split
+herd 91785 split
+herd 287776 split
+herd 77032 split
+pride id: 41850 number of members: 0,energy: 0,social attitude: 0.0117 died
+DAY: 672
+pride 505466 split
+DEFEATED: pride 25891
+WINNER: pride 95292 with 3 members 
+pride 95292 split
+herd 73043 split
+herd 7399 split
+herd 73920 split
+herd 14966 split
+herd 95475 split
+herd 9580 split
+herd 91785 split
+DAY: 673
+pride 84316 split
+pride 93258 split
+pride id: 25891 number of members: 0,energy: 0,social attitude: 0.2894 died
+DEFEATED: pride 71347
+herd 7399 split
+vegetob at 42,25 with 0 cells died
+herd 95475 split
+herd id: 9580 number of members: 0,energy: 0,social attitude: 0.0289 died
+herd id: 91785 number of members: 0,energy: 0,social attitude: 0.06 died
+DAY: 674
+pride 93258 split
+herd 7399 split
+herd 46061 split
+herd 287776 split
+herd 287776 split
+DAY: 675
+herd 27629 split
+herd 29718 split
+herd 29718 split
+herd 7399 split
+herd 14804 split
+pride: 322455 attacked herd: 46061 and gained: 545
+herd 8022 split
+herd 16507 split
+DAY: 676
+pride 99956 split
+pride 99956 split
+pride 20931 split
+herd 50793 split
+herd 27629 split
+herd 29718 split
+herd 22451 split
+herd 7399 split
+vegetob at 42,26 with 0 cells died
+herd 56450 split
+DAY: 677
+pride 14730 split
+pride 99956 split
+pride 28181 split
+herd 50793 split
+herd 78065 split
+herd 7399 split
+herd id: 46061 number of members: 0,energy: 0,social attitude: 0.047 died
+herd 287776 split
+herd 10184 split
+DAY: 678
+DEFEATED: pride 50204
+DEFEATED: pride 15024
+WINNER: pride 28181 with 1 members 
+herd 22451 split
+herd 27629 split
+DEFEATED: pride 99956
+herd 67132 split
+herd 64898 split
+herd 7399 split
+herd 69418 split
+herd 69418 split
+herd 82096 split
+herd 287776 split
+vegetob at 32,47 with 0 cells died
+DAY: 679
+pride 91217 split
+pride id: 91217 number of members: 0,energy: -6,social attitude: 0.2563 died
+pride id: 15024 number of members: 0,energy: 0,social attitude: 0.2956 died
+herd 22451 split
+herd 78065 split
+herd 7399 split
+herd 82096 split
+herd 287776 split
+DAY: 680
+pride id: 50394 number of members: 0,energy: -5,social attitude: 0.2563 died
+herd 87564 split
+herd 22451 split
+herd 78065 split
+DEFEATED: pride 73596
+pride id: 73596 number of members: 0,energy: 0,social attitude: 0.2645 died
+herd 67132 split
+herd 7399 split
+herd 60730 split
+herd 70242 split
+herd 76635 split
+herd 23223 split
+herd 287776 split
+herd 84583 split
+DAY: 681
+herd 37531 split
+herd 87564 split
+herd 16985 split
+herd 55002 split
+herd 55564 split
+herd 67132 split
+herd 7399 split
+herd id: 60730 number of members: 0,energy: 0,social attitude: 0.0847 died
+herd 76635 split
+herd 287776 split
+DAY: 682
+pride 60397 split
+herd 88972 split
+herd 43924 split
+herd 16985 split
+herd 67583 split
+herd 55002 split
+herd 9388 split
+herd 78065 split
+herd 67132 split
+herd 7399 split
+herd 54054 split
+herd 76635 split
+DAY: 683
+pride 60397 split
+pride 60397 split
+herd 88972 split
+herd 43924 split
+herd 55564 split
+herd 16985 split
+herd id: 67583 number of members: 0,energy: 0,social attitude: 0.0354 died
+herd 15222 split
+herd 78065 split
+herd id: 67132 number of members: 0,energy: 0,social attitude: 0.026 died
+herd id: 7399 number of members: 0,energy: 0,social attitude: 0.1289 died
+herd id: 54054 number of members: 0,energy: 0,social attitude: 0.1363 died
+herd 76635 split
+herd 287776 split
+herd 287776 split
+herd 287776 split
+DAY: 684
+pride 60397 split
+pride 60397 split
+pride 60397 split
+herd id: 88972 number of members: 0,energy: 0,social attitude: 0.0259 died
+herd id: 43924 number of members: 0,energy: 0,social attitude: 0.0195 died
+herd 42650 split
+herd 16985 split
+herd 55564 split
+herd 15222 split
+herd 78065 split
+herd 35109 split
+herd 17294 split
+herd id: 82935 number of members: 0,energy: 1,social attitude: 0.1277 died
+herd 13737 split
+herd 18359 split
+herd 46017 split
+herd 94104 split
+DAY: 685
+pride 80495 split
+pride 60397 split
+herd 54496 split
+herd 42650 split
+herd 15990 split
+herd 55564 split
+herd 46325 split
+herd 37941 split
+herd id: 17294 number of members: 0,energy: 0,social attitude: 0.1277 died
+herd 35109 split
+DEFEATED: pride 95015
+WINNER: pride 505466 with 6 members 
+herd 53673 split
+DAY: 686
+DEFEATED: pride 96045
+pride 60397 split
+herd 16985 split
+herd id: 42650 number of members: 0,energy: 0,social attitude: 0.0275 died
+herd 69320 split
+herd 55564 split
+herd 46325 split
+herd 82970 split
+herd id: 37941 number of members: 0,energy: 0,social attitude: 0.0922 died
+herd 35109 split
+pride id: 95015 number of members: 0,energy: 0,social attitude: 0.2944 died
+herd 287776 split
+herd 43511 split
+herd 50668 split
+DAY: 687
+pride 60397 split
+pride 90088 split
+DEFEATED: pride 90088
+pride id: 90088 number of members: 0,energy: 0,social attitude: 0.3182 died
+pride 9826 split
+herd 27544 split
+herd 16985 split
+herd 57142 split
+herd 60276 split
+herd 69320 split
+herd 55564 split
+herd 46325 split
+herd 82970 split
+herd 35109 split
+herd 91455 split
+herd 29180 split
+herd 31661 split
+herd 7264 split
+herd 287776 split
+DAY: 688
+pride 60397 split
+DEFEATED: pride 357
+pride 67011 split
+pride 28046 split
+herd 16985 split
+herd 57142 split
+herd 24203 split
+herd 66645 split
+herd 82970 split
+herd 24786 split
+herd 80758 split
+herd 99474 split
+herd 29180 split
+herd 31661 split
+DAY: 689
+DEFEATED: pride 11402
+pride id: 11402 number of members: 0,energy: 0,social attitude: 0.5509 died
+herd 59287 split
+herd 2565 split
+herd id: 16985 number of members: 0,energy: 0,social attitude: 0.0283 died
+herd 24203 split
+herd id: 82970 number of members: 0,energy: 0,social attitude: 0.0294 died
+herd id: 80758 number of members: 0,energy: 0,social attitude: 0.0294 died
+herd id: 99474 number of members: 0,energy: 0,social attitude: 0.0949 died
+herd id: 29180 number of members: 0,energy: 0,social attitude: 0.0485 died
+herd 45006 split
+herd 45006 split
+herd 31661 split
+herd 287776 split
+herd 50668 split
+vegetob at 31,48 with 0 cells died
+DAY: 690
+pride 60397 split
+DEFEATED: pride 27298
+pride 45167 split
+herd 58899 split
+herd 2565 split
+herd 42993 split
+herd 46532 split
+herd 75169 split
+herd 73296 split
+herd 28148 split
+herd 12128 split
+herd 35109 split
+herd 31661 split
+herd 41247 split
+herd 8035 split
+herd 45441 split
+DAY: 691
+WINNER: pride 60397 with 21 members 
+pride 67011 split
+herd 46532 split
+herd 75169 split
+herd id: 12128 number of members: 0,energy: 0,social attitude: 0.0294 died
+herd 39426 split
+herd 35109 split
+DEFEATED: pride 28181
+pride id: 28181 number of members: 0,energy: 0,social attitude: 0.41 died
+herd 77491 split
+herd 31661 split
+herd 41247 split
+herd 80257 split
+herd 287776 split
+DAY: 692
+pride id: 27298 number of members: 0,energy: 0,social attitude: 0.3967 died
+pride 34175 split
+pride 34175 split
+herd 52276 split
+herd 73296 split
+herd 39426 split
+herd 24262 split
+herd 77491 split
+herd 17520 split
+herd 41247 split
+herd 41247 split
+herd 80257 split
+herd 69037 split
+DAY: 693
+pride 60397 split
+pride 60397 split
+pride 76558 split
+herd 75169 split
+herd 52276 split
+herd 73296 split
+herd 39426 split
+herd 24262 split
+herd 77491 split
+herd 22270 split
+herd 92848 split
+herd 41247 split
+herd id: 80257 number of members: 0,energy: 0,social attitude: 0.1381 died
+herd 287776 split
+DAY: 694
+pride 60397 split
+DEFEATED: pride 99461
+WINNER: pride 51811 with 1 members 
+DEFEATED: pride 64617
+pride id: 64617 number of members: 0,energy: 0,social attitude: 0.3338 died
+herd 18734 split
+herd 75169 split
+herd 67450 split
+herd 52276 split
+herd 56700 split
+herd 24262 split
+herd id: 77491 number of members: 0,energy: 0,social attitude: 0.1513 died
+herd 80966 split
+herd 287776 split
+DAY: 695
+DEFEATED: pride 28263
+WINNER: pride 60397 with 12 members 
+pride 60397 split
+pride id: 99461 number of members: 0,energy: 0,social attitude: 0.3517 died
+pride 34175 split
+pride 67011 split
+herd 20552 split
+herd 63356 split
+herd 18734 split
+herd 75169 split
+herd 73296 split
+herd 74882 split
+herd 67450 split
+herd 52276 split
+herd id: 56700 number of members: 0,energy: 0,social attitude: 0.0837 died
+herd 48596 split
+herd 1546 split
+herd 22270 split
+herd 32297 split
+herd 53464 split
+herd id: 80966 number of members: 0,energy: 0,social attitude: 0.0338 died
+herd 287776 split
+DAY: 696
+pride 60397 split
+pride id: 28263 number of members: 0,energy: 0,social attitude: 0.3236 died
+DEFEATED: pride 20884
+WINNER: pride 60397 with 7 members 
+pride 60397 split
+pride 69368 split
+pride 60397 split
+pride 34175 split
+DEFEATED: pride 87790
+herd 25205 split
+herd 20552 split
+herd 82640 split
+herd 18734 split
+herd 75169 split
+herd 73296 split
+herd 63356 split
+herd 52276 split
+herd id: 48596 number of members: 0,energy: 0,social attitude: 0.0345 died
+herd 26764 split
+herd 22270 split
+herd id: 32297 number of members: 0,energy: 0,social attitude: 0.0338 died
+herd 53464 split
+herd 60571 split
+herd 287776 split
+DAY: 697
+pride id: 20884 number of members: 0,energy: 0,social attitude: 0.3976 died
+DEFEATED: pride 5833
+pride 34175 split
+pride id: 5833 number of members: 0,energy: 0,social attitude: 0.5203 died
+pride 60397 split
+pride id: 87790 number of members: 0,energy: 0,social attitude: 0.2658 died
+herd 25205 split
+herd 25311 split
+herd 75169 split
+herd 73296 split
+herd 52878 split
+herd 1546 split
+herd 22270 split
+herd 72138 split
+herd id: 60571 number of members: 0,energy: 0,social attitude: 0.0355 died
+herd 287776 split
+herd 27722 split
+DAY: 698
+DEFEATED: pride 69761
+DEFEATED: pride 69368
+pride id: 69368 number of members: 0,energy: 0,social attitude: 0.3908 died
+WINNER: pride 12705 with 2 members 
+pride 93276 split
+DEFEATED: pride 1240
+WINNER: pride 60397 with 2 members 
+pride 40165 split
+pride 67011 split
+DEFEATED: pride 17516
+herd 66387 split
+herd 25205 split
+herd 63311 split
+herd 35068 split
+herd 75169 split
+herd 73296 split
+herd 73296 split
+herd 63356 split
+herd 95063 split
+herd 12425 split
+herd 22270 split
+herd 83180 split
+herd 27350 split
+DAY: 699
+pride id: 69761 number of members: 0,energy: 0,social attitude: 0.4036 died
+pride 34175 split
+pride 47370 split
+pride id: 1240 number of members: 0,energy: 0,social attitude: 0.2035 died
+pride id: 40165 number of members: 0,energy: 0,social attitude: 0.296 died
+pride 50609 split
+herd 66387 split
+herd 2081 split
+herd 35068 split
+herd 75169 split
+herd 75499 split
+herd 71335 split
+herd 63356 split
+herd 85379 split
+herd id: 12425 number of members: 0,energy: 0,social attitude: 0.0337 died
+herd 54131 split
+herd 78841 split
+herd id: 22270 number of members: 0,energy: 0,social attitude: 0.0342 died
+herd 83180 split
+herd 287776 split
+DAY: 700
+pride 47370 split
+pride 34175 split
+pride 47370 split
+WINNER: pride 40863 with 1 members 
+pride 40863 split
+DEFEATED: pride 40863
+herd 63311 split
+herd 63311 split
+herd 2081 split
+herd 35068 split
+herd id: 75169 number of members: 0,energy: 0,social attitude: 0.0366 died
+herd 73296 split
+herd 71335 split
+herd 63356 split
+herd 85379 split
+herd 54131 split
+herd id: 78841 number of members: 0,energy: 0,social attitude: 0.0342 died
+herd 76460 split
+herd 83180 split
+herd 29606 split
+herd 77380 split
+SAVING WORLD AT DAY 700
+Simulation state saved
+DAY: 701
+pride 94979 split
+pride 34175 split
+pride 79768 split
+pride id: 50609 number of members: 0,energy: 0,social attitude: 0.293 died
+DEFEATED: pride 13760
+pride id: 13760 number of members: 0,energy: 0,social attitude: 0.2901 died
+herd 52418 split
+herd 63311 split
+herd 54212 split
+herd 2081 split
+herd 35068 split
+herd 1918 split
+herd 31217 split
+herd 63356 split
+herd 14864 split
+herd 56849 split
+herd id: 54131 number of members: 0,energy: 0,social attitude: 0.155 died
+herd 2855 split
+herd 37431 split
+herd 76460 split
+herd 83180 split
+herd 29606 split
+herd 287776 split
+DAY: 702
+DEFEATED: pride 15989
+pride id: 15989 number of members: 0,energy: 0,social attitude: 0.264 died
+pride 47370 split
+DEFEATED: pride 65778
+WINNER: pride 21522 with 3 members 
+pride 21522 split
+pride 34175 split
+DEFEATED: pride 837
+pride 21522 split
+pride id: 40863 number of members: 0,energy: 0,social attitude: 0.2901 died
+herd 52418 split
+herd 63311 split
+herd 54212 split
+herd id: 2081 number of members: 0,energy: 0,social attitude: 0.0741 died
+herd 340 split
+herd id: 31217 number of members: 0,energy: 0,social attitude: 0.0505 died
+herd 63356 split
+herd 14864 split
+herd 27860 split
+herd id: 2855 number of members: 0,energy: 0,social attitude: 0.0799 died
+herd 37431 split
+herd 83264 split
+herd 63195 split
+herd id: 76460 number of members: 0,energy: 0,social attitude: 0.1838 died
+herd 83180 split
+herd 287776 split
+DAY: 703
+pride 47370 split
+pride id: 65778 number of members: 0,energy: 0,social attitude: 0.5336 died
+pride 34175 split
+pride id: 837 number of members: 0,energy: 0,social attitude: 0.6849 died
+herd 52418 split
+herd 63311 split
+herd 54212 split
+herd 48623 split
+herd 66235 split
+herd 27341 split
+herd 340 split
+herd 21815 split
+herd 32808 split
+herd 28528 split
+herd 14864 split
+pride 34151 split
+herd 31690 split
+herd id: 37431 number of members: 0,energy: 0,social attitude: 0.0839 died
+herd id: 63195 number of members: 0,energy: 0,social attitude: 0.0839 died
+herd 29606 split
+herd 83180 split
+herd 40832 split
+DAY: 704
+pride 47370 split
+pride 21648 split
+DEFEATED: pride 21648
+pride id: 21648 number of members: 0,energy: 0,social attitude: 0.3902 died
+DEFEATED: pride 24444
+WINNER: pride 99852 with 1 members 
+herd 70070 split
+herd 63311 split
+herd 86156 split
+herd 54212 split
+herd 48623 split
+herd 41762 split
+herd 340 split
+herd 21815 split
+herd 32808 split
+herd 56932 split
+herd 28528 split
+herd 27860 split
+DEFEATED: pride 69403
+WINNER: pride 34151 with 1 members 
+herd 42749 split
+herd 32999 split
+herd id: 31690 number of members: 0,energy: 0,social attitude: 0.0342 died
+herd 39974 split
+pride 505466 split
+herd 83264 split
+herd 93873 split
+herd 95254 split
+herd 25670 split
+herd 17102 split
+DAY: 705
+DEFEATED: pride 77950
+WINNER: pride 34175 with 13 members 
+pride 34175 split
+DEFEATED: pride 99852
+WINNER: pride 79768 with 2 members 
+pride id: 24444 number of members: 0,energy: 0,social attitude: 0.5012 died
+herd 70070 split
+herd id: 86156 number of members: 0,energy: 0,social attitude: 0.0654 died
+DEFEATED: pride 84316
+pride id: 84316 number of members: 0,energy: 0,social attitude: 0.2651 died
+herd id: 54212 number of members: 0,energy: 0,social attitude: 0.3161 died
+herd id: 48623 number of members: 0,energy: 0,social attitude: 0.0689 died
+herd 41762 split
+herd 340 split
+herd 41998 split
+herd 66235 split
+herd 40038 split
+herd 32808 split
+herd 16200 split
+herd 28528 split
+herd 75544 split
+herd 27860 split
+pride id: 69403 number of members: 0,energy: 0,social attitude: 0.1928 died
+herd 27116 split
+herd id: 32999 number of members: 0,energy: 0,social attitude: 0.0488 died
+herd 52753 split
+herd id: 39974 number of members: 0,energy: 0,social attitude: 0.0839 died
+herd 29606 split
+herd id: 93873 number of members: 0,energy: 0,social attitude: 0.0839 died
+pride 11505 split
+pride 11505 split
+herd 95254 split
+herd 287776 split
+DAY: 706
+pride 47370 split
+pride 34175 split
+pride id: 77950 number of members: 0,energy: 0,social attitude: 0.0142 died
+pride id: 99852 number of members: 0,energy: 0,social attitude: 0.6123 died
+herd 41420 split
+herd 70070 split
+herd 64158 split
+herd 41762 split
+herd 41998 split
+herd 66235 split
+herd 1623 split
+herd 93758 split
+herd 16200 split
+herd 27594 split
+herd 75544 split
+herd 18149 split
+herd 48085 split
+herd 27116 split
+herd 27116 split
+herd 32955 split
+herd id: 52753 number of members: 0,energy: 0,social attitude: 0.0342 died
+herd 3549 split
+herd 68174 split
+vegetob at 20,28 with 0 cells died
+herd id: 95254 number of members: 0,energy: 0,social attitude: 0.1891 died
+herd 17102 split
+DAY: 707
+DEFEATED: pride 47370
+WINNER: pride 24403 with 6 members 
+pride 24403 split
+pride 24403 split
+DEFEATED: pride 14896
+WINNER: pride 9513 with 1 members 
+pride 79768 split
+herd 30398 split
+herd 63311 split
+pride 21522 split
+herd 80309 split
+herd 70070 split
+herd id: 64158 number of members: 0,energy: 0,social attitude: 0.0451 died
+herd id: 41762 number of members: 0,energy: 0,social attitude: 0.0677 died
+herd id: 41998 number of members: 0,energy: 0,social attitude: 0.1481 died
+herd 1623 split
+herd 26362 split
+herd 93758 split
+herd 32808 split
+herd 16200 split
+herd 38420 split
+herd id: 75544 number of members: 0,energy: 0,social attitude: 0.0497 died
+herd id: 48085 number of members: 0,energy: 0,social attitude: 0.0689 died
+herd 27116 split
+herd id: 32955 number of members: 0,energy: 0,social attitude: 0.0497 died
+herd 65958 split
+herd 29606 split
+herd 20048 split
+herd 68174 split
+herd 18003 split
+herd 287776 split
+DAY: 708
+pride 876021 split
+pride id: 47370 number of members: 0,energy: 0,social attitude: 0.3657 died
+DEFEATED: pride 88344
+WINNER: pride 24403 with 4 members 
+pride 12705 split
+DEFEATED: pride 44616
+WINNER: pride 9513 with 1 members 
+DEFEATED: pride 11949
+WINNER: pride 60397 with 2 members 
+pride 34175 split
+pride id: 14896 number of members: 0,energy: 0,social attitude: 0.4884 died
+pride 77590 split
+herd 30398 split
+herd 38666 split
+WINNER: pride 72605 with 1 members 
+pride 72605 split
+herd 340 split
+herd 1623 split
+herd 26362 split
+herd 32808 split
+herd 38420 split
+herd 46383 split
+herd 87188 split
+herd id: 65958 number of members: 0,energy: 0,social attitude: 0.0342 died
+herd 29606 split
+herd 85624 split
+herd 287776 split
+herd 287776 split
+pride 16754 split
+pride: 904362 attacked herd: 3649 and gained: 447
+DAY: 709
+pride id: 88344 number of members: 0,energy: 0,social attitude: 0.4522 died
+DEFEATED: pride 84474
+WINNER: pride 12705 with 3 members 
+pride id: 44616 number of members: 0,energy: 0,social attitude: 0.4196 died
+pride id: 11949 number of members: 0,energy: 0,social attitude: 0.1605 died
+pride id: 21522 number of members: 0,energy: 0,social attitude: 0.0827 died
+WINNER: pride 77637 with 1 members 
+pride id: 72605 number of members: 0,energy: 0,social attitude: 0.0827 died
+herd 340 split
+herd 28314 split
+herd 87361 split
+herd 69873 split
+herd 26362 split
+herd 23532 split
+herd 46383 split
+herd 27116 split
+herd 41338 split
+herd 51079 split
+DEFEATED: pride 49340
+WINNER: pride 16754 with 1 members 
+pride: 904362 attacked herd: 3649 and gained: 174
+DAY: 710
+pride 876021 split
+pride 55630 split
+pride 24403 split
+pride id: 84474 number of members: 0,energy: 0,social attitude: 0.1038 died
+DEFEATED: pride 9513
+pride 34175 split
+pride id: 9513 number of members: 0,energy: 0,social attitude: 0.3876 died
+pride id: 77590 number of members: 0,energy: 0,social attitude: 0.0827 died
+herd 82789 split
+herd 38666 split
+pride 77637 split
+herd id: 340 number of members: 0,energy: 0,social attitude: 0.2084 died
+herd 28314 split
+herd 69873 split
+herd 26362 split
+herd 44162 split
+herd id: 23532 number of members: 0,energy: 0,social attitude: 0.0325 died
+herd 38420 split
+herd 46383 split
+herd 33318 split
+herd 27116 split
+herd 43731 split
+herd 87188 split
+herd 41338 split
+herd 25670 split
+herd 287776 split
+herd 287776 split
+pride id: 49340 number of members: 0,energy: 0,social attitude: 0.0086 died
+DAY: 711
+DEFEATED: pride 75273
+pride id: 75273 number of members: 0,energy: 0,social attitude: 0.3142 died
+DEFEATED: pride 49319
+WINNER: pride 24403 with 2 members 
+pride 24403 split
+DEFEATED: pride 34175
+WINNER: pride 470 with 2 members 
+DEFEATED: pride 33724
+WINNER: pride 470 with 2 members 
+pride: 404466 attacked herd: 26128 and gained: 63
+herd 11719 split
+herd 82789 split
+herd 82789 split
+WINNER: pride 85622 with 1 members 
+herd 95977 split
+herd 69873 split
+herd 30978 split
+herd id: 44162 number of members: 0,energy: 0,social attitude: 0.0859 died
+herd 66635 split
+herd 84406 split
+herd 46383 split
+herd 33318 split
+herd 95013 split
+herd id: 43731 number of members: 0,energy: 0,social attitude: 0.1345 died
+herd 67145 split
+herd 87188 split
+herd 32457 split
+herd 25670 split
+herd 51079 split
+herd 89295 split
+DAY: 712
+pride id: 49319 number of members: 0,energy: 0,social attitude: 0.2836 died
+DEFEATED: pride 94979
+pride 79768 split
+pride id: 94979 number of members: 0,energy: 0,social attitude: 0.4295 died
+WINNER: pride 14357 with 1 members 
+pride id: 34175 number of members: 0,energy: 0,social attitude: 0.3207 died
+pride id: 33724 number of members: 0,energy: 0,social attitude: 0.6203 died
+herd id: 26128 number of members: 0,energy: 0,social attitude: 0.1282 died
+pride id: 77637 number of members: 0,energy: 0,social attitude: 0.0827 died
+herd 30978 split
+herd 92670 split
+herd 66635 split
+herd 84406 split
+herd 46383 split
+herd id: 95013 number of members: 0,energy: 0,social attitude: 0.0994 died
+herd 38420 split
+herd 16617 split
+herd id: 67145 number of members: 0,energy: 0,social attitude: 0.0994 died
+herd id: 51079 number of members: 0,energy: 0,social attitude: 0.0431 died
+herd 89295 split
+herd 287776 split
+herd 287776 split
+pride: 614658 attacked herd: 3649 and gained: 2290
+DAY: 713
+pride 60473 split
+pride 12705 split
+DEFEATED: pride 91377
+pride id: 79768 number of members: 0,energy: 0,social attitude: 0.4272 died
+herd 84416 split
+herd 82789 split
+herd 84416 split
+herd 26498 split
+herd 34409 split
+herd 64575 split
+herd id: 30978 number of members: 0,energy: 0,social attitude: 0.0994 died
+herd 92670 split
+herd 66635 split
+herd 799 split
+herd 84406 split
+herd id: 46383 number of members: 0,energy: 0,social attitude: 0.0117 died
+herd 40109 split
+herd 50132 split
+herd 38420 split
+herd id: 16617 number of members: 0,energy: 0,social attitude: 0.1096 died
+pride 78269 split
+herd 35175 split
+herd 25670 split
+herd 7802 split
+herd id: 3649 number of members: 0,energy: 0,social attitude: 0.2338 died
+DAY: 714
+WINNER: pride 12705 with 2 members 
+DEFEATED: pride 12705
+pride 51173 split
+pride id: 12705 number of members: 0,energy: 0,social attitude: 0.128 died
+DEFEATED: pride 68545
+pride 14357 split
+pride id: 68545 number of members: 0,energy: 0,social attitude: 0.3688 died
+WINNER: pride 96696 with 1 members 
+herd 82789 split
+herd 84416 split
+herd 38666 split
+pride 85622 split
+herd 4249 split
+herd 95977 split
+herd 54037 split
+herd id: 64575 number of members: 0,energy: 0,social attitude: 0.0117 died
+herd 71979 split
+herd 92670 split
+herd id: 66635 number of members: 0,energy: 0,social attitude: 0.0358 died
+herd id: 799 number of members: 0,energy: 0,social attitude: 0.2923 died
+herd 38420 split
+herd 26727 split
+herd 24743 split
+herd id: 35175 number of members: 0,energy: 0,social attitude: 0.0117 died
+herd 25670 split
+herd 36405 split
+herd 89295 split
+herd 287776 split
+herd 287776 split
+DAY: 715
+pride id: 91377 number of members: 0,energy: 0,social attitude: 0.088 died
+pride id: 14357 number of members: 0,energy: 0,social attitude: 0.4699 died
+DEFEATED: pride 97696
+pride id: 97696 number of members: 0,energy: 0,social attitude: 0.3991 died
+herd 58760 split
+herd 84416 split
+herd 38666 split
+pride id: 85622 number of members: 0,energy: 0,social attitude: 0.0811 died
+herd id: 4249 number of members: 0,energy: 0,social attitude: 0.0117 died
+herd 26498 split
+herd 95977 split
+herd 71979 split
+herd id: 92670 number of members: 0,energy: 0,social attitude: 0.1399 died
+herd 80933 split
+herd 95561 split
+herd 24743 split
+herd 7802 split
+herd 23803 split
+herd 51490 split
+herd id: 36405 number of members: 0,energy: 0,social attitude: 0.1581 died
+herd 76869 split
+herd 89295 split
+pride: 22500 attacked herd: 93423 and gained: 1235
+DAY: 716
+pride 876021 split
+DEFEATED: pride 5481
+pride 24403 split
+herd id: 58760 number of members: 0,energy: 0,social attitude: 0.0515 died
+herd 84416 split
+herd 59557 split
+herd 688 split
+herd id: 38666 number of members: 0,energy: 0,social attitude: 0.0546 died
+herd 26498 split
+herd 95977 split
+herd id: 80933 number of members: 0,energy: 0,social attitude: 0.057 died
+herd id: 95561 number of members: 0,energy: 0,social attitude: 0.0136 died
+herd 57153 split
+herd 23803 split
+herd 76869 split
+herd 40544 split
+pride 11505 split
+herd 287776 split
+DAY: 717
+WINNER: pride 876021 with 42 members 
+DEFEATED: pride 2893
+pride 24403 split
+pride id: 2893 number of members: 0,energy: 0,social attitude: 0.3598 died
+herd 84416 split
+herd id: 688 number of members: 0,energy: 0,social attitude: 0.0546 died
+herd 7927 split
+herd 31086 split
+herd 95977 split
+herd id: 57153 number of members: 0,energy: 0,social attitude: 0.0143 died
+herd 76869 split
+pride 11505 split
+herd 287776 split
+DAY: 718
+pride id: 5481 number of members: 0,energy: 0,social attitude: 0.4201 died
+herd 95321 split
+herd 84416 split
+herd 65110 split
+herd 36380 split
+herd 36380 split
+herd 31086 split
+herd 95977 split
+herd 38420 split
+DEFEATED: pride 23788
+WINNER: pride 32219 with 1 members 
+herd 23803 split
+herd 97241 split
+herd 29345 split
+herd 89295 split
+herd 81474 split
+herd 287776 split
+herd 287776 split
+DAY: 719
+DEFEATED: pride 24403
+WINNER: pride 35356 with 1 members 
+herd 95321 split
+herd 67953 split
+herd id: 65110 number of members: 0,energy: 0,social attitude: 0.0541 died
+herd 36380 split
+herd 21805 split
+herd id: 31086 number of members: 0,energy: 0,social attitude: 0.015 died
+herd 36286 split
+herd 84649 split
+herd 84649 split
+pride: 538915 attacked herd: 48150 and gained: 92
+herd 47243 split
+pride id: 23788 number of members: 0,energy: 0,social attitude: 0.1729 died
+herd id: 97241 number of members: 0,energy: 0,social attitude: 0.015 died
+herd 29345 split
+herd 11807 split
+herd 287776 split
+herd 75873 split
+DAY: 720
+pride 876021 split
+pride id: 24403 number of members: 0,energy: 0,social attitude: 0.015 died
+herd 95069 split
+herd 93192 split
+herd 12108 split
+herd 84416 split
+pride 67011 split
+herd id: 21805 number of members: 0,energy: 0,social attitude: 0.0157 died
+herd id: 36286 number of members: 0,energy: 0,social attitude: 0.0759 died
+herd 87971 split
+herd 84649 split
+herd id: 48150 number of members: 0,energy: 0,social attitude: 0.1844 died
+herd 29345 split
+herd 89295 split
+herd id: 11807 number of members: 0,energy: 0,social attitude: 0.1013 died
+herd 287776 split
+DAY: 721
+DEFEATED: pride 32381
+DEFEATED: pride 35356
+WINNER: pride 51173 with 1 members 
+herd id: 95069 number of members: 0,energy: 0,social attitude: 0.1829 died
+herd 93192 split
+herd 84416 split
+herd 63803 split
+pride id: 67011 number of members: 0,energy: 0,social attitude: 0.3385 died
+herd 11591 split
+herd id: 87971 number of members: 0,energy: 0,social attitude: 0.0165 died
+herd 84649 split
+herd 95977 split
+herd 92622 split
+herd 95095 split
+herd 89295 split
+herd 92003 split
+herd 6533 split
+herd 51665 split
+herd 287776 split
+DAY: 722
+pride id: 32381 number of members: 0,energy: 0,social attitude: 0.4069 died
+pride id: 35356 number of members: 0,energy: 0,social attitude: 0.0116 died
+herd id: 12108 number of members: 0,energy: 0,social attitude: 0.0541 died
+herd 93192 split
+herd id: 84416 number of members: 0,energy: 0,social attitude: 0.0596 died
+pride 44362 split
+herd 63803 split
+pride 5513 split
+herd 11591 split
+herd 59645 split
+herd 98705 split
+herd 95095 split
+herd 92003 split
+herd 42445 split
+vegetob at 44,31 with 0 cells died
+herd 42445 split
+DAY: 723
+herd 51270 split
+pride 87265 split
+herd 56182 split
+pride id: 44362 number of members: 0,energy: 0,social attitude: 0.0802 died
+herd 98705 split
+herd 95095 split
+herd 23803 split
+herd 94580 split
+herd 53043 split
+herd 96774 split
+herd 96774 split
+herd 28026 split
+herd 287776 split
+DAY: 724
+herd 47132 split
+herd 51270 split
+pride id: 87265 number of members: 0,energy: 0,social attitude: 0.0802 died
+pride 9826 split
+herd 42521 split
+herd 44365 split
+pride id: 5513 number of members: 0,energy: 0,social attitude: 0.3106 died
+herd 85189 split
+herd 85189 split
+herd id: 98705 number of members: 0,energy: 0,social attitude: 0.0182 died
+herd 34956 split
+herd 21236 split
+herd 58055 split
+herd id: 94580 number of members: 0,energy: 0,social attitude: 0.0182 died
+herd 96774 split
+herd 96774 split
+pride 71767 split
+herd 96774 split
+herd 287776 split
+herd 57776 split
+DAY: 725
+DEFEATED: pride 96696
+herd 47132 split
+pride 72498 split
+herd 56182 split
+herd 41595 split
+herd 44365 split
+herd id: 83496 number of members: 0,energy: 23,social attitude: 0.0182 died
+herd 23803 split
+herd 58055 split
+herd id: 73197 number of members: 0,energy: 23,social attitude: 0.0182 died
+herd 287776 split
+herd 29927 split
+herd 46305 split
+DAY: 726
+herd 67953 split
+herd 15938 split
+herd 29910 split
+pride 55925 split
+herd 14815 split
+herd id: 56182 number of members: 0,energy: 0,social attitude: 0.1964 died
+herd id: 12532 number of members: 0,energy: 0,social attitude: 0.0191 died
+herd 25480 split
+herd 85189 split
+herd 39252 split
+herd id: 58055 number of members: 0,energy: 0,social attitude: 0.1258 died
+herd 4478 split
+herd 96774 split
+vegetob at 43,30 with 0 cells died
+DAY: 727
+herd 29910 split
+pride id: 55925 number of members: 0,energy: 0,social attitude: 0.0794 died
+herd 63803 split
+pride 83905 split
+herd 85189 split
+pride: 538915 attacked herd: 42952 and gained: 29
+herd id: 42952 number of members: 0,energy: 34,social attitude: 0.6673 died
+herd 35048 split
+herd 35048 split
+herd 4478 split
+herd 51508 split
+herd 29927 split
+DAY: 728
+herd 29910 split
+herd 43497 split
+herd 12113 split
+pride id: 83905 number of members: 0,energy: 0,social attitude: 0.0787 died
+herd 85189 split
+herd 85189 split
+herd 37294 split
+herd 83890 split
+herd 26684 split
+herd id: 4478 number of members: 0,energy: 0,social attitude: 0.2448 died
+herd 46305 split
+DAY: 729
+herd 95274 split
+herd 3029 split
+herd 59855 split
+herd id: 43497 number of members: 0,energy: 0,social attitude: 0.048 died
+herd 85189 split
+herd 60207 split
+herd 35048 split
+herd 35048 split
+herd 15448 split
+herd id: 26684 number of members: 0,energy: 0,social attitude: 0.1366 died
+herd 29927 split
+DAY: 730
+herd 67953 split
+herd 32805 split
+herd 3029 split
+herd id: 59855 number of members: 0,energy: 0,social attitude: 0.048 died
+herd 12113 split
+herd 85189 split
+herd 35048 split
+herd 24548 split
+herd 29927 split
+herd 23004 split
+herd 23004 split
+pride 78269 split
+DAY: 731
+pride 876021 split
+pride 9826 split
+herd 70425 split
+pride 27397 split
+herd 97778 split
+herd 13498 split
+herd 37778 split
+herd 86500 split
+herd id: 24548 number of members: 0,energy: 0,social attitude: 0.2012 died
+herd 35048 split
+herd 20359 split
+herd 29927 split
+WINNER: pride 10884 with 1 members 
+DAY: 732
+pride 37157 split
+herd 16151 split
+WINNER: pride 4386 with 1 members 
+herd 50414 split
+herd id: 97778 number of members: 0,energy: 0,social attitude: 0.048 died
+pride 4386 split
+herd 85189 split
+herd id: 37778 number of members: 0,energy: 0,social attitude: 0.0821 died
+herd 35048 split
+herd 29927 split
+pride id: 78269 number of members: 0,energy: 0,social attitude: 0.1433 died
+DAY: 733
+pride 37157 split
+pride 26701 split
+pride 876021 split
+DEFEATED: pride 14033
+herd 32805 split
+DRAW: pride 75509 and pride 73478
+herd 45204 split
+pride id: 27397 number of members: 0,energy: 0,social attitude: 0.0779 died
+herd id: 50414 number of members: 0,energy: 0,social attitude: 0.0761 died
+herd 5766 split
+herd 16151 split
+pride id: 4386 number of members: 0,energy: 0,social attitude: 0.0763 died
+herd 10295 split
+herd 86500 split
+herd 87515 split
+herd 35048 split
+herd 20273 split
+herd 20273 split
+herd 71221 split
+DAY: 734
+pride 37157 split
+WINNER: pride 876021 with 39 members 
+pride 876021 split
+pride: 843518 attacked herd: 56698 and gained: 298
+pride id: 75509 number of members: 0,energy: 0,social attitude: 0.1412 died
+herd id: 45204 number of members: 0,energy: 0,social attitude: 0.0761 died
+herd 70425 split
+herd id: 5766 number of members: 0,energy: 0,social attitude: 0.048 died
+herd 5523 split
+herd id: 87515 number of members: 0,energy: 0,social attitude: 0.3714 died
+herd 20273 split
+herd 20273 split
+herd 29927 split
+DAY: 735
+pride 761 split
+DEFEATED: pride 37330
+pride 96184 split
+pride id: 37330 number of members: 0,energy: 0,social attitude: 0.503 died
+herd 32805 split
+pride id: 73478 number of members: 0,energy: 0,social attitude: 0.1412 died
+herd 97112 split
+herd 99531 split
+herd 15 split
+herd 70425 split
+herd 69130 split
+herd 41605 split
+herd 70953 split
+herd 5523 split
+herd 43896 split
+herd 23438 split
+herd 20273 split
+herd 29927 split
+DAY: 736
+pride 876021 split
+pride 876021 split
+pride 20944 split
+pride id: 96184 number of members: 0,energy: 0,social attitude: 0.1907 died
+herd 30703 split
+herd 97112 split
+pride 71944 split
+herd id: 70425 number of members: 0,energy: 0,social attitude: 0.0504 died
+herd 69130 split
+herd 41605 split
+herd 16151 split
+pride 33175 split
+herd id: 70953 number of members: 0,energy: 0,social attitude: 0.0839 died
+herd 5523 split
+herd id: 43896 number of members: 0,energy: 0,social attitude: 0.2663 died
+herd 35048 split
+herd id: 23438 number of members: 0,energy: 40,social attitude: 0.2446 died
+herd 20273 split
+herd 29927 split
+DAY: 737
+DEFEATED: pride 69047
+WINNER: pride 80495 with 1 members 
+pride 761 split
+herd 45854 split
+herd id: 97112 number of members: 0,energy: 0,social attitude: 0.0839 died
+WINNER: pride 82440 with 1 members 
+WINNER: pride 82440 with 1 members 
+pride: 82440 attacked herd: 99531 and gained: 25
+herd 88401 split
+herd id: 69130 number of members: 0,energy: 0,social attitude: 0.0839 died
+herd 58497 split
+herd 22187 split
+herd 73188 split
+herd 29927 split
+herd 29927 split
+DAY: 738
+pride id: 69047 number of members: 0,energy: 0,social attitude: 0.4885 died
+pride 59824 split
+pride 11595 split
+pride 876021 split
+pride 876021 split
+DEFEATED: pride 73599
+pride id: 73599 number of members: 0,energy: 0,social attitude: 0.2657 died
+pride 761 split
+pride 761 split
+pride id: 71944 number of members: 0,energy: 0,social attitude: 0.2795 died
+herd id: 88401 number of members: 0,energy: 0,social attitude: 0.0529 died
+herd 73856 split
+pride id: 33175 number of members: 0,energy: 0,social attitude: 0.0748 died
+pride 35518 split
+WINNER: pride 95272 with 1 members 
+pride 95272 split
+herd 89997 split
+herd id: 58497 number of members: 0,energy: 0,social attitude: 0.2306 died
+herd 75772 split
+herd 20273 split
+herd 20273 split
+pride 3102 split
+pride 715587 split
+DAY: 739
+pride 59824 split
+DEFEATED: pride 71452
+DEFEATED: pride 11595
+pride id: 11595 number of members: 0,energy: 0,social attitude: 0.4419 died
+pride 85547 split
+herd 71148 split
+herd 99531 split
+pride id: 35518 number of members: 0,energy: 0,social attitude: 0.074 died
+WINNER: pride 41353 with 1 members 
+WINNER: pride 41353 with 1 members 
+pride 41353 split
+herd 20273 split
+herd 73188 split
+herd 47598 split
+herd 80459 split
+herd 50117 split
+herd 29927 split
+pride 715587 split
+DAY: 740
+DEFEATED: pride 18563
+DEFEATED: pride 55804
+pride id: 55804 number of members: 0,energy: 0,social attitude: 0.4096 died
+pride 876021 split
+pride 876021 split
+herd 14061 split
+herd id: 71148 number of members: 0,energy: 0,social attitude: 0.0839 died
+herd 99531 split
+pride id: 41353 number of members: 0,energy: 0,social attitude: 0.0733 died
+WINNER: pride 98694 with 1 members 
+herd id: 73188 number of members: 0,energy: 0,social attitude: 0.2515 died
+herd 98101 split
+herd id: 50117 number of members: 0,energy: 0,social attitude: 0.2515 died
+herd 29927 split
+pride 715587 split
+DAY: 741
+DEFEATED: pride 2928
+pride 59824 split
+pride id: 2928 number of members: 0,energy: 0,social attitude: 0.0443 died
+DEFEATED: pride 40434
+DEFEATED: pride 70165
+WINNER: pride 876021 with 13 members 
+pride 876021 split
+pride id: 18563 number of members: 0,energy: 0,social attitude: 0.3697 died
+herd id: 14061 number of members: 0,energy: 0,social attitude: 0.0881 died
+herd 67674 split
+herd 38478 split
+herd 68094 split
+pride id: 95272 number of members: 0,energy: 0,social attitude: 0.074 died
+herd 29081 split
+herd 44761 split
+herd 29927 split
+herd 29927 split
+DAY: 742
+pride 876021 split
+pride 761 split
+pride 74273 split
+herd id: 38478 number of members: 0,energy: 0,social attitude: 0.0881 died
+pride: 843518 attacked herd: 95321 and gained: 983
+herd 34893 split
+pride 98694 split
+herd 47598 split
+pride: 22500 attacked herd: 93423 and gained: 862
+pride 715587 split
+DAY: 743
+pride 876021 split
+herd id: 9641 number of members: 0,energy: 0,social attitude: 0.106 died
+pride id: 98694 number of members: 0,energy: 0,social attitude: 0.0726 died
+pride 8375 split
+herd 68976 split
+herd 29927 split
+herd 81081 split
+DAY: 744
+pride 74545 split
+pride 74545 split
+pride 74545 split
+pride 876021 split
+pride 761 split
+pride: 636119 attacked herd: 32805 and gained: 1221
+herd 20395 split
+herd 52312 split
+herd 68094 split
+herd 43768 split
+pride id: 8375 number of members: 0,energy: 0,social attitude: 0.0718 died
+herd 68976 split
+herd 20273 split
+herd 20273 split
+herd 47598 split
+herd 47598 split
+herd 29927 split
+herd 29927 split
+DEFEATED: pride 71767
+DAY: 745
+DEFEATED: pride 71087
+DEFEATED: pride 9151
+DEFEATED: pride 61687
+WINNER: pride 74273 with 1 members 
+herd 52312 split
+herd 68094 split
+herd 43768 split
+herd 13547 split
+herd 59023 split
+herd 63776 split
+herd 72691 split
+herd 80074 split
+pride id: 71767 number of members: 0,energy: 0,social attitude: 0.0742 died
+vegetob at 32,48 with 0 cells died
+DAY: 746
+pride id: 61687 number of members: 0,energy: 0,social attitude: 0.3391 died
+pride: 404466 attacked herd: 96125 and gained: 25
+herd id: 96125 number of members: 0,energy: 37,social attitude: 0.02 died
+herd 72811 split
+herd id: 52312 number of members: 0,energy: 0,social attitude: 0.02 died
+herd id: 68094 number of members: 0,energy: 0,social attitude: 0.2143 died
+herd 43768 split
+pride: 59285 attacked herd: 43768 and gained: 19
+herd 30894 split
+herd 47598 split
+herd 29927 split
+herd 29927 split
+DAY: 747
+pride 83457 split
+pride 761 split
+herd 78585 split
+pride: 404466 attacked herd: 49027 and gained: 30
+herd id: 49027 number of members: 0,energy: 30,social attitude: 0.1743 died
+pride: 843518 attacked herd: 95321 and gained: 458
+herd id: 72811 number of members: 0,energy: 0,social attitude: 0.1743 died
+herd 32473 split
+herd id: 13547 number of members: 0,energy: 0,social attitude: 0.0936 died
+herd 43768 split
+herd 29250 split
+herd 76537 split
+pride: 538915 attacked herd: 64258 and gained: 47
+herd 47598 split
+herd 93423 split
+herd 78709 split
+pride: 22500 attacked herd: 78709 and gained: 544
+herd 15687 split
+DAY: 748
+DEFEATED: pride 64170
+WINNER: pride 74545 with 1 members 
+pride 83457 split
+pride 876021 split
+herd id: 78585 number of members: 0,energy: 0,social attitude: 0.1743 died
+pride: 843518 attacked herd: 95321 and gained: 201
+herd 98597 split
+herd id: 32473 number of members: 0,energy: 0,social attitude: 0.2143 died
+herd 8091 split
+herd id: 43768 number of members: 0,energy: 0,social attitude: 0.0914 died
+herd id: 29250 number of members: 0,energy: 0,social attitude: 0.0914 died
+herd id: 76537 number of members: 0,energy: 0,social attitude: 0.0914 died
+herd id: 64258 number of members: 0,energy: 0,social attitude: 0.284 died
+herd 47598 split
+herd 29927 split
+herd 29927 split
+herd 29927 split
+herd 60301 split
+herd id: 78709 number of members: 0,energy: 0,social attitude: 0.0476 died
+herd 15687 split
+DAY: 749
+pride id: 64170 number of members: 0,energy: 0,social attitude: 0.2796 died
+DEFEATED: pride 59762
+WINNER: pride 59824 with 2 members 
+pride 4890 split
+pride: 404466 attacked herd: 17305 and gained: 39
+herd id: 98597 number of members: 0,energy: 0,social attitude: 0.2143 died
+herd 74286 split
+herd 95208 split
+herd 47598 split
+herd 73078 split
+herd 29927 split
+herd 29927 split
+herd 60301 split
+herd 15687 split
+pride 715587 split
+DAY: 750
+DEFEATED: pride 59824
+pride id: 59824 number of members: 0,energy: 0,social attitude: 0.5384 died
+pride id: 59762 number of members: 0,energy: 0,social attitude: 0.269 died
+herd id: 17305 number of members: 0,energy: 0,social attitude: 0.7776 died
+herd id: 74286 number of members: 0,energy: 0,social attitude: 0.2143 died
+herd id: 95208 number of members: 0,energy: 0,social attitude: 0.0905 died
+herd 78195 split
+pride: 538915 attacked herd: 89997 and gained: 417
+herd 71546 split
+herd 29927 split
+herd 29927 split
+herd 79077 split
+herd 6411 split
+DAY: 751
+herd 49391 split
+herd 92898 split
+herd 24966 split
+herd id: 89997 number of members: 0,energy: 0,social attitude: 0.3238 died
+herd 29927 split
+herd 29927 split
+herd 79077 split
+herd 6411 split
+DAY: 752
+pride id: 53795 number of members: 0,energy: 24,social attitude: 0.1987 died
+herd id: 49391 number of members: 0,energy: 0,social attitude: 0.2143 died
+herd id: 92898 number of members: 0,energy: 0,social attitude: 0.2143 died
+herd id: 24966 number of members: 0,energy: 0,social attitude: 0.0896 died
+herd 78195 split
+herd 28757 split
+herd 28757 split
+herd id: 79077 number of members: 0,energy: 0,social attitude: 0.0497 died
+herd 6411 split
+pride 715587 split
+DAY: 753
+pride 34151 split
+herd 66824 split
+herd 47598 split
+herd 38733 split
+herd 29927 split
+herd 67649 split
+DAY: 754
+pride 60473 split
+herd id: 66824 number of members: 0,energy: 0,social attitude: 0.0887 died
+herd 78195 split
+herd 83291 split
+herd id: 38733 number of members: 0,energy: 0,social attitude: 0.0503 died
+herd 29927 split
+herd 90589 split
+DAY: 755
+pride 60473 split
+herd 29927 split
+herd 61518 split
+DEFEATED: pride 11854
+pride 715587 split
+pride id: 11854 number of members: 0,energy: 0,social attitude: 0.7587 died
+DAY: 756
+DEFEATED: pride 28993
+WINNER: pride 60473 with 20 members 
+herd 72581 split
+pride: 82440 attacked herd: 8091 and gained: 109
+herd 61518 split
+DAY: 757
+pride id: 28993 number of members: 0,energy: 0,social attitude: 0.4751 died
+herd 72581 split
+pride: 538915 attacked herd: 35048 and gained: 1298
+herd 29927 split
+herd 61518 split
+DAY: 758
+pride: 49262 attacked herd: 95321 and gained: 415
+herd 72581 split
+herd id: 8091 number of members: 0,energy: 1,social attitude: 0.3291 died
+herd id: 35048 number of members: 0,energy: 0,social attitude: 0.6836 died
+herd 90589 split
+herd 88922 split
+DAY: 759
+pride 60473 split
+pride 60473 split
+pride 876021 split
+herd id: 72581 number of members: 0,energy: 0,social attitude: 0.0978 died
+herd 13401 split
+herd 29927 split
+herd 36289 split
+pride 715587 split
+DAY: 760
+DEFEATED: pride 91514
+pride 60397 split
+pride 48453 split
+herd 95321 split
+herd 53490 split
+herd 13401 split
+herd 71403 split
+herd 90589 split
+herd 36289 split
+DAY: 761
+DEFEATED: pride 74273
+pride id: 74273 number of members: 0,energy: 0,social attitude: 0.3108 died
+DEFEATED: pride 16308
+WINNER: pride 9826 with 1 members 
+herd 95321 split
+herd id: 53490 number of members: 0,energy: 0,social attitude: 0.0978 died
+herd 29927 split
+DAY: 762
+pride 85806 split
+pride id: 16308 number of members: 0,energy: 0,social attitude: 0.1149 died
+herd 95321 split
+pride: 49262 attacked herd: 95321 and gained: 91
+herd 10046 split
+herd 72829 split
+herd id: 71403 number of members: 0,energy: 0,social attitude: 0.0978 died
+herd 49522 split
+herd 36289 split
+herd 36289 split
+pride 715587 split
+DEFEATED: pride 58630
+DAY: 763
+DEFEATED: pride 57632
+pride 876021 split
+WINNER: pride 4885 with 1 members 
+herd id: 95321 number of members: 0,energy: 0,social attitude: 0.1197 died
+herd id: 72829 number of members: 0,energy: 0,social attitude: 0.0968 died
+herd 76723 split
+herd 29927 split
+herd 29927 split
+herd 29927 split
+herd 29927 split
+pride 715587 split
+DAY: 764
+pride 80495 split
+pride 60473 split
+pride id: 57632 number of members: 0,energy: 0,social attitude: 0.3096 died
+pride: 49262 attacked herd: 18250 and gained: 94
+herd id: 18250 number of members: 0,energy: 148,social attitude: 0.1159 died
+herd 13401 split
+pride id: 9826 number of members: 0,energy: 2,social attitude: 0.0691 died
+herd id: 76723 number of members: 0,energy: 0,social attitude: 0.0959 died
+herd 49522 split
+herd 29927 split
+vegetob at 34,44 with 0 cells died
+DAY: 765
+DEFEATED: pride 3041
+herd 13401 split
+herd 63886 split
+herd 52509 split
+herd 52509 split
+herd 52509 split
+herd 52509 split
+pride 715587 split
+pride 715587 split
+DAY: 766
+pride 60473 split
+DEFEATED: pride 4885
+pride id: 4885 number of members: 0,energy: 0,social attitude: 0.1979 died
+herd 40246 split
+herd 22992 split
+herd id: 13401 number of members: 0,energy: 0,social attitude: 0.2893 died
+herd 25132 split
+pride 32219 split
+herd 29927 split
+herd 29927 split
+herd 29927 split
+DEFEATED: pride 1023
+pride 715587 split
+DEFEATED: pride 46430
+WINNER: pride 715587 with 34 members 
+DAY: 767
+pride 60397 split
+herd 22992 split
+herd id: 25132 number of members: 0,energy: 0,social attitude: 0.1809 died
+herd 31658 split
+herd 9217 split
+pride 80458 split
+pride id: 46430 number of members: 0,energy: 0,social attitude: 0.6249 died
+pride 715587 split
+DAY: 768
+herd 29927 split
+herd 26640 split
+herd 26640 split
+WINNER: pride 20246 with 1 members 
+WINNER: pride 20246 with 1 members 
+pride 20246 split
+DAY: 769
+DEFEATED: pride 79893
+WINNER: pride 60473 with 16 members 
+herd 57946 split
+herd 29927 split
+herd 46223 split
+herd 46223 split
+pride id: 80458 number of members: 0,energy: 0,social attitude: 0.1341 died
+WINNER: pride 64933 with 1 members 
+pride id: 20246 number of members: 0,energy: 0,social attitude: 0.1341 died
+pride 715587 split
+DAY: 770
+pride id: 79893 number of members: 0,energy: 0,social attitude: 0.2026 died
+herd 57946 split
+herd 5174 split
+herd 29927 split
+herd 36423 split
+herd 36423 split
+pride 715587 split
+DAY: 771
+DEFEATED: pride 83457
+pride id: 83457 number of members: 0,energy: 0,social attitude: 0.3007 died
+herd 33287 split
+herd 5174 split
+pride 470 split
+herd 29927 split
+herd 13803 split
+herd 13803 split
+pride 64933 split
+DAY: 772
+DEFEATED: pride 24200
+pride 60397 split
+pride id: 24200 number of members: 0,energy: 0,social attitude: 0.3078 died
+DEFEATED: pride 2615
+herd 29927 split
+herd 71957 split
+herd 71957 split
+pride id: 64933 number of members: 0,energy: 0,social attitude: 0.1341 died
+pride 33465 split
+pride 47053 split
+DAY: 773
+herd 29927 split
+herd 51946 split
+herd 51946 split
+WINNER: pride 30528 with 1 members 
+pride 715587 split
+DAY: 774
+DEFEATED: pride 60397
+herd 29927 split
+herd 17042 split
+pride id: 33465 number of members: 0,energy: 0,social attitude: 0.1341 died
+DAY: 775
+pride id: 60397 number of members: 0,energy: 0,social attitude: 0.3493 died
+pride 876021 split
+pride 77564 split
+herd 29927 split
+herd 73742 split
+pride 715587 split
+pride 47053 split
+DAY: 776
+herd 29927 split
+DAY: 777
+herd 29927 split
+herd 88039 split
+vegetob at 33,44 with 0 cells died
+pride 715587 split
+pride 47053 split
+DAY: 778
+herd 67806 split
+herd 67806 split
+pride 37690 split
+pride 715587 split
+pride 71600 split
+DAY: 779
+pride 761 split
+herd 29927 split
+herd 67806 split
+pride 79209 split
+DAY: 780
+pride 761 split
+pride 470 split
+herd 77838 split
+pride 715587 split
+pride 85064 split
+pride 71600 split
+DAY: 781
+pride 82465 split
+pride 761 split
+pride: 538915 attacked herd: 85252 and gained: 126
+pride 74672 split
+herd 29927 split
+herd 78127 split
+herd 78127 split
+pride 47053 split
+pride 31104 split
+pride 71600 split
+pride 71600 split
+DAY: 782
+DEFEATED: pride 80495
+WINNER: pride 13967 with 2 members 
+pride 31171 split
+herd id: 85252 number of members: 0,energy: 0,social attitude: 0.4481 died
+pride 470 split
+herd 29927 split
+herd 10818 split
+herd 10818 split
+pride 85364 split
+DEFEATED: pride 91986
+pride 71600 split
+pride 47053 split
+pride 47053 split
+DAY: 783
+pride id: 80495 number of members: 0,energy: 0,social attitude: 0.3003 died
+pride 11305 split
+pride 82465 split
+herd 29927 split
+herd 10818 split
+pride 715587 split
+DEFEATED: pride 54019
+DAY: 784
+pride 71716 split
+pride 876021 split
+herd 34786 split
+herd 34786 split
+pride 85364 split
+pride 69998 split
+pride 47053 split
+pride 59810 split
+pride 715587 split
+DAY: 785
+DEFEATED: pride 12301
+WINNER: pride 876021 with 7 members 
+herd 29927 split
+herd 94219 split
+herd 94219 split
+herd 94219 split
+pride 30528 split
+pride 85364 split
+pride 47053 split
+DAY: 786
+pride id: 12301 number of members: 0,energy: 0,social attitude: 0.2727 died
+herd 29927 split
+herd 94219 split
+WINNER: pride 43989 with 1 members 
+pride 37690 split
+pride 85364 split
+pride 715587 split
+pride 15035 split
+DAY: 787
+herd 29927 split
+herd 36595 split
+pride id: 30528 number of members: 0,energy: 0,social attitude: 0.1321 died
+pride 22789 split
+pride 58742 split
+DAY: 788
+DEFEATED: pride 23820
+WINNER: pride 1066 with 1 members 
+herd 29927 split
+herd 29927 split
+herd id: 69247 number of members: 0,energy: 3,social attitude: 0.0439 died
+pride 47053 split
+pride 47053 split
+DEFEATED: pride 61465
+pride 85364 split
+pride id: 61465 number of members: 0,energy: 0,social attitude: 0.2107 died
+DAY: 789
+pride id: 23820 number of members: 0,energy: 0,social attitude: 0.3189 died
+pride 505466 split
+pride 43989 split
+pride 37690 split
+pride 71600 split
+pride 23837 split
+DAY: 790
+pride 82465 split
+pride 20907 split
+herd 29927 split
+herd 29927 split
+WINNER: pride 71054 with 1 members 
+pride 34704 split
+pride 13190 split
+pride 71600 split
+pride 25225 split
+DAY: 791
+pride 505466 split
+pride id: 20907 number of members: 0,energy: 0,social attitude: 0.1363 died
+DEFEATED: pride 36318
+herd 29927 split
+pride id: 43989 number of members: 0,energy: 0,social attitude: 0.1261 died
+pride 20123 split
+pride 71600 split
+DEFEATED: pride 91615
+DAY: 792
+pride id: 36318 number of members: 0,energy: 0,social attitude: 0.0577 died
+herd 29927 split
+DEFEATED: pride 71466
+WINNER: pride 70258 with 1 members 
+WINNER: pride 71600 with 17 members 
+pride 71600 split
+pride id: 91615 number of members: 0,energy: 0,social attitude: 0.2167 died
+pride 94585 split
+DAY: 793
+pride 505466 split
+pride id: 71466 number of members: 0,energy: 0,social attitude: 0.234 died
+pride 47053 split
+pride 32372 split
+pride 32372 split
+pride 27095 split
+pride 715587 split
+pride 35332 split
+pride 71600 split
+pride 94585 split
+DAY: 794
+pride 58112 split
+pride 34167 split
+herd 29927 split
+DEFEATED: pride 505466
+pride: 35815 attacked herd: 62023 and gained: 2
+pride 32372 split
+DAY: 795
+DEFEATED: pride 58003
+WINNER: pride 82440 with 2 members 
+WINNER: pride 22500 with 15 members 
+WINNER: pride 22500 with 15 members 
+pride 88831 split
+pride id: 505466 number of members: 0,energy: 0,social attitude: 0.6119 died
+herd 29927 split
+pride 32372 split
+DAY: 796
+DEFEATED: pride 45063
+WINNER: pride 13967 with 2 members 
+pride id: 58003 number of members: 0,energy: 0,social attitude: 0.0978 died
+pride id: 34167 number of members: 0,energy: 0,social attitude: 0.2058 died
+WINNER: pride 29657 with 1 members 
+pride 29657 split
+herd 29927 split
+herd 29927 split
+pride 30726 split
+pride 32372 split
+pride 42913 split
+DAY: 797
+pride id: 45063 number of members: 0,energy: 0,social attitude: 0.268 died
+pride id: 88831 number of members: 0,energy: 0,social attitude: 0.2058 died
+WINNER: pride 20597 with 1 members 
+pride 20597 split
+DEFEATED: pride 71921
+WINNER: pride 30726 with 4 members 
+pride 45195 split
+pride 45195 split
+DAY: 798
+pride id: 29657 number of members: 0,energy: 0,social attitude: 0.2017 died
+WINNER: pride 55134 with 1 members 
+herd 29927 split
+herd 90221 split
+pride 37690 split
+pride id: 71921 number of members: 0,energy: 0,social attitude: 0.2907 died
+pride 94998 split
+pride 71600 split
+pride 94962 split
+DAY: 799
+pride id: 20597 number of members: 0,energy: 0,social attitude: 0.1977 died
+pride 71054 split
+DEFEATED: pride 42576
+WINNER: pride 37690 with 2 members 
+pride 45195 split
+pride 71600 split
+pride 94585 split
+DAY: 800
+herd 29927 split
+pride: 35815 attacked herd: 29927 and gained: 101
+herd 29927 split
+WINNER: pride 82200 with 1 members 
+pride id: 42576 number of members: 0,energy: 0,social attitude: 0.4867 died
+pride 45195 split
+SAVING WORLD AT DAY 800
+Simulation state saved
+DAY: 801
+pride 55134 split
+pride id: 71054 number of members: 0,energy: 0,social attitude: 0.1163 died
+DRAW: pride 37690 and pride 70258
+pride id: 70258 number of members: 0,energy: 25,social attitude: 0.229 died
+pride 30726 split
+DEFEATED: pride 40864
+pride id: 40864 number of members: 0,energy: 0,social attitude: 0.0562 died
+pride 45195 split
+pride 89527 split
+DAY: 802
+pride id: 71716 number of members: 0,energy: 15,social attitude: 0.1139 died
+herd 29927 split
+pride 82200 split
+pride 81809 split
+pride 71600 split
+pride 47213 split
+pride 74856 split
+DEFEATED: pride 16185
+pride 47213 split
+pride 45195 split
+pride 45195 split
+DAY: 803
+herd 29927 split
+herd 29927 split
+herd 29927 split
+DEFEATED: pride 81809
+pride 3510 split
+pride id: 81809 number of members: 0,energy: 0,social attitude: 0.4046 died
+pride 71600 split
+pride 77278 split
+pride 89527 split
+pride 68845 split
+DAY: 804
+pride 24213 split
+pride 3510 split
+pride id: 3510 number of members: 0,energy: -24,social attitude: 0.2429 died
+pride 715587 split
+pride 45195 split
+DAY: 805
+pride 14044 split
+herd 29927 split
+herd 52295 split
+herd 29927 split
+herd 29927 split
+pride id: 26126 number of members: 0,energy: -12,social attitude: 0.2429 died
+pride 71600 split
+pride 30588 split
+pride 47213 split
+DAY: 806
+pride: 49262 attacked herd: 92966 and gained: 512
+pride id: 89527 number of members: 0,energy: 88,social attitude: 0.2393 died
+pride 20950 split
+pride 47213 split
+DAY: 807
+herd id: 92966 number of members: 0,energy: 0,social attitude: 0.3625 died
+herd 29927 split
+pride 27210 split
+pride 47213 split
+pride 715587 split
+pride 23775 split
+DAY: 808
+DEFEATED: pride 59285
+herd 29927 split
+herd 26048 split
+pride 715587 split
+pride 47213 split
+DAY: 809
+pride id: 59285 number of members: 0,energy: 0,social attitude: 0.2251 died
+pride 30588 split
+DAY: 810
+pride 60473 split
+pride 24213 split
+herd 29927 split
+pride 715587 split
+pride 47213 split
+DAY: 811
+DEFEATED: pride 59607
+WINNER: pride 24213 with 1 members 
+pride id: 44535 number of members: 0,energy: 8,social attitude: 0.2298 died
+herd 29927 split
+herd 29927 split
+pride 47213 split
+pride 715587 split
+pride 97057 split
+DAY: 812
+pride id: 59607 number of members: 0,energy: 0,social attitude: 0.2298 died
+pride 1066 split
+pride 34151 split
+herd 2504 split
+DAY: 813
+pride 60473 split
+pride 60473 split
+DEFEATED: pride 78314
+WINNER: pride 1066 with 1 members 
+DEFEATED: pride 47450
+WINNER: pride 34151 with 1 members 
+herd 29927 split
+pride 47213 split
+DAY: 814
+DEFEATED: pride 72110
+pride 60473 split
+DEFEATED: pride 78242
+pride 60473 split
+pride id: 78242 number of members: 0,energy: 0,social attitude: 0.2644 died
+pride id: 78314 number of members: 0,energy: 0,social attitude: 0.1894 died
+pride id: 47450 number of members: 0,energy: 0,social attitude: 0.082 died
+herd 29927 split
+herd 29927 split
+herd 68923 split
+pride 16754 split
+pride 71600 split
+pride 30588 split
+pride 47213 split
+DAY: 815
+herd 2504 split
+herd 75176 split
+pride 67535 split
+DEFEATED: pride 31970
+WINNER: pride 328963 with 41 members 
+pride 47213 split
+pride 43112 split
+DAY: 816
+pride 6402 split
+pride 60473 split
+DEFEATED: pride 68055
+pride 13967 split
+pride 13967 split
+DEFEATED: pride 82465
+WINNER: pride 24213 with 1 members 
+herd 29927 split
+pride: 35815 attacked herd: 29927 and gained: 84
+herd 68923 split
+herd 62501 split
+pride id: 31970 number of members: 0,energy: 0,social attitude: 0.3662 died
+pride 30588 split
+pride 47213 split
+DAY: 817
+pride 5129 split
+WINNER: pride 60473 with 13 members 
+pride id: 82465 number of members: 0,energy: 0,social attitude: 0.0872 died
+herd 29927 split
+herd 2504 split
+herd 39510 split
+pride 328963 split
+pride 328963 split
+DAY: 818
+pride id: 68055 number of members: 0,energy: 0,social attitude: 0.1465 died
+pride 32219 split
+herd 2504 split
+pride id: 28905 number of members: 0,energy: 44,social attitude: 0.3984 died
+pride 71600 split
+pride 328963 split
+pride 328963 split
+DEFEATED: pride 89222
+pride id: 89222 number of members: 0,energy: 0,social attitude: 0.4609 died
+pride 328963 split
+pride 715587 split
+DAY: 819
+pride 60473 split
+pride 60473 split
+herd 29927 split
+pride: 22500 attacked herd: 93423 and gained: 658
+herd 2504 split
+DEFEATED: pride 16754
+pride 32600 split
+pride id: 16754 number of members: 0,energy: 0,social attitude: 0.0038 died
+pride 71600 split
+pride 328963 split
+DAY: 820
+DEFEATED: pride 12106
+pride 99698 split
+pride id: 12106 number of members: 0,energy: 0,social attitude: 0.2706 died
+herd 29927 split
+herd 29927 split
+herd 29927 split
+herd 2504 split
+herd 83628 split
+pride id: 32600 number of members: 0,energy: 0,social attitude: 0.0051 died
+DEFEATED: pride 62467
+pride 71426 split
+pride id: 62467 number of members: 0,energy: 0,social attitude: 0.405 died
+DEFEATED: pride 9752
+DEFEATED: pride 31614
+pride id: 9752 number of members: 0,energy: 0,social attitude: 0.5646 died
+WINNER: pride 9450 with 5 members 
+pride 715587 split
+DAY: 821
+pride 60473 split
+pride id: 99698 number of members: 0,energy: 0,social attitude: 0.3473 died
+herd 27897 split
+herd 82338 split
+pride id: 71426 number of members: 0,energy: 0,social attitude: 0.479 died
+pride 27080 split
+DEFEATED: pride 27080
+pride id: 31614 number of members: 0,energy: 0,social attitude: 0.5547 died
+pride 715587 split
+DAY: 822
+herd 29927 split
+herd 29927 split
+herd 29927 split
+herd 10141 split
+herd 2504 split
+herd 33904 split
+herd 83628 split
+herd 60630 split
+pride id: 27080 number of members: 0,energy: 0,social attitude: 0.4311 died
+pride 67902 split
+pride 715587 split
+pride 72768 split
+pride 72768 split
+pride 47213 split
+DAY: 823
+pride 60473 split
+herd 10141 split
+herd 33904 split
+herd 83628 split
+pride 715587 split
+pride 32608 split
+DEFEATED: pride 77293
+pride id: 77293 number of members: 0,energy: 0,social attitude: 0.3719 died
+DEFEATED: pride 25583
+DAY: 824
+herd 29927 split
+herd 83628 split
+herd 56892 split
+pride 715587 split
+pride 67902 split
+pride 715587 split
+pride 72768 split
+DAY: 825
+DEFEATED: pride 41656
+pride 70855 split
+pride id: 41656 number of members: 0,energy: 0,social attitude: 0.1797 died
+herd 83628 split
+herd 756 split
+herd 756 split
+DEFEATED: pride 87962
+WINNER: pride 72768 with 12 members 
+pride 47213 split
+DAY: 826
+DEFEATED: pride 6402
+pride id: 6402 number of members: 0,energy: 0,social attitude: 0.3078 died
+DEFEATED: pride 95149
+WINNER: pride 404466 with 48 members 
+pride id: 70855 number of members: 0,energy: 0,social attitude: 0.3706 died
+herd 29927 split
+herd 29927 split
+herd 27897 split
+pride 67902 split
+pride id: 87962 number of members: 0,energy: 0,social attitude: 0.3277 died
+pride 47213 split
+pride 21922 split
+pride 715587 split
+DAY: 827
+pride 60473 split
+pride id: 95149 number of members: 0,energy: 0,social attitude: 0.2881 died
+herd 29927 split
+herd 29927 split
+pride 71600 split
+pride 72768 split
+pride 47213 split
+DAY: 828
+pride 60473 split
+DEFEATED: pride 90566
+WINNER: pride 31678 with 1 members 
+pride 404466 split
+pride: 538915 attacked herd: 20273 and gained: 2118
+herd 29927 split
+herd 29927 split
+pride 23298 split
+pride 72768 split
+DAY: 829
+pride id: 90566 number of members: 0,energy: 0,social attitude: 0.1225 died
+DEFEATED: pride 63462
+pride 404466 split
+herd 29927 split
+herd 87045 split
+herd 756 split
+pride 23298 split
+DAY: 830
+DEFEATED: pride 31678
+WINNER: pride 60473 with 6 members 
+pride 60473 split
+pride 404466 split
+pride 404466 split
+herd 29927 split
+herd 29927 split
+herd 29927 split
+vegetob at 15,32 with 0 cells died
+pride 74089 split
+pride 715587 split
+DAY: 831
+pride id: 31678 number of members: 0,energy: 0,social attitude: 0.2546 died
+herd 97314 split
+pride 9450 split
+pride 72768 split
+pride 44541 split
+DAY: 832
+pride 60473 split
+pride 404466 split
+DEFEATED: pride 76361
+pride id: 76361 number of members: 0,energy: 0,social attitude: 0.4548 died
+herd 29927 split
+herd 17139 split
+herd 41790 split
+pride 11659 split
+pride 23298 split
+pride 23298 split
+DEFEATED: pride 98960
+pride 92205 split
+vegetob at 30,45 with 0 cells died
+pride 44541 split
+pride 715587 split
+DAY: 833
+DEFEATED: pride 81224
+DEFEATED: pride 32219
+pride id: 32219 number of members: 0,energy: 0,social attitude: 0.0933 died
+herd 29927 split
+herd 86763 split
+WINNER: pride 23298 with 11 members 
+pride 23298 split
+pride 47213 split
+pride 47213 split
+DEFEATED: pride 11754
+DEFEATED: pride 34781
+DEFEATED: pride 44541
+WINNER: pride 92741 with 1 members 
+DAY: 834
+pride 60473 split
+pride 404466 split
+pride 404466 split
+pride id: 98960 number of members: 0,energy: 0,social attitude: 0.4158 died
+pride 23298 split
+pride 72768 split
+pride 16483 split
+DEFEATED: pride 24009
+pride 49953 split
+pride id: 24009 number of members: 0,energy: 0,social attitude: 0.4325 died
+DEFEATED: pride 9386
+pride 47213 split
+pride 47213 split
+pride 47213 split
+pride id: 28734 number of members: 0,energy: 34,social attitude: 0.3287 died
+pride id: 34781 number of members: 0,energy: 0,social attitude: 0.4843 died
+DAY: 835
+DEFEATED: pride 89342
+WINNER: pride 60473 with 2 members 
+pride 404466 split
+pride 24854 split
+pride 56801 split
+DEFEATED: pride 61133
+WINNER: pride 636119 with 49 members 
+herd 29927 split
+herd 82185 split
+pride 72768 split
+DEFEATED: pride 26134
+WINNER: pride 72768 with 9 members 
+pride 72768 split
+pride 72768 split
+WINNER: pride 49953 with 1 members 
+pride id: 44541 number of members: 0,energy: 0,social attitude: 0.3718 died
+DAY: 836
+pride id: 89342 number of members: 0,energy: 0,social attitude: 0.4427 died
+DEFEATED: pride 66668
+WINNER: pride 404466 with 41 members 
+pride 761 split
+DEFEATED: pride 83084
+pride 48605 split
+pride id: 48605 number of members: 0,energy: 30,social attitude: 0.0482 died
+pride id: 61133 number of members: 0,energy: 0,social attitude: 0.0855 died
+pride 64330 split
+DEFEATED: pride 13318
+pride 23298 split
+WINNER: pride 46995 with 1 members 
+pride 92205 split
+pride id: 26134 number of members: 0,energy: 0,social attitude: 0.3553 died
+DEFEATED: pride 99336
+pride 47213 split
+pride 16483 split
+pride id: 9386 number of members: 0,energy: 0,social attitude: 0.4993 died
+DAY: 837
+pride 45204 split
+DEFEATED: pride 89623
+pride 404466 split
+pride id: 89623 number of members: 0,energy: 0,social attitude: 0.2622 died
+pride id: 66668 number of members: 0,energy: 0,social attitude: 0.3562 died
+pride 22843 split
+WINNER: pride 761 with 6 members 
+pride id: 61429 number of members: 0,energy: -4,social attitude: 0.0482 died
+herd 29927 split
+herd 88965 split
+pride id: 13318 number of members: 0,energy: 0,social attitude: 0.459 died
+pride 92205 split
+pride 47213 split
+pride 49953 split
+DAY: 838
+DEFEATED: pride 26475
+pride 13967 split
+pride id: 80628 number of members: 0,energy: -33,social attitude: 0.2288 died
+pride 13967 split
+DEFEATED: pride 24123
+DEFEATED: pride 404466
+WINNER: pride 22843 with 11 members 
+pride 22843 split
+pride id: 83084 number of members: 0,energy: 0,social attitude: 0.0532 died
+pride 88951 split
+DEFEATED: pride 24213
+pride 761 split
+pride id: 24213 number of members: 0,energy: 0,social attitude: 0.1936 died
+pride 24854 split
+pride 23298 split
+pride 47213 split
+pride 47213 split
+DEFEATED: pride 98652
+WINNER: pride 70829 with 1 members 
+pride 98016 split
+DAY: 839
+pride id: 26475 number of members: 0,energy: 0,social attitude: 0.2288 died
+WINNER: pride 13967 with 2 members 
+pride id: 404466 number of members: 0,energy: 0,social attitude: 0.4323 died
+pride 88951 split
+pride 24854 split
+DEFEATED: pride 87330
+WINNER: pride 4212 with 1 members 
+pride 761 split
+herd 29927 split
+vegetob at 42,35 with 0 cells died
+DEFEATED: pride 86095
+pride 47213 split
+pride id: 98652 number of members: 0,energy: 0,social attitude: 0.4798 died
+pride 92398 split
+DEFEATED: pride 42568
+pride id: 42568 number of members: 0,energy: 0,social attitude: 0.3484 died
+DAY: 840
+pride id: 24123 number of members: 0,energy: 0,social attitude: 0.1806 died
+pride id: 87330 number of members: 0,energy: 0,social attitude: 0.3571 died
+DEFEATED: pride 48722
+WINNER: pride 761 with 2 members 
+pride id: 86095 number of members: 0,energy: 0,social attitude: 0.4161 died
+pride 23298 split
+pride 98016 split
+pride 86490 split
+DAY: 841
+DEFEATED: pride 4212
+pride id: 4212 number of members: 0,energy: 0,social attitude: 0.3796 died
+pride id: 48722 number of members: 0,energy: 0,social attitude: 0.0505 died
+herd 29927 split
+pride 9450 split
+pride 9450 split
+pride 47213 split
+pride id: 70829 number of members: 0,energy: 27,social attitude: 0.2424 died
+pride 98016 split
+DAY: 842
+pride 64323 split
+pride 17565 split
+pride id: 70994 number of members: 0,energy: 35,social attitude: 0.2424 died
+DEFEATED: pride 4268
+WINNER: pride 9450 with 5 members 
+pride 9450 split
+DEFEATED: pride 40809
+DEFEATED: pride 9450
+WINNER: pride 92205 with 9 members 
+DAY: 843
+DEFEATED: pride 88281
+WINNER: pride 13967 with 2 members 
+DEFEATED: pride 17565
+pride 22843 split
+DEFEATED: pride 88951
+pride 761 split
+herd 29927 split
+pride id: 4268 number of members: 0,energy: 0,social attitude: 0.4665 died
+pride id: 40809 number of members: 0,energy: 0,social attitude: 0.5428 died
+pride 47213 split
+pride 47213 split
+DEFEATED: pride 25399
+WINNER: pride 47213 with 17 members 
+pride 47213 split
+vegetob at 29,44 with 0 cells died
+DAY: 844
+pride id: 88281 number of members: 0,energy: 0,social attitude: 0.2617 died
+pride 22843 split
+pride id: 9450 number of members: 0,energy: 0,social attitude: 0.3653 died
+pride id: 25399 number of members: 0,energy: 0,social attitude: 0.622 died
+pride 47213 split
+pride 47213 split
+pride 47213 split
+pride 23215 split
+DAY: 845
+pride 23594 split
+pride 99704 split
+pride 23594 split
+pride: 609408 attacked herd: 93423 and gained: 900
+herd 29927 split
+pride 47213 split
+pride 30682 split
+DAY: 846
+DEFEATED: pride 5540
+pride id: 5540 number of members: 0,energy: 0,social attitude: 0.3786 died
+DEFEATED: pride 56549
+pride 23594 split
+pride id: 56549 number of members: 0,energy: 0,social attitude: 0.3234 died
+DEFEATED: pride 23594
+pride 92205 split
+pride 81326 split
+pride: 614658 attacked herd: 56892 and gained: 1307
+pride 72768 split
+pride 30682 split
+pride 98016 split
+DAY: 847
+pride id: 81991 number of members: 0,energy: -4,social attitude: 0.3748 died
+pride id: 23594 number of members: 0,energy: 0,social attitude: 0.4446 died
+herd 29927 split
+pride 92205 split
+pride 49846 split
+DEFEATED: pride 34959
+pride 47213 split
+pride id: 34959 number of members: 0,energy: 0,social attitude: 0.7046 died
+pride 72768 split
+pride 67601 split
+DEFEATED: pride 62546
+pride 30682 split
+pride id: 62546 number of members: 0,energy: 0,social attitude: 0.5184 died
+pride 47368 split
+DAY: 848
+DEFEATED: pride 88575
+pride id: 88575 number of members: 0,energy: 0,social attitude: 0.3477 died
+pride 22234 split
+pride 92205 split
+pride 49846 split
+pride 980 split
+pride 72768 split
+DAY: 849
+DEFEATED: pride 83077
+herd 29927 split
+pride 19716 split
+DEFEATED: pride 31263
+WINNER: pride 23298 with 5 members 
+pride 21541 split
+pride 65987 split
+DAY: 850
+DEFEATED: pride 22234
+pride 31143 split
+pride 92205 split
+pride id: 31263 number of members: 0,energy: 0,social attitude: 0.2945 died
+pride 47213 split
+pride 72768 split
+pride 72768 split
+pride 98016 split
+DAY: 851
+DEFEATED: pride 19018
+herd 29927 split
+DEFEATED: pride 88825
