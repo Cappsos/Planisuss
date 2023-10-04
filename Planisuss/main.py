@@ -31,6 +31,18 @@ from settings import *
 
 import world_plotter
 
+# TODO build a function to convert temp placeholder in numpy arrays that 
+#       contain the correct rg value  to show the world in the animation
+#       also check if its actually necessary the third array, i think yes
+
+
+
+
+
+
+
+
+
 
 
 
@@ -126,6 +138,14 @@ def move_creature(creature, x, y):
             creature.y = y
         
         
+        
+        
+  
+        
+        
+    
+
+
 
 def move_creature_randomly(creature):
     """move creature of one position in a random direction"""
@@ -389,10 +409,10 @@ def struggle_pride(creature):
            
  
 def vegetob_expansion(creature, world_grid):
-    """if vegetob has max cell density, it has a chance to generate a new vegetob in a close cell"""
+    """if vegetob has max cell density, it has a change to generate a new vegetob in a close cell"""
     if creature.cell_density == creature.max_cell_density:
-        # one in a 100 chance to expand
-        if random.randint(0, 100) != 5:
+        # one in a 200 chance to expand
+        if random.randint(0, 200) != 5:
             return
         
         # if pick a random coordinate in the 3x3 square around the vegetob, if it is empty, create a new vegetob
@@ -534,10 +554,7 @@ def world_population_iteration(world_grid,date):
                         day_final_actions(creature,date)
                         
                 
-def exit_program():
-    print("exiting program")
-    event_logger.write_event_to_file("closing program", close_file = True)
-    sys.exit()
+
 
                 
                 
@@ -606,13 +623,7 @@ def count_alive_creatures(frame):
                         herbast_counter[0] += len(creature.group_members)
     
     
-    # if one of the species is extinct, terminate the simulation
-    if vegetob_counter[0] == 0 or herbast_counter[0] == 0 or cariz_counter[0] == 0:
-        event_logger.write_event_to_file(f"DAY {day} a species is extinct")
-        event_logger.write_event_to_file(f"cariz: {cariz_counter[0]} herbast: {herbast_counter[0]} vegetob: {vegetob_counter[0]}")
-        event_logger.write_event_to_file(f"Terminating simulation")
-        exit_program()
-
+    
     carviz_alive_global.append(cariz_counter[0])
     herbast_alive_global.append(herbast_counter[0])
     vegetob_alive_global.append(vegetob_counter[0])
@@ -784,17 +795,18 @@ def plot_miscellaneous_information(frame):
     
     # check if there is a miscmatch between the day list dimension and the other lists
     # just use a random one, they should all have the same dimension
-    # this is a check done to avoid shape errors during plotting usually occured when pausing the simulation
-    difference = len(day_list_global) - len(pride_average_intelligence_global)
-    for i in range(abs(difference)):
-        if difference > 0:
+    difference = len(day_list_global) - len(pride_average_energy_global)
+    if difference != 0:
+        for i in range(abs(difference)):
             # needed because there are interferecnes with the pause function
-            # so if there is a dimension mismatch compute again the lits 
-            day_list_global.pop()
-        
-        if difference < 0:
-            # not patching until it occurs to avoid overocomplications
-            print("new bug, check the code")
+            # so if there is a mismatch i riarrange the lists
+            pride_average_energy_global.pop()
+            herd_average_energy_global.pop()
+            vegetob_average_density_global.pop()
+            pride_average_intelligence_global.pop()
+            herd_average_intelligence_global.pop()
+            pride_average_social_attitude_global.pop()
+            herd_average_social_attitude_global.pop()
             
             
     
@@ -884,7 +896,10 @@ def plot_cell_information(frame):
     ax4[1].set_xlabel("Day")
     ax4[1].set_ylabel("Number of creatures")
 
-
+def exit_program():
+    print("exiting program")
+    event_logger.write_event_to_file("closing program", close_file = True)
+    sys.exit()
 
 
         
@@ -1021,10 +1036,9 @@ if __name__ == "__main__":
     fig4,ax4 = plt.subplots(nrows= 1, ncols= 2,num='Cell information')
     
     # order plot figures on the screen
-    fig.canvas.manager.window.wm_geometry("+0+0")
-    fig2.canvas.manager.window.wm_geometry("+0+500")
-    fig3.canvas.manager.window.wm_geometry("+1000+0")
-    fig4.canvas.manager.window.wm_geometry("+1000+500")
+    mngr = plt.get_current_fig_manager()
+    mngr.window.setGeometry(50,100,640, 545)
+    
     
 
     #day list for plotting
